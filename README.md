@@ -137,10 +137,19 @@ ArmyRTS_CHINESE/    插件源码（C++，MSVC v141）
 Tools/              解包打包 + 字库生成
 translate/          翻译分区与合并结果
 asi/                ASI Loader 代理 DLL
-build_full/         字库页 + 索引 + 中文 english.dat
+docs/               逆向工程技术发现
 LICENSES/           第三方许可
-_trash/             废弃脚本与残留（不参与构建，未删除仅归档）
 ```
+
+以下目录**不在版本库内**（见 `.gitignore`），由脚本生成或属本地归档：
+
+| 目录 | 内容 | 生成方式 |
+|---|---|---|
+| `build_full/` | 字库页 + 索引 + 中文 `english.dat` | `python _build_full.py` |
+| `Resource_EN/` | 原版资源备份（104 文件） | 手工备份，属游戏资产 |
+| `_trash/` | 废弃脚本与探查残留 | 归档，不参与构建 |
+
+部署时 `build_full/` 是唯一来源，`_deploy_full.py` 直接从它取文件。
 
 ---
 

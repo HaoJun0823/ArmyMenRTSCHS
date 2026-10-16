@@ -25,9 +25,8 @@ Resource_EN/
 # 废弃脚本与残留：按用户约定只归档不删除，但不进版本库
 _trash/
 
-# 字库中间产物（由 _build_full.py 重新生成）
-build_full/*.fff
-build_full/chs_index.bin
+# 字库中间产物与构建输出：整个目录不入库，由 _build_full.py 重新生成
+build_full/
 
 # 单字探针残留
 probe1/
