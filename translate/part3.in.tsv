@@ -1,0 +1,203 @@
+game.side.army.description	Army
+game.side.insect.description	Insect
+game.info.oos.playerkick	The host has detected that your game has\r\ndiverged from the other players. \r\nUnfortunately you are unable to continue\r\nplaying in this game.
+game.info.oos.title	Out of Sync
+game.info.oos.playerother	{1:s} was out of sync and has been kicked from the game
+game.info.data	Detected that '{1:s}' has different data.
+game.info.custommission	Custom Mission
+game.messages.eliminated_computer	An enemy computer opponent has been eliminated.
+game.messages.team_gaveresource	You gave {2:d} {3:s} to {1:s}
+game.messages.team_givenresource	{1:s} just gave you {2:d} {3:s}
+game.messages.team_gaveunits	You gave {1:s} {2:d} unit(s)
+game.messages.eliminated_human	{1:s} has been eliminated.
+game.messages.team_givenunits	{1:s} just gave you {2:d} unit(s)
+game.resources.electricity	Electricity
+game.resources.plastic	Plastic
+game.client.prereq.unavailable	Requires a {1:s}
+game.client.prereq.available	
+game.client.events.construct.secondary	Press the L2 or R2 buttons to rotate the building
+game.client.events.construct.primary	Use < and > to rotate the building
+game.client.events.noconstruct	Cannot build here
+game.client.events.setrally	Set the rally point for this building
+game.client.events.walldeactivate	Disconnect barbed wire
+game.client.events.wallactivate	Connect barbed wire
+game.client.events.wallnoactivate	Cannot connect these posts
+game.client.events.recycle	Melt this building
+game.client.events.useoffmap	Drop the Air Strike
+game.client.hud.tasks.construct.process	Building...
+game.client.hud.tasks.construct.paused	Paused
+game.client.hud.tasks.constructor.process	{1:s} {2:.0f}%
+game.client.hud.tasks.constructor.offmap	{1:s} Ready
+game.client.hud.tasks.constructor.paused	Paused
+game.client.hud.tasks.upgrade.process	Upgrading in progress...
+game.client.hud.tasks.upgrade.paused	Upgrading Paused
+game.client.hud.tasks.recycle.process	Melting...
+game.client.hud.sourcedepleted	Source Depleted
+game.client.hud.upgrade	Upgrade Available
+game.client.construction.queue	Queue
+game.client.construction.build	Build
+game.client.construction.selectairstrike	Select an airstrike to call in.
+game.client.construction.upgraded	This building is being upgraded.
+game.client.construction.bulldozerconstructing	This Bulldozer is constructing a building.
+game.client.construction.jump	Jump
+game.client.construction.remove	Remove
+game.client.construction.select	Select
+game.client.construction.title-multiple	{1:s} ({2:d})
+game.client.construction.releasetosetrally	Release R1 to set the rally location.
+game.client.construction.underconstruction	This building is under construction.
+game.client.construction.title-single	{1:s}
+game.client.construction.upgrade	Upgrade
+game.client.construction.selectunit	Select a unit to build.
+game.client.construction.setrallypoint	Set Rally Point
+game.client.construction.releasetoplace	Release R1 to place this building.
+game.client.construction.selectbuilding	Select a building to construct.
+game.client.context.recycle	Melt
+game.savegame.description	{1:s} - {2:s} ({3:d}:{4:.2d}:{5:.2d})
+game.savegame.changed	Caution!\r\nThe memory card (PS2) may have been changed. If you proceed you may overwrite another Army Men RTS save game!
+game.types.kitchen.prop.chemfactory	Chemical Weapons Factory
+game.types.kitchen.prop.chemfactory_bottle	Chemical Silo
+game.types.army.strike.magnifyingglass	Magnifying Glass
+game.types.army.strike.bombingrun	Bombing Run
+game.types.army.strike.paratroopers	Paratroopers
+game.types.army.building.guardtower	Guard Tower
+game.types.army.building.crates_group	Ammo Crates
+game.types.army.building.aagun	AA Gun
+game.types.army.building.pillbox	Pillbox
+game.types.army.building.drum_group	Drums
+game.types.army.building.jerrycans_group	Jerry Cans
+game.types.army.building.bwpost	Barbed Wire Post
+game.types.army.building.hq3	Super Duper HQ
+game.types.army.building.hq2	Super HQ
+game.types.army.building.hq1	HQ
+game.types.army.building.resourcedepot	Resource Depot
+game.types.army.building.thumbtacks	Thumbtacks
+game.types.army.building.bwpost-leg	Table Leg
+game.types.army.building.mine	Mine
+game.types.army.building.barracks1	Barracks
+game.types.army.building.gluebomb	Glue Bomb
+game.types.army.building.barracks2	Super Barracks
+game.types.army.building.garage1	Garage
+game.types.army.building.garage2	Super Garage
+game.types.army.unit.thick	Thick
+game.types.army.unit.bullseye	Bullseye
+game.types.army.unit.mortar	Mortar Man
+game.types.army.unit.bulldozer	Bulldozer
+game.types.army.unit.shrap	Shrap
+game.types.army.unit.scorch	Scorch
+game.types.army.unit.riff	Riff
+game.types.army.unit.flame	Flamethrower
+game.types.army.unit.sniper	Sniper
+game.types.army.unit.tank	Tank
+game.types.army.unit.grenadier	Grenadier
+game.types.army.unit.flagcapturer	Flag Capturer
+game.types.army.unit.paratrooper-parachute	Paratrooper-parachute
+game.types.army.unit.machinegunner	Machine Gunner
+game.types.army.unit.chinook	Chinook
+game.types.army.unit.minejeep	Minelayer
+game.types.army.unit.flag	Flag
+game.types.army.unit.hoover	Hoover
+game.types.army.unit.grunt	Grunt
+game.types.army.unit.radio	Radio Operator
+game.types.army.unit.truck	Convoy Truck
+game.types.army.unit.dumdum	DumDum
+game.types.army.unit.chopper	Chopper
+game.types.army.unit.medicjeep	Medic
+game.types.army.unit.paratrooper	Paratrooper
+game.types.army.unit.sarge	Sarge
+game.types.army.unit.vikki	Vikki
+game.types.army.unit.dumptruck	Dump Truck
+game.types.army.unit.bazooka	Bazooka Man
+game.types.army.unit.halftrack	Half-Track
+game.types.army.unit.minesweeper	Mine Sweeper
+game.types.resource.flashlight	Flashlight
+game.types.resource.bonetrain	Train Wreck
+game.types.resource.cowstand	Cow
+game.types.resource.9volt-standing	Battery
+game.types.resource.vhschef	VHS Tape
+game.types.resource.controlbox	Control Box
+game.types.resource.controller	Controller
+game.types.resource.torch	Torch
+game.types.resource.vhsblintz	VHS Tape
+game.types.resource.watergun	Water Gun
+game.types.resource.rubberduck	Rubber Duck
+game.types.resource.frisbee	Airdisk
+game.types.resource.bikinipeachy	Bikini Peachy
+game.types.resource.cow	Cow
+game.types.resource.9volt	Battery
+game.types.resource.punkpeachy	Punk Peachy
+game.types.resource.measuringcups	Measuring Cups
+game.types.resource.dumptruckside	Toy Truck
+game.types.resource.spacealien	Space Alien
+game.types.resource.battery	Battery
+game.types.resource.pigstand	Pig
+game.types.resource.powerdrill	Power Drill
+game.types.resource.lamp	Garden Lamp
+game.types.resource.peacepeachy	Bikini Peachy
+game.types.resource.dumptruckstand	Toy Truck
+game.types.resource.sandshovelshort	Shovel
+game.types.resource.remotecontrol	Remote Control
+game.types.resource.chewtoy	Chew Toy
+game.types.resource.vhstape	VHS Tape
+game.types.resource.sandbucket_side	Pail
+game.types.resource.megarobo	Mega Assassin Robo
+game.types.resource.solderingiron	Soldering Iron
+game.types.resource.toaster	Toaster
+game.types.resource.sheep	Sheep
+game.types.resource.blocko_building_damage	Damaged Building
+game.types.resource.blob.infantry1	Plastic Blob
+game.types.resource.blob.infantry2	Plastic Blob
+game.types.resource.blob.building1	Plastic Blob
+game.types.resource.blob.vehicle1	Plastic Blob
+game.types.resource.walkietalkie	Walkie Talkie
+game.types.resource.sandshovel	Shovel
+game.types.resource.blocko_building1	Building
+game.types.resource.watchdigital	Watch
+game.types.resource.pig	Pig
+game.types.resource.kidomatic	Kid-O-Matic
+game.types.resource.planewreck	Plane Wreck
+game.types.resource.zorgsit	Chet
+game.types.resource.vhstape_stack	VHS Tapes
+game.types.resource.toytruck	Toy Truck
+game.types.resource.sheeplie	Sheep
+game.types.resource.dogbone	Dog Bone
+game.types.resource.captdan-lie	Captain Dan
+game.types.resource.spatula	Spatula
+game.types.resource.nursepeachy	Nurse Peachy
+game.types.resource.ball	Ball
+game.types.resource.ps2	Game System
+game.types.resource.zorgside	Zantrobulor
+game.types.resource.toothbrush	Toothbrush
+game.types.resource.sandbucket_down	Pail
+game.types.resource.blocko_towncentre	Town Center
+game.types.resource.battery_sand	Battery
+game.types.resource.dogbowl	Dog Bowl
+game.types.resource.slotcarpaddle	Slot Car Paddle
+game.types.resource.watch	Watch
+game.types.resource.captdan-sit	Captain Dan
+game.types.resource.spacepeachy	Space Commander
+game.types.resource.zorglie	Blarg
+game.types.insect.building.nursery-dummy	Nursery
+game.types.insect.building.nursery	Nursery
+game.types.insect.building.fooddeposit	Food Deposit
+game.types.insect.unit.worker	Worker
+game.types.insect.unit.queen	Queen
+game.types.insect.unit.soldier	Soldier
+game.types.insect.unit.cockroach	Cockroach
+game.types.sandbox.prop.target	Target
+game.types.koth.army.throne	Throne
+game.types.ctf.flagcapturer	Flag Capturer
+game.types.ctf.flag	Flag
+game.types.attic.prop.bridgemid	Rail Bridge
+game.types.attic.prop.s14jar	Bug Jar
+game.types.attic.prop.plurtzheal	Healer
+game.types.attic.prop.plurtzhealw	Healer
+game.types.attic.prop.bioplurtz	Blintz
+game.types.attic.prop.plurtzheale	Healer
+game.types.attic.prop.plurtzhealn	Healer
+game.types.attic.prop.plurtzacid	Acid Gun
+game.types.yard.prop.rocket	Model Rocket
+game.types.livingrm.prop.blocko_person-fire	Villager
+game.types.livingrm.prop.blocko_person-1	Villager
+game.load.newtoy	New Weapon Available
+game.load.title	Loading
+game.load.newtoys	New Weapons Available

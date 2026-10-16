@@ -1,0 +1,247 @@
+missions.story.s13.title	任务 13
+missions.story.s13.description	褐军之村
+missions.story.s13.objective1	抵达火车站并击溃守卫的褐军。
+missions.story.s13.goal-0	摧毁所有集装箱
+missions.story.s13.goal-1	50 分钟内完成
+missions.story.s12.title	任务 12
+missions.story.s12.description	脱轨
+missions.story.s12.objective	摧毁铁路桥
+missions.story.s12.goal-0	消灭所有蚂蚁
+missions.story.s12.goal-1	摧毁所有褐军建筑
+missions.story.s11.title	任务 11
+missions.story.s11.description	孤胆英雄
+missions.story.s11.objective1	从床尾救出中士
+missions.story.s11.objective2	摧毁门前的褐军基地。
+missions.story.s11.goal-0	消灭所有蚂蚁
+missions.story.s11.goal-1	塑料消耗低于 10,000
+missions.story.s10.title	任务 10
+missions.story.s10.description	荣耀浴场
+missions.story.s10.objective1	抵达柜台尽头的门。
+missions.story.s10.goal-0	8 分钟内完成
+missions.story.s10.goal-1	摧毁所有警卫塔
+missions.story.s15.title	任务 15
+missions.story.s15.description	塑料之心
+missions.story.s15.objective	追猎并终结布林茨
+missions.story.s15.theend	结束
+missions.story.s15.goal-0	90 分钟内完成
+missions.story.s15.goal-1	以困难难度完成
+missions.story.s14.title	任务 14
+missions.story.s14.description	焦土
+missions.story.s14.objective1	找到进入布林茨营地的路径。
+missions.story.s14.goal-0	50 分钟内完成
+missions.story.s14.goal-1	解救蚁后
+missions.story.description	剧情战役
+missions.story.s08.title	任务 8
+missions.story.s08.description	从这里到沙发
+missions.story.s08.objective1	消灭褐军，夺取 PlayStation(R)2 电脑娱乐系统。
+missions.story.s08.objective2	保护 PlayStation(R)2 电脑娱乐系统。
+missions.story.s08.goal-0	投放一次伞兵空袭
+missions.story.s08.goal-1	消灭所有蚂蚁
+missions.story.s09.title	任务 9
+missions.story.s09.description	一把塑料
+missions.story.s09.objective1	掩护村民撤离。
+missions.story.s09.villagers	剩余 {1:d} 名村民
+missions.story.s09.goal-0	救下所有村民
+missions.story.s09.goal-1	塑料消耗低于 10,000
+missions.story.s07.title	任务 7
+missions.story.s07.description	碗碟间的英勇
+missions.story.s07.objective1	摧毁化学武器工厂
+missions.story.s07.goal-0	摧毁所有集装箱
+missions.story.s07.goal-1	35 分钟内完成
+missions.story.s06.title	任务 6
+missions.story.s06.description	杂货下的勇气
+missions.story.s06.objective1	找到并增援绿军厨房基地
+missions.story.s06.objective2	守住绿军基地
+missions.story.s06.1aa	清除最后一座防空炮塔
+missions.story.s06.2aa	清除剩余 2 座防空炮塔
+missions.story.s06.3aa	清除剩余 3 座防空炮塔
+missions.story.s06.sargeobj	将中士撤回基地
+missions.story.s06.goal-0	消灭所有蟑螂
+missions.story.s06.goal-1	35 分钟内完成
+missions.story.s05.title	任务 5
+missions.story.s05.description	来自地下室
+missions.story.s05.objective1	经楼梯逃离地下室
+missions.story.s05.objective2	在轰炸开始前逃离地下室
+missions.story.s05.description1	它来自
+missions.story.s05.description2	地下室
+missions.story.s05.goal-0	无人牺牲
+missions.story.s05.goal-1	拾取所有奖励
+missions.story.s04.title	任务 4
+missions.story.s04.description	塑料防弹衣
+missions.story.s04.objective1	找到进入房屋的路径
+missions.story.s04.goal-0	拾取所有奖励
+missions.story.s04.goal-1	30 分钟内完成
+missions.story.s03.title	任务 3
+missions.story.s03.description	少数绿军
+missions.story.s03.objective1	找到电源
+missions.story.s03.objective2	抵达棒球处
+missions.story.s03.goal-0	找到增援
+missions.story.s03.goal-1	8 分钟内完成
+missions.story.s02.title	任务 2
+missions.story.s02.description	深入褐军铁幕
+missions.story.s02.goal-0	摧毁所有地雷
+missions.story.s02.goal-1	塑料消耗低于 4000
+missions.story.s02.obj_win	摧毁中央院落的褐军基地
+missions.story.s01.title	任务 1
+missions.story.s01.description	绿色防线
+missions.story.s01.objective1	突破褐军防御圈
+missions.story.s01.goal-0	7 分钟内完成
+missions.story.s01.goal-1	消灭所有褐军
+missions.gb.waterway.description	水道之战
+missions.gb.waterway.objective	摧毁中央敌军基地。
+missions.gb.waterway.goal-0	30 分钟内完成
+missions.gb.waterway.goal-1	拾取所有奖励
+missions.gb.garden.description	花园围攻
+missions.gb.garden.objective	摧毁所有褐军建筑
+missions.gb.garden.goal-0	摧毁所有集装箱
+missions.gb.garden.goal-1	30 分钟内完成
+missions.gb.description	大战役
+missions.gb.basement.description	地下室闹剧
+missions.gb.basement.objective	摧毁桌下的中央总部
+missions.gb.basement.goal-0	以困难难度完成
+missions.gb.basement.goal-1	电力消耗低于 2000
+missions.gb.sandbox.description	沙坑恶作剧
+missions.gb.sandbox.objective	摧毁所有褐军建筑
+missions.gb.sandbox.goal-0	拾取所有奖励
+missions.gb.sandbox.goal-1	40 分钟内完成
+missions.gb.bathroom.description	浴室闪击
+missions.gb.bathroom.objective	消灭浴室柜台上的褐军
+missions.gb.bathroom.goal-0	拾取所有奖励
+missions.gb.bathroom.goal-1	塑料消耗低于 5000
+missions.gb.tricycle.description	三轮车诡计
+missions.gb.tricycle.objective	摧毁所有褐军建筑
+missions.gb.tricycle.goal-0	30 分钟内完成
+missions.gb.tricycle.goal-1	以困难难度完成
+missions.gb.attic.description	盲目通行
+missions.gb.attic.objective	歼灭阁楼通道的褐军部队
+missions.gb.attic.goal-0	30 分钟内完成
+missions.gb.attic.goal-1	塑料消耗低于 12,000
+missions.gb.flooded.description	水淹闹剧
+missions.gb.flooded.objective	在被淹没前夺取厨房柜台
+missions.gb.flooded.goal-0	40 分钟内完成
+missions.gb.flooded.goal-1	塑料消耗低于 12000
+missions.shells.description	炮弹任务
+missions.mp.2eight.description	8 字绕行
+missions.mp.4crazed.description	疯狂嬉闹
+missions.mp.4sandbox.description	沙坑
+missions.mp.4hose.description	水管太远
+missions.mp.4koth.description	山头之王
+missions.mp.description	多人任务
+missions.mp.2dumdums.description	笨蛋狂潮！
+missions.mp.8ally.description	双人协作
+missions.mp.6sixway.description	芝士汉堡山
+missions.mp.8train.description	搭上 8 号列车
+missions.mp.2bench.description	下沉的感觉
+missions.so.night.description	午夜点心
+missions.so.night.goal-0	15 分钟内完成
+missions.so.night.goal-1	救出所有英雄
+missions.so.night.obj_win	摧毁褐军基地
+missions.so.antparty.description	蚁群之王
+missions.so.antparty.objective	夺回食物。
+missions.so.antparty.goal-0	30 分钟内完成
+missions.so.antparty.goal-1	育蚁室无一失守
+missions.so.rescue.description	人质危机
+missions.so.rescue.objective1	让中士抵达褐军基地的人质处。
+missions.so.rescue.objective2	用中士引导人质前往撤离点。
+missions.so.rescue.goal-0	30 分钟内完成
+missions.so.rescue.goal-1	消灭所有褐军
+missions.so.description	特别行动
+missions.so.rocket.description	发射！
+missions.so.rocket.objective	保护火箭直至发射。
+missions.so.rocket.goal-0	火箭保持满血
+missions.so.rocket.goal-1	消灭所有褐军
+missions.so.beach.description	沙地登陆
+missions.so.beach.objective1	摧毁守卫海岸线的炮塔，为增援开路。
+missions.so.beach.objective2	摧毁褐军总部
+missions.so.beach.goal-0	拾取所有奖励
+missions.so.beach.goal-1	无人牺牲
+missions.so.uberbase.description	这座旧堡垒
+missions.so.uberbase.objective	摧毁总部营地
+missions.so.uberbase.goal-0	以困难难度完成
+missions.so.uberbase.goal-1	不使用伞兵
+missions.so.convoy.description	路障
+missions.so.convoy.objective1	拦截所有试图突围的褐军车队卡车。
+missions.so.convoy.goal-0	找到所有奖励
+missions.so.convoy.goal-1	无人牺牲
+missions.so.convoy.trucks	剩余 {1:d} 辆卡车
+missions.so.battle.description	褐军藏不住
+missions.so.battle.objective	不留一个褐军。
+missions.so.battle.goal-0	15 分钟内完成
+missions.so.battle.goal-1	无人牺牲
+missions.bc_s.description	PS2 新兵训练任务
+missions.bc_s.t02.objective5	订购一座资源站，把它放在两处资源附近。
+missions.bc_s.t02.objective16	随心练习，练好后将中士移动到撤离点完成训练。
+missions.bc_s.t02.objective4	滚动画面，把总部移到想要的位置，然后按叉键放置。
+missions.bc_s.t02.objective17	从兵营建造一个单位。
+missions.bc_s.t02.description	建造基地
+missions.bc_s.t02.objective7	高亮自卸卡车后，按一次叉键下单。
+missions.bc_s.t02.objective14	用推土机在每个标记处放置铁丝网。
+missions.bc_s.t02.objective6	要建造自卸卡车，按住 R1 键并上下推左摇杆，或按方向键上/下，调出总部建造菜单。
+missions.bc_s.t02.objective15	按 L2 键，把镜头移到目标上，再按叉键即可熔毁任意建筑或围栏。
+missions.bc_s.t02.objective12	在兵营建造菜单中高亮升级按钮，按叉键升级。
+missions.bc_s.t02.objective1	选中推土机，按住 R1 键调出建造菜单。
+missions.bc_s.t02.objective13	用推土机建造一座警卫塔。
+missions.bc_s.t02.objective10	在总部建造菜单中高亮升级按钮，按叉键升级。
+missions.bc_s.t02.objective11	打开推土机建造菜单，建造一座车库。
+missions.bc_s.t02.objective2	按住 R1 键，在菜单中高亮总部，然后按叉键选中它。
+missions.bc_s.t02.objective9	选中推土机，建造一座兵营。
+missions.bc_s.t03.objective5	摧毁所有目标。
+missions.bc_s.t03.objective4	选中所有单位，把它们移入第一处交战区开始。
+missions.bc_s.t03.description	战斗
+missions.bc_s.t03.objective7	准备好后，选中所有单位，把它们移入下一处交战区。
+missions.bc_s.t03.objective6	选中所有单位，把它们移入下一处交战区。
+missions.bc_s.t03.objective3	推右摇杆跳到各个目标处，然后按叉键开火。
+missions.bc_s.t03.objective8	现在可以去撤离点，也可以继续在挑战场练习战斗。
+missions.bc_s.t03.objective9	将中士移动到撤离点。
+missions.bc_s.t01.objective5	按叉键给突击队员下达移动指令。
+missions.bc_s.t01.objective4	连按三次圆圈键，一次选中全部三个突击队员。
+missions.bc_s.t01.description	视角与移动
+missions.bc_s.t01.objective7	按 L1 键跳到敌方单位处。
+missions.bc_s.t01.objective14	不要按选择键。
+missions.bc_s.t01.objective6	依次移到每个单位上按方块键，一次选中地图上全部七个单位。
+missions.bc_s.t01.objective12	滚动到中士处，按三角键。
+missions.bc_s.t01.objective1	用左摇杆移动到北面的撤离点。
+missions.bc_s.t01.objective13	滚回另外三个单位处，按三角键重新选中它们。
+missions.bc_s.t01.objective10	滚动时按 L3 键可获得额外加速。
+missions.bc_s.t01.objective3	在地图任意位置滚动画面，按叉键给中士下达移动指令。
+missions.bc_s.t01.objective11	练够之后，将中士移动到撤离点完成训练。
+missions.bc_s.t01.objective2	移动视角，使目标落在中士身上，然后按圆圈键选中他。
+missions.bc_s.t01.objective8	按住手柄顶部的 R2 键，同时上下推左摇杆。
+missions.bc_s.t01.objective9	要恢复默认视角高度，按住 R2 键后松开，期间不要推动左摇杆。
+missions.bc_p.description	PC 新兵训练任务
+missions.bc_p.t02.objective5	订购一座资源站，把它放在两处资源附近。
+missions.bc_p.t02.objective16	随心练习，练好后将中士移动到撤离点完成训练。
+missions.bc_p.t02.objective4	把总部移到想要的位置，然后按鼠标左键放置。
+missions.bc_p.t02.objective17	从兵营建造一个单位。
+missions.bc_p.t02.description	建造基地
+missions.bc_p.t02.objective14	用推土机在每个标记处放置铁丝网。
+missions.bc_p.t02.objective6	选中总部，在它的建造菜单中点击自卸卡车。
+missions.bc_p.t02.objective15	选中建筑或围栏，再点击屏幕右侧地图上方的熔毁按钮将其熔化。
+missions.bc_p.t02.objective12	选中兵营，在建造菜单底部点击升级按钮。
+missions.bc_p.t02.objective1	选中推土机，调出它的建造菜单。
+missions.bc_p.t02.objective13	用推土机建造一座警卫塔。
+missions.bc_p.t02.objective10	选中总部，在建造菜单底部点击升级按钮。
+missions.bc_p.t02.objective11	总部升级完成后，打开推土机建造菜单，建造一座车库。
+missions.bc_p.t02.objective2	把光标移到建造菜单中的总部上，按鼠标左键选中它。
+missions.bc_p.t02.objective9	选中推土机，建造一座兵营。
+missions.bc_p.t03.objective5	摧毁所有目标。
+missions.bc_p.t03.objective4	选中所有单位，把它们移入第一处交战区开始。
+missions.bc_p.t03.description	小队与战斗
+missions.bc_p.t03.objective7	准备好后，选中所有单位，把它们移入下一处交战区。
+missions.bc_p.t03.objective6	选中所有单位，把它们移入下一处交战区。
+missions.bc_p.t03.objective1	选中所有单位，按住键盘 Ctrl 键，再按 1 键把他们编成小队。
+missions.bc_p.t03.objective3	选中包含中士、里夫和斯考奇的这支小队。
+missions.bc_p.t03.objective2	选中新单位，把他们编入小队。
+missions.bc_p.t03.objective8	现在可以去撤离点，也可以继续在挑战场练习战斗。
+missions.bc_p.t03.objective9	将中士移动到撤离点。
+missions.bc_p.t01.objective5	按鼠标左键给突击队员下达移动指令。
+missions.bc_p.t01.objective4	按住鼠标左键并拖动光标框住三个突击队员，一次全部选中。
+missions.bc_p.t01.description	视角与移动
+missions.bc_p.t01.objective7	按空格键跳到敌方单位处。
+missions.bc_p.t01.objective6	按住 Shift 键逐个选择，一次选中地图上全部七个单位。
+missions.bc_p.t01.objective1	按住鼠标右键并向前滚动，把视角对准北面的撤离点。
+missions.bc_p.t01.objective3	选中中士后，把光标移到地图任意位置，按鼠标左键下达移动指令。
+missions.bc_p.t01.objective11	练够之后，将中士移动到撤离点完成训练。
+missions.bc_p.t01.objective2	滚动到中士处并把光标放在他身上，然后按鼠标左键选中他。
+missions.bc_p.t01.objective8	用鼠标滚轮或 Ctrl 键上下缩放视角。
+missions.bc_p.t01.objective9	不要按 'J' 键。

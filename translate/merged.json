@@ -1,0 +1,4232 @@
+[
+ {
+  "k": "missions.story.s13.title",
+  "en": "Mission 13",
+  "zh": "任务 13"
+ },
+ {
+  "k": "missions.story.s13.description",
+  "en": "Village of the Tanned",
+  "zh": "褐军之村"
+ },
+ {
+  "k": "missions.story.s13.objective1",
+  "en": "Get to the train station and crush the tan defending it.",
+  "zh": "抵达火车站并击溃守卫的褐军。"
+ },
+ {
+  "k": "missions.story.s13.goal-0",
+  "en": "Destroy all containers",
+  "zh": "摧毁所有集装箱"
+ },
+ {
+  "k": "missions.story.s13.goal-1",
+  "en": "Finish in under 50 minutes",
+  "zh": "50 分钟内完成"
+ },
+ {
+  "k": "missions.story.s12.title",
+  "en": "Mission 12",
+  "zh": "任务 12"
+ },
+ {
+  "k": "missions.story.s12.description",
+  "en": "Derailment",
+  "zh": "脱轨"
+ },
+ {
+  "k": "missions.story.s12.objective",
+  "en": "Destroy the rail bridge",
+  "zh": "摧毁铁路桥"
+ },
+ {
+  "k": "missions.story.s12.goal-0",
+  "en": "Destroy all Ants",
+  "zh": "消灭所有蚂蚁"
+ },
+ {
+  "k": "missions.story.s12.goal-1",
+  "en": "Destroy all Tan Buildings",
+  "zh": "摧毁所有褐军建筑"
+ },
+ {
+  "k": "missions.story.s11.title",
+  "en": "Mission 11",
+  "zh": "任务 11"
+ },
+ {
+  "k": "missions.story.s11.description",
+  "en": "One Man Army",
+  "zh": "孤胆英雄"
+ },
+ {
+  "k": "missions.story.s11.objective1",
+  "en": "Rescue Sarge from the end of the bed",
+  "zh": "从床尾救出中士"
+ },
+ {
+  "k": "missions.story.s11.objective2",
+  "en": "Destroy the Tan base in front of the door.",
+  "zh": "摧毁门前的褐军基地。"
+ },
+ {
+  "k": "missions.story.s11.goal-0",
+  "en": "Destroy all Ants",
+  "zh": "消灭所有蚂蚁"
+ },
+ {
+  "k": "missions.story.s11.goal-1",
+  "en": "Spend less than 10,000 Plastic",
+  "zh": "塑料消耗低于 10,000"
+ },
+ {
+  "k": "missions.story.s10.title",
+  "en": "Mission 10",
+  "zh": "任务 10"
+ },
+ {
+  "k": "missions.story.s10.description",
+  "en": "Baths of Glory",
+  "zh": "荣耀浴场"
+ },
+ {
+  "k": "missions.story.s10.objective1",
+  "en": "Get to the door at the end of the counter.",
+  "zh": "抵达柜台尽头的门。"
+ },
+ {
+  "k": "missions.story.s10.goal-0",
+  "en": "Finish in under 8 minutes",
+  "zh": "8 分钟内完成"
+ },
+ {
+  "k": "missions.story.s10.goal-1",
+  "en": "Destroy all Guard Towers",
+  "zh": "摧毁所有警卫塔"
+ },
+ {
+  "k": "missions.story.s15.title",
+  "en": "Mission 15",
+  "zh": "任务 15"
+ },
+ {
+  "k": "missions.story.s15.description",
+  "en": "Heart of Plastic",
+  "zh": "塑料之心"
+ },
+ {
+  "k": "missions.story.s15.objective",
+  "en": "Hunt down and terminate Blintz",
+  "zh": "追猎并终结布林茨"
+ },
+ {
+  "k": "missions.story.s15.theend",
+  "en": "The End",
+  "zh": "结束"
+ },
+ {
+  "k": "missions.story.s15.goal-0",
+  "en": "Finish in under 90 minutes",
+  "zh": "90 分钟内完成"
+ },
+ {
+  "k": "missions.story.s15.goal-1",
+  "en": "Finish on Hard difficulty",
+  "zh": "以困难难度完成"
+ },
+ {
+  "k": "missions.story.s14.title",
+  "en": "Mission 14",
+  "zh": "任务 14"
+ },
+ {
+  "k": "missions.story.s14.description",
+  "en": "Scorched Turf",
+  "zh": "焦土"
+ },
+ {
+  "k": "missions.story.s14.objective1",
+  "en": "Find a way into Blintz's compound.",
+  "zh": "找到进入布林茨营地的路径。"
+ },
+ {
+  "k": "missions.story.s14.goal-0",
+  "en": "Finish in under 50 minutes",
+  "zh": "50 分钟内完成"
+ },
+ {
+  "k": "missions.story.s14.goal-1",
+  "en": "Free the Ant Queen",
+  "zh": "解救蚁后"
+ },
+ {
+  "k": "missions.story.description",
+  "en": "Story Campaign",
+  "zh": "剧情战役"
+ },
+ {
+  "k": "missions.story.s08.title",
+  "en": "Mission 8",
+  "zh": "任务 8"
+ },
+ {
+  "k": "missions.story.s08.description",
+  "en": "From Here to the Sofa",
+  "zh": "从这里到沙发"
+ },
+ {
+  "k": "missions.story.s08.objective1",
+  "en": "Eliminate the Tan to Capture the PlayStation®2 computer entertainment system.",
+  "zh": "消灭褐军，夺取 PlayStation(R)2 电脑娱乐系统。"
+ },
+ {
+  "k": "missions.story.s08.objective2",
+  "en": "Protect the PlayStation®2 computer entertainment system.",
+  "zh": "保护 PlayStation(R)2 电脑娱乐系统。"
+ },
+ {
+  "k": "missions.story.s08.goal-0",
+  "en": "Drop a Paratrooper Air Strike",
+  "zh": "投放一次伞兵空袭"
+ },
+ {
+  "k": "missions.story.s08.goal-1",
+  "en": "Destroy all Ants",
+  "zh": "消灭所有蚂蚁"
+ },
+ {
+  "k": "missions.story.s09.title",
+  "en": "Mission 9",
+  "zh": "任务 9"
+ },
+ {
+  "k": "missions.story.s09.description",
+  "en": "Fistful of Plastic",
+  "zh": "一把塑料"
+ },
+ {
+  "k": "missions.story.s09.objective1",
+  "en": "Protect the villagers as they make their escape.",
+  "zh": "掩护村民撤离。"
+ },
+ {
+  "k": "missions.story.s09.villagers",
+  "en": "{1:d} Villagers Remaining",
+  "zh": "剩余 {1:d} 名村民"
+ },
+ {
+  "k": "missions.story.s09.goal-0",
+  "en": "Save all Villagers",
+  "zh": "救下所有村民"
+ },
+ {
+  "k": "missions.story.s09.goal-1",
+  "en": "Spend less than 10,000 Plastic",
+  "zh": "塑料消耗低于 10,000"
+ },
+ {
+  "k": "missions.story.s07.title",
+  "en": "Mission 7",
+  "zh": "任务 7"
+ },
+ {
+  "k": "missions.story.s07.description",
+  "en": "Dishes of Valor",
+  "zh": "碗碟间的英勇"
+ },
+ {
+  "k": "missions.story.s07.objective1",
+  "en": "Destroy the Chemical Weapon factory",
+  "zh": "摧毁化学武器工厂"
+ },
+ {
+  "k": "missions.story.s07.goal-0",
+  "en": "Destroy all Containers",
+  "zh": "摧毁所有集装箱"
+ },
+ {
+  "k": "missions.story.s07.goal-1",
+  "en": "Finish in under 35 minutes",
+  "zh": "35 分钟内完成"
+ },
+ {
+  "k": "missions.story.s06.title",
+  "en": "Mission 6",
+  "zh": "任务 6"
+ },
+ {
+  "k": "missions.story.s06.description",
+  "en": "Courage Under Groceries",
+  "zh": "杂货下的勇气"
+ },
+ {
+  "k": "missions.story.s06.objective1",
+  "en": "Find and Reinforce the Green Kitchen Base",
+  "zh": "找到并增援绿军厨房基地"
+ },
+ {
+  "k": "missions.story.s06.objective2",
+  "en": "Secure Green Base",
+  "zh": "守住绿军基地"
+ },
+ {
+  "k": "missions.story.s06.1aa",
+  "en": "Remove the last remaining AA Turret",
+  "zh": "清除最后一座防空炮塔"
+ },
+ {
+  "k": "missions.story.s06.2aa",
+  "en": "Remove the 2 remaining AA Turrets",
+  "zh": "清除剩余 2 座防空炮塔"
+ },
+ {
+  "k": "missions.story.s06.3aa",
+  "en": "Remove the 3 remaining AA Turrets",
+  "zh": "清除剩余 3 座防空炮塔"
+ },
+ {
+  "k": "missions.story.s06.sargeobj",
+  "en": "Move Sarge back to base",
+  "zh": "将中士撤回基地"
+ },
+ {
+  "k": "missions.story.s06.goal-0",
+  "en": "Destroy all Cockroaches",
+  "zh": "消灭所有蟑螂"
+ },
+ {
+  "k": "missions.story.s06.goal-1",
+  "en": "Finish in under 35 minutes",
+  "zh": "35 分钟内完成"
+ },
+ {
+  "k": "missions.story.s05.title",
+  "en": "Mission 5",
+  "zh": "任务 5"
+ },
+ {
+  "k": "missions.story.s05.description",
+  "en": "It Came from the Basement",
+  "zh": "来自地下室"
+ },
+ {
+  "k": "missions.story.s05.objective1",
+  "en": "Escape the basement via the stairs",
+  "zh": "经楼梯逃离地下室"
+ },
+ {
+  "k": "missions.story.s05.objective2",
+  "en": "Escape the basement before the bombing raid occurs",
+  "zh": "在轰炸开始前逃离地下室"
+ },
+ {
+  "k": "missions.story.s05.description1",
+  "en": "It Came From",
+  "zh": "它来自"
+ },
+ {
+  "k": "missions.story.s05.description2",
+  "en": "The Basement",
+  "zh": "地下室"
+ },
+ {
+  "k": "missions.story.s05.goal-0",
+  "en": "No Heroes lost",
+  "zh": "无人牺牲"
+ },
+ {
+  "k": "missions.story.s05.goal-1",
+  "en": "Pick up all Bonuses",
+  "zh": "拾取所有奖励"
+ },
+ {
+  "k": "missions.story.s04.title",
+  "en": "Mission 4",
+  "zh": "任务 4"
+ },
+ {
+  "k": "missions.story.s04.description",
+  "en": "Full Plastic Jacket",
+  "zh": "塑料防弹衣"
+ },
+ {
+  "k": "missions.story.s04.objective1",
+  "en": "Find a way into the house",
+  "zh": "找到进入房屋的路径"
+ },
+ {
+  "k": "missions.story.s04.goal-0",
+  "en": "Pick up all Bonuses",
+  "zh": "拾取所有奖励"
+ },
+ {
+  "k": "missions.story.s04.goal-1",
+  "en": "Finish in under 30 minutes",
+  "zh": "30 分钟内完成"
+ },
+ {
+  "k": "missions.story.s03.title",
+  "en": "Mission 3",
+  "zh": "任务 3"
+ },
+ {
+  "k": "missions.story.s03.description",
+  "en": "A Few Green Men",
+  "zh": "少数绿军"
+ },
+ {
+  "k": "missions.story.s03.objective1",
+  "en": "Locate the power source",
+  "zh": "找到电源"
+ },
+ {
+  "k": "missions.story.s03.objective2",
+  "en": "Get to the baseball",
+  "zh": "抵达棒球处"
+ },
+ {
+  "k": "missions.story.s03.goal-0",
+  "en": "Locate Reinforcements",
+  "zh": "找到增援"
+ },
+ {
+  "k": "missions.story.s03.goal-1",
+  "en": "Finish in under 8 minutes",
+  "zh": "8 分钟内完成"
+ },
+ {
+  "k": "missions.story.s02.title",
+  "en": "Mission 2",
+  "zh": "任务 2"
+ },
+ {
+  "k": "missions.story.s02.description",
+  "en": "Behind the Tan Curtain",
+  "zh": "深入褐军铁幕"
+ },
+ {
+  "k": "missions.story.s02.goal-0",
+  "en": "Destroy all mines",
+  "zh": "摧毁所有地雷"
+ },
+ {
+  "k": "missions.story.s02.goal-1",
+  "en": "Spend less than 4000 Plastic",
+  "zh": "塑料消耗低于 4000"
+ },
+ {
+  "k": "missions.story.s02.obj_win",
+  "en": "Destroy the Tan base in Central Yard",
+  "zh": "摧毁中央院落的褐军基地"
+ },
+ {
+  "k": "missions.story.s01.title",
+  "en": "Mission 1",
+  "zh": "任务 1"
+ },
+ {
+  "k": "missions.story.s01.description",
+  "en": "The Thin Green Line",
+  "zh": "绿色防线"
+ },
+ {
+  "k": "missions.story.s01.objective1",
+  "en": "Push through the Tan defense perimeter",
+  "zh": "突破褐军防御圈"
+ },
+ {
+  "k": "missions.story.s01.goal-0",
+  "en": "Finish in under 7 minutes",
+  "zh": "7 分钟内完成"
+ },
+ {
+  "k": "missions.story.s01.goal-1",
+  "en": "Eliminate all Tan",
+  "zh": "消灭所有褐军"
+ },
+ {
+  "k": "missions.gb.waterway.description",
+  "en": "Waterway War",
+  "zh": "水道之战"
+ },
+ {
+  "k": "missions.gb.waterway.objective",
+  "en": "Obliterate the central enemy base.",
+  "zh": "摧毁中央敌军基地。"
+ },
+ {
+  "k": "missions.gb.waterway.goal-0",
+  "en": "Finish in under 30 minutes",
+  "zh": "30 分钟内完成"
+ },
+ {
+  "k": "missions.gb.waterway.goal-1",
+  "en": "Pick up all Bonuses",
+  "zh": "拾取所有奖励"
+ },
+ {
+  "k": "missions.gb.garden.description",
+  "en": "Garden Siege",
+  "zh": "花园围攻"
+ },
+ {
+  "k": "missions.gb.garden.objective",
+  "en": "Destroy all Tan buildings",
+  "zh": "摧毁所有褐军建筑"
+ },
+ {
+  "k": "missions.gb.garden.goal-0",
+  "en": "Destroy all Containers",
+  "zh": "摧毁所有集装箱"
+ },
+ {
+  "k": "missions.gb.garden.goal-1",
+  "en": "Finish in under 30 minutes",
+  "zh": "30 分钟内完成"
+ },
+ {
+  "k": "missions.gb.description",
+  "en": "Great Battles",
+  "zh": "大战役"
+ },
+ {
+  "k": "missions.gb.basement.description",
+  "en": "Basement Baloney",
+  "zh": "地下室闹剧"
+ },
+ {
+  "k": "missions.gb.basement.objective",
+  "en": "Destroy central HQ, located under the table",
+  "zh": "摧毁桌下的中央总部"
+ },
+ {
+  "k": "missions.gb.basement.goal-0",
+  "en": "Finish on Hard difficulty",
+  "zh": "以困难难度完成"
+ },
+ {
+  "k": "missions.gb.basement.goal-1",
+  "en": "Spend less than 2000 Electricity",
+  "zh": "电力消耗低于 2000"
+ },
+ {
+  "k": "missions.gb.sandbox.description",
+  "en": "Sandbox Shenanigans",
+  "zh": "沙坑恶作剧"
+ },
+ {
+  "k": "missions.gb.sandbox.objective",
+  "en": "Destroy all Tan buildings",
+  "zh": "摧毁所有褐军建筑"
+ },
+ {
+  "k": "missions.gb.sandbox.goal-0",
+  "en": "Pick up all Bonuses",
+  "zh": "拾取所有奖励"
+ },
+ {
+  "k": "missions.gb.sandbox.goal-1",
+  "en": "Finish in under 40 minutes",
+  "zh": "40 分钟内完成"
+ },
+ {
+  "k": "missions.gb.bathroom.description",
+  "en": "Bathroom Blitz",
+  "zh": "浴室闪击"
+ },
+ {
+  "k": "missions.gb.bathroom.objective",
+  "en": "Eliminate the Tan from the bathroom counter",
+  "zh": "消灭浴室柜台上的褐军"
+ },
+ {
+  "k": "missions.gb.bathroom.goal-0",
+  "en": "Pick up all Bonuses",
+  "zh": "拾取所有奖励"
+ },
+ {
+  "k": "missions.gb.bathroom.goal-1",
+  "en": "Spend less than 5000 Plastic",
+  "zh": "塑料消耗低于 5000"
+ },
+ {
+  "k": "missions.gb.tricycle.description",
+  "en": "Tricycle Treachery",
+  "zh": "三轮车诡计"
+ },
+ {
+  "k": "missions.gb.tricycle.objective",
+  "en": "Destroy all Tan buildings",
+  "zh": "摧毁所有褐军建筑"
+ },
+ {
+  "k": "missions.gb.tricycle.goal-0",
+  "en": "Finish in under 30 minutes",
+  "zh": "30 分钟内完成"
+ },
+ {
+  "k": "missions.gb.tricycle.goal-1",
+  "en": "Finish on Hard difficulty",
+  "zh": "以困难难度完成"
+ },
+ {
+  "k": "missions.gb.attic.description",
+  "en": "Blind Pass",
+  "zh": "盲目通行"
+ },
+ {
+  "k": "missions.gb.attic.objective",
+  "en": "Demolish the Tan forces at the Attic Pass",
+  "zh": "歼灭阁楼通道的褐军部队"
+ },
+ {
+  "k": "missions.gb.attic.goal-0",
+  "en": "Finish in under 30 minutes",
+  "zh": "30 分钟内完成"
+ },
+ {
+  "k": "missions.gb.attic.goal-1",
+  "en": "Spend less than 12,000 plastic",
+  "zh": "塑料消耗低于 12,000"
+ },
+ {
+  "k": "missions.gb.flooded.description",
+  "en": "Flooded Follies",
+  "zh": "水淹闹剧"
+ },
+ {
+  "k": "missions.gb.flooded.objective",
+  "en": "Claim the kitchen counter before it is flooded",
+  "zh": "在被淹没前夺取厨房柜台"
+ },
+ {
+  "k": "missions.gb.flooded.goal-0",
+  "en": "Finish in under 40 minutes",
+  "zh": "40 分钟内完成"
+ },
+ {
+  "k": "missions.gb.flooded.goal-1",
+  "en": "Spend less than 12000 plastic",
+  "zh": "塑料消耗低于 12000"
+ },
+ {
+  "k": "missions.shells.description",
+  "en": "Shell Missions",
+  "zh": "炮弹任务"
+ },
+ {
+  "k": "missions.mp.2eight.description",
+  "en": "Figure Eight",
+  "zh": "8 字绕行"
+ },
+ {
+  "k": "missions.mp.4crazed.description",
+  "en": "Ramp Romp",
+  "zh": "疯狂嬉闹"
+ },
+ {
+  "k": "missions.mp.4sandbox.description",
+  "en": "Sandbox",
+  "zh": "沙坑"
+ },
+ {
+  "k": "missions.mp.4hose.description",
+  "en": "A Hose Too Far",
+  "zh": "水管太远"
+ },
+ {
+  "k": "missions.mp.4koth.description",
+  "en": "King of the Hill",
+  "zh": "山头之王"
+ },
+ {
+  "k": "missions.mp.description",
+  "en": "Multiplayer Missions",
+  "zh": "多人任务"
+ },
+ {
+  "k": "missions.mp.2dumdums.description",
+  "en": "Dumdum Frenzy!",
+  "zh": "笨蛋狂潮！"
+ },
+ {
+  "k": "missions.mp.8ally.description",
+  "en": "Doubles",
+  "zh": "双人协作"
+ },
+ {
+  "k": "missions.mp.6sixway.description",
+  "en": "Cheeseburger Hill",
+  "zh": "芝士汉堡山"
+ },
+ {
+  "k": "missions.mp.8train.description",
+  "en": "Take the 8-Train",
+  "zh": "搭上 8 号列车"
+ },
+ {
+  "k": "missions.mp.2bench.description",
+  "en": "That sinkin' feeling",
+  "zh": "下沉的感觉"
+ },
+ {
+  "k": "missions.so.night.description",
+  "en": "Midnight Snack",
+  "zh": "午夜点心"
+ },
+ {
+  "k": "missions.so.night.goal-0",
+  "en": "Finish in under 15 minutes",
+  "zh": "15 分钟内完成"
+ },
+ {
+  "k": "missions.so.night.goal-1",
+  "en": "All Heroes Rescued",
+  "zh": "救出所有英雄"
+ },
+ {
+  "k": "missions.so.night.obj_win",
+  "en": "Destroy the Tan Base",
+  "zh": "摧毁褐军基地"
+ },
+ {
+  "k": "missions.so.antparty.description",
+  "en": "Lord of the Ants",
+  "zh": "蚁群之王"
+ },
+ {
+  "k": "missions.so.antparty.objective",
+  "en": "Reclaim the food.",
+  "zh": "夺回食物。"
+ },
+ {
+  "k": "missions.so.antparty.goal-0",
+  "en": "Finish in under 30 minutes",
+  "zh": "30 分钟内完成"
+ },
+ {
+  "k": "missions.so.antparty.goal-1",
+  "en": "No Nurseries lost",
+  "zh": "育蚁室无一失守"
+ },
+ {
+  "k": "missions.so.rescue.description",
+  "en": "Hostage Situation",
+  "zh": "人质危机"
+ },
+ {
+  "k": "missions.so.rescue.objective1",
+  "en": "Get Sarge to the hostages at the Tan Base.",
+  "zh": "让中士抵达褐军基地的人质处。"
+ },
+ {
+  "k": "missions.so.rescue.objective2",
+  "en": "Use Sarge to lead the hostages to the extraction point.",
+  "zh": "用中士引导人质前往撤离点。"
+ },
+ {
+  "k": "missions.so.rescue.goal-0",
+  "en": "Finish in under 30 minutes",
+  "zh": "30 分钟内完成"
+ },
+ {
+  "k": "missions.so.rescue.goal-1",
+  "en": "Eliminate all Tan",
+  "zh": "消灭所有褐军"
+ },
+ {
+  "k": "missions.so.description",
+  "en": "Special Operations",
+  "zh": "特别行动"
+ },
+ {
+  "k": "missions.so.rocket.description",
+  "en": "Blastoff!",
+  "zh": "发射！"
+ },
+ {
+  "k": "missions.so.rocket.objective",
+  "en": "Protect the Rocket until it launches.",
+  "zh": "保护火箭直至发射。"
+ },
+ {
+  "k": "missions.so.rocket.goal-0",
+  "en": "Full Health on Rocket",
+  "zh": "火箭保持满血"
+ },
+ {
+  "k": "missions.so.rocket.goal-1",
+  "en": "Destroy all Tan",
+  "zh": "消灭所有褐军"
+ },
+ {
+  "k": "missions.so.beach.description",
+  "en": "Sandy Breach",
+  "zh": "沙地登陆"
+ },
+ {
+  "k": "missions.so.beach.objective1",
+  "en": "Knock out the turrets defending the shoreline to allow reinforcements.",
+  "zh": "摧毁守卫海岸线的炮塔，为增援开路。"
+ },
+ {
+  "k": "missions.so.beach.objective2",
+  "en": "Destroy the Tan HQ",
+  "zh": "摧毁褐军总部"
+ },
+ {
+  "k": "missions.so.beach.goal-0",
+  "en": "Pick up all Bonuses",
+  "zh": "拾取所有奖励"
+ },
+ {
+  "k": "missions.so.beach.goal-1",
+  "en": "No Heroes lost",
+  "zh": "无人牺牲"
+ },
+ {
+  "k": "missions.so.uberbase.description",
+  "en": "This Old Fortress",
+  "zh": "这座旧堡垒"
+ },
+ {
+  "k": "missions.so.uberbase.objective",
+  "en": "Destroy the HQ Compound",
+  "zh": "摧毁总部营地"
+ },
+ {
+  "k": "missions.so.uberbase.goal-0",
+  "en": "Finish on Hard difficulty",
+  "zh": "以困难难度完成"
+ },
+ {
+  "k": "missions.so.uberbase.goal-1",
+  "en": "No Paratroopers Used",
+  "zh": "不使用伞兵"
+ },
+ {
+  "k": "missions.so.convoy.description",
+  "en": "Road Block",
+  "zh": "路障"
+ },
+ {
+  "k": "missions.so.convoy.objective1",
+  "en": "Stop all Tan convoy trucks from getting through.",
+  "zh": "拦截所有试图突围的褐军车队卡车。"
+ },
+ {
+  "k": "missions.so.convoy.goal-0",
+  "en": "Locate all Bonuses",
+  "zh": "找到所有奖励"
+ },
+ {
+  "k": "missions.so.convoy.goal-1",
+  "en": "No Heroes lost",
+  "zh": "无人牺牲"
+ },
+ {
+  "k": "missions.so.convoy.trucks",
+  "en": "{1:d} Trucks Remaining",
+  "zh": "剩余 {1:d} 辆卡车"
+ },
+ {
+  "k": "missions.so.battle.description",
+  "en": "Tan Some Hide",
+  "zh": "褐军藏不住"
+ },
+ {
+  "k": "missions.so.battle.objective",
+  "en": "Leave no Tan standing.",
+  "zh": "不留一个褐军。"
+ },
+ {
+  "k": "missions.so.battle.goal-0",
+  "en": "Finish in under 15 minutes",
+  "zh": "15 分钟内完成"
+ },
+ {
+  "k": "missions.so.battle.goal-1",
+  "en": "No Heroes lost",
+  "zh": "无人牺牲"
+ },
+ {
+  "k": "missions.bc_s.description",
+  "en": "PS2 Training Missions",
+  "zh": "PS2 新兵训练任务"
+ },
+ {
+  "k": "missions.bc_s.t02.objective5",
+  "en": "Order a Resource Depot, and place it near the two resources.",
+  "zh": "订购一座资源站，把它放在两处资源附近。"
+ },
+ {
+  "k": "missions.bc_s.t02.objective16",
+  "en": "Practice for as long as you want, then move Sarge to the extraction point to complete your training.",
+  "zh": "随心练习，练好后将中士移动到撤离点完成训练。"
+ },
+ {
+  "k": "missions.bc_s.t02.objective4",
+  "en": "Scroll around to move the HQ to your desired location, then press the X button to place it.",
+  "zh": "滚动画面，把总部移到想要的位置，然后按叉键放置。"
+ },
+ {
+  "k": "missions.bc_s.t02.objective17",
+  "en": "Build a unit from the Barracks.",
+  "zh": "从兵营建造一个单位。"
+ },
+ {
+  "k": "missions.bc_s.t02.description",
+  "en": "Building a Base",
+  "zh": "建造基地"
+ },
+ {
+  "k": "missions.bc_s.t02.objective7",
+  "en": "With the Dump Truck highlighted, press the X button once to order.",
+  "zh": "高亮自卸卡车后，按一次叉键下单。"
+ },
+ {
+  "k": "missions.bc_s.t02.objective14",
+  "en": "Use the Bulldozer to place Barbed-Wire Fences on each of the markings.",
+  "zh": "用推土机在每个标记处放置铁丝网。"
+ },
+ {
+  "k": "missions.bc_s.t02.objective6",
+  "en": "To build a Dump Truck, hold the R1 button down and move the left analog stick up or down, or press the up or down directional buttons, to get the HQ's build menu.",
+  "zh": "要建造自卸卡车，按住 R1 键并上下推左摇杆，或按方向键上/下，调出总部建造菜单。"
+ },
+ {
+  "k": "missions.bc_s.t02.objective15",
+  "en": "Melt any building or fence by pressing the L2 button, moving the camera over it, then pressing the X button.",
+  "zh": "按 L2 键，把镜头移到目标上，再按叉键即可熔毁任意建筑或围栏。"
+ },
+ {
+  "k": "missions.bc_s.t02.objective12",
+  "en": "Highlight the upgrade button on the Barracks' Build Menu and press the X button to upgrade.",
+  "zh": "在兵营建造菜单中高亮升级按钮，按叉键升级。"
+ },
+ {
+  "k": "missions.bc_s.t02.objective1",
+  "en": "Select your Bulldozer and hold the R1 button down to call up your Build Menu.",
+  "zh": "选中推土机，按住 R1 键调出建造菜单。"
+ },
+ {
+  "k": "missions.bc_s.t02.objective13",
+  "en": "Use the Bulldozer to construct a Guard Tower.",
+  "zh": "用推土机建造一座警卫塔。"
+ },
+ {
+  "k": "missions.bc_s.t02.objective10",
+  "en": "Highlight the Upgrade button on the HQ's Build Menu and press the X button to Upgrade.",
+  "zh": "在总部建造菜单中高亮升级按钮，按叉键升级。"
+ },
+ {
+  "k": "missions.bc_s.t02.objective11",
+  "en": "Go to the Bulldozer's Build Menu and construct a Garage.",
+  "zh": "打开推土机建造菜单，建造一座车库。"
+ },
+ {
+  "k": "missions.bc_s.t02.objective2",
+  "en": "With the R1 button held, highlight the HQ on the menu, then press the X button to select it.",
+  "zh": "按住 R1 键，在菜单中高亮总部，然后按叉键选中它。"
+ },
+ {
+  "k": "missions.bc_s.t02.objective9",
+  "en": "Select the Bulldozer and build a Barracks.",
+  "zh": "选中推土机，建造一座兵营。"
+ },
+ {
+  "k": "missions.bc_s.t03.objective5",
+  "en": "Destroy all the targets.",
+  "zh": "摧毁所有目标。"
+ },
+ {
+  "k": "missions.bc_s.t03.objective4",
+  "en": "Select all your units and move them into the first combat area to begin.",
+  "zh": "选中所有单位，把它们移入第一处交战区开始。"
+ },
+ {
+  "k": "missions.bc_s.t03.description",
+  "en": "Combat",
+  "zh": "战斗"
+ },
+ {
+  "k": "missions.bc_s.t03.objective7",
+  "en": "When you're ready, select all your units and move them into the next combat area.",
+  "zh": "准备好后，选中所有单位，把它们移入下一处交战区。"
+ },
+ {
+  "k": "missions.bc_s.t03.objective6",
+  "en": "Select all your units and move them into the next combat area.",
+  "zh": "选中所有单位，把它们移入下一处交战区。"
+ },
+ {
+  "k": "missions.bc_s.t03.objective3",
+  "en": "Move the right analog stick to jump to the targets, then press the X button to fire.",
+  "zh": "推右摇杆跳到各个目标处，然后按叉键开火。"
+ },
+ {
+  "k": "missions.bc_s.t03.objective8",
+  "en": "You can head to the extraction point now, or continue on and practice combat in the challenge course.",
+  "zh": "现在可以去撤离点，也可以继续在挑战场练习战斗。"
+ },
+ {
+  "k": "missions.bc_s.t03.objective9",
+  "en": "Move Sarge to the extraction point.",
+  "zh": "将中士移动到撤离点。"
+ },
+ {
+  "k": "missions.bc_s.t01.objective5",
+  "en": "Press the X button to give the commando units a move order.",
+  "zh": "按叉键给突击队员下达移动指令。"
+ },
+ {
+  "k": "missions.bc_s.t01.objective4",
+  "en": "Select all three commando units at once by tapping the Circle button three times.",
+  "zh": "连按三次圆圈键，一次选中全部三个突击队员。"
+ },
+ {
+  "k": "missions.bc_s.t01.description",
+  "en": "Camera and Movement",
+  "zh": "视角与移动"
+ },
+ {
+  "k": "missions.bc_s.t01.objective7",
+  "en": "Press the L1 button to jump to the enemy units.",
+  "zh": "按 L1 键跳到敌方单位处。"
+ },
+ {
+  "k": "missions.bc_s.t01.objective14",
+  "en": "Do not press the Select button.",
+  "zh": "不要按选择键。"
+ },
+ {
+  "k": "missions.bc_s.t01.objective6",
+  "en": "Select all seven units on the map at once by moving over each one and pressing the Square button.",
+  "zh": "依次移到每个单位上按方块键，一次选中地图上全部七个单位。"
+ },
+ {
+  "k": "missions.bc_s.t01.objective12",
+  "en": "Scroll over to Sarge and press the Triangle button.",
+  "zh": "滚动到中士处，按三角键。"
+ },
+ {
+  "k": "missions.bc_s.t01.objective1",
+  "en": "Use the left analog stick to move to the extraction point to the north.",
+  "zh": "用左摇杆移动到北面的撤离点。"
+ },
+ {
+  "k": "missions.bc_s.t01.objective13",
+  "en": "Scroll back to your other three units and press the Triangle button to re-select them.",
+  "zh": "滚回另外三个单位处，按三角键重新选中它们。"
+ },
+ {
+  "k": "missions.bc_s.t01.objective10",
+  "en": "Press the L3 button while scrolling to get an added speed boost.",
+  "zh": "滚动时按 L3 键可获得额外加速。"
+ },
+ {
+  "k": "missions.bc_s.t01.objective3",
+  "en": "Scroll anywhere on the map and press the X button to give Sarge a move order.",
+  "zh": "在地图任意位置滚动画面，按叉键给中士下达移动指令。"
+ },
+ {
+  "k": "missions.bc_s.t01.objective11",
+  "en": "When you've had enough, move Sarge to the extraction point to complete your training.",
+  "zh": "练够之后，将中士移动到撤离点完成训练。"
+ },
+ {
+  "k": "missions.bc_s.t01.objective2",
+  "en": "Move the camera so that the target is on top of Sarge, then press the Circle button to select him.",
+  "zh": "移动视角，使目标落在中士身上，然后按圆圈键选中他。"
+ },
+ {
+  "k": "missions.bc_s.t01.objective8",
+  "en": "Hold down the R2 button on the top of the controller and move the left analog stick up or down.",
+  "zh": "按住手柄顶部的 R2 键，同时上下推左摇杆。"
+ },
+ {
+  "k": "missions.bc_s.t01.objective9",
+  "en": "To return to the default camera height, press and release the R2 button without moving the left analog stick.",
+  "zh": "要恢复默认视角高度，按住 R2 键后松开，期间不要推动左摇杆。"
+ },
+ {
+  "k": "missions.bc_p.description",
+  "en": "PC Training Missions",
+  "zh": "PC 新兵训练任务"
+ },
+ {
+  "k": "missions.bc_p.t02.objective5",
+  "en": "Order a Resource Depot and place it near the two resources.",
+  "zh": "订购一座资源站，把它放在两处资源附近。"
+ },
+ {
+  "k": "missions.bc_p.t02.objective16",
+  "en": "Keep practicing for as long as you want, then move Sarge to the extraction point to complete your training.",
+  "zh": "随心练习，练好后将中士移动到撤离点完成训练。"
+ },
+ {
+  "k": "missions.bc_p.t02.objective4",
+  "en": "Move the HQ to your desired location, then press the left mouse button to place it.",
+  "zh": "把总部移到想要的位置，然后按鼠标左键放置。"
+ },
+ {
+  "k": "missions.bc_p.t02.objective17",
+  "en": "Build a unit from the Barracks.",
+  "zh": "从兵营建造一个单位。"
+ },
+ {
+  "k": "missions.bc_p.t02.description",
+  "en": "Building a Base",
+  "zh": "建造基地"
+ },
+ {
+  "k": "missions.bc_p.t02.objective14",
+  "en": "Use the Bulldozer to place Barbed-Wire Fences on each of the markings.",
+  "zh": "用推土机在每个标记处放置铁丝网。"
+ },
+ {
+  "k": "missions.bc_p.t02.objective6",
+  "en": "Select the HQ and click on the Dump Truck in its Build Menu.",
+  "zh": "选中总部，在它的建造菜单中点击自卸卡车。"
+ },
+ {
+  "k": "missions.bc_p.t02.objective15",
+  "en": "Melt any building or fence by selecting it, then clicking on the Melt button above the Map on the right side of the screen.",
+  "zh": "选中建筑或围栏，再点击屏幕右侧地图上方的熔毁按钮将其熔化。"
+ },
+ {
+  "k": "missions.bc_p.t02.objective12",
+  "en": "Select your Barracks and click on the Upgrade button at the bottom of the Build Menu.",
+  "zh": "选中兵营，在建造菜单底部点击升级按钮。"
+ },
+ {
+  "k": "missions.bc_p.t02.objective1",
+  "en": "Select your Bulldozer to pull up its Build Menu.",
+  "zh": "选中推土机，调出它的建造菜单。"
+ },
+ {
+  "k": "missions.bc_p.t02.objective13",
+  "en": "Use the Bulldozer to construct a Guard Tower.",
+  "zh": "用推土机建造一座警卫塔。"
+ },
+ {
+  "k": "missions.bc_p.t02.objective10",
+  "en": "Select your HQ and click on the Upgrade button at the bottom of the Build Menu.",
+  "zh": "选中总部，在建造菜单底部点击升级按钮。"
+ },
+ {
+  "k": "missions.bc_p.t02.objective11",
+  "en": "When the HQ has finished upgrading, go to the Bulldozer's Build Menu and construct a Garage.",
+  "zh": "总部升级完成后，打开推土机建造菜单，建造一座车库。"
+ },
+ {
+  "k": "missions.bc_p.t02.objective2",
+  "en": "Move your cursor over the HQ on the Build Menu and press the left mouse button to select it.",
+  "zh": "把光标移到建造菜单中的总部上，按鼠标左键选中它。"
+ },
+ {
+  "k": "missions.bc_p.t02.objective9",
+  "en": "Select the Bulldozer and build a Barracks.",
+  "zh": "选中推土机，建造一座兵营。"
+ },
+ {
+  "k": "missions.bc_p.t03.objective5",
+  "en": "Destroy all the targets.",
+  "zh": "摧毁所有目标。"
+ },
+ {
+  "k": "missions.bc_p.t03.objective4",
+  "en": "Select all your units and move them into the first combat area to begin.",
+  "zh": "选中所有单位，把它们移入第一处交战区开始。"
+ },
+ {
+  "k": "missions.bc_p.t03.description",
+  "en": "Squads and Combat",
+  "zh": "小队与战斗"
+ },
+ {
+  "k": "missions.bc_p.t03.objective7",
+  "en": "When you're ready, select all your units and move them into the next combat area.",
+  "zh": "准备好后，选中所有单位，把它们移入下一处交战区。"
+ },
+ {
+  "k": "missions.bc_p.t03.objective6",
+  "en": "Select all your units and move them into the next combat area.",
+  "zh": "选中所有单位，把它们移入下一处交战区。"
+ },
+ {
+  "k": "missions.bc_p.t03.objective1",
+  "en": "Select all your units, hold down the Control key on the keyboard, then press the 1 key to put them in a Squad.",
+  "zh": "选中所有单位，按住键盘 Ctrl 键，再按 1 键把他们编成小队。"
+ },
+ {
+  "k": "missions.bc_p.t03.objective3",
+  "en": "Select the Squad with Sarge, Riff, and Scorch in it.",
+  "zh": "选中包含中士、里夫和斯考奇的这支小队。"
+ },
+ {
+  "k": "missions.bc_p.t03.objective2",
+  "en": "Select your new units and place them in a Squad.",
+  "zh": "选中新单位，把他们编入小队。"
+ },
+ {
+  "k": "missions.bc_p.t03.objective8",
+  "en": "You can head to the extraction point now, or continue on and practice combat in the challenge course.",
+  "zh": "现在可以去撤离点，也可以继续在挑战场练习战斗。"
+ },
+ {
+  "k": "missions.bc_p.t03.objective9",
+  "en": "Move Sarge to the extraction point.",
+  "zh": "将中士移动到撤离点。"
+ },
+ {
+  "k": "missions.bc_p.t01.objective5",
+  "en": "Press the left mouse button to give the commando units a move order.",
+  "zh": "按鼠标左键给突击队员下达移动指令。"
+ },
+ {
+  "k": "missions.bc_p.t01.objective4",
+  "en": "Select all three commando units at once by pressing and holding the left mouse button, then dragging the cursor over them.",
+  "zh": "按住鼠标左键并拖动光标框住三个突击队员，一次全部选中。"
+ },
+ {
+  "k": "missions.bc_p.t01.description",
+  "en": "Camera and Movement",
+  "zh": "视角与移动"
+ },
+ {
+  "k": "missions.bc_p.t01.objective7",
+  "en": "Press the space bar to jump to the enemy units.",
+  "zh": "按空格键跳到敌方单位处。"
+ },
+ {
+  "k": "missions.bc_p.t01.objective6",
+  "en": "Select all seven units on the map at once by holding down shift while selecting them.",
+  "zh": "按住 Shift 键逐个选择，一次选中地图上全部七个单位。"
+ },
+ {
+  "k": "missions.bc_p.t01.objective1",
+  "en": "Hold the right mouse button down and scroll forward to center the camera on the extraction point to the north.",
+  "zh": "按住鼠标右键并向前滚动，把视角对准北面的撤离点。"
+ },
+ {
+  "k": "missions.bc_p.t01.objective3",
+  "en": "With Sarge selected, position your cursor anywhere on the map and press the left mouse button to give Sarge a move order.",
+  "zh": "选中中士后，把光标移到地图任意位置，按鼠标左键下达移动指令。"
+ },
+ {
+  "k": "missions.bc_p.t01.objective11",
+  "en": "When you've had enough, move Sarge to the extraction point to complete your training.",
+  "zh": "练够之后，将中士移动到撤离点完成训练。"
+ },
+ {
+  "k": "missions.bc_p.t01.objective2",
+  "en": "Scroll over to Sarge and position your cursor on top of him, then press the left mouse button to select him.",
+  "zh": "滚动到中士处并把光标放在他身上，然后按鼠标左键选中他。"
+ },
+ {
+  "k": "missions.bc_p.t01.objective8",
+  "en": "Use the mouse wheel or control key to zoom the camera up and down.",
+  "zh": "用鼠标滚轮或 Ctrl 键上下缩放视角。"
+ },
+ {
+  "k": "missions.bc_p.t01.objective9",
+  "en": "Do not press the 'J' key.",
+  "zh": "不要按 'J' 键。"
+ },
+ {
+  "k": "shell.nonetwork.title",
+  "en": "Multiplayer not available",
+  "zh": "多人对战不可用"
+ },
+ {
+  "k": "shell.nonetwork.message",
+  "en": "Multiplayer has been disabled because your computer \\r\\ndoes not have Winsock version 2.2 installed.\\r\\n\\r\\nWinsock 2.2 can be installed from the installation CD or can be downloaded\\r\\nby going to http://www.microsoft.com and searching for Winsock2.",
+  "zh": "多人对战已被禁用，因为您的计算机 \\r\\n未安装 Winsock 2.2 版。\\r\\n\\r\\nWinsock 2.2 可从安装光盘安装，也可通过访问\\r\\nhttp://www.microsoft.com 并搜索 Winsock2 下载。"
+ },
+ {
+  "k": "shell.start.pressstart",
+  "en": "Press the START button",
+  "zh": "请按 START 键"
+ },
+ {
+  "k": "shell.specialops.title",
+  "en": "Special Operations",
+  "zh": "特别行动"
+ },
+ {
+  "k": "shell.credits.leaddesigner",
+  "en": "Lead Designer",
+  "zh": "主设计师"
+ },
+ {
+  "k": "shell.credits.addprogrammer",
+  "en": "Additional Programming",
+  "zh": "附加程序"
+ },
+ {
+  "k": "shell.credits.producers",
+  "en": "Producers",
+  "zh": "制作人"
+ },
+ {
+  "k": "shell.credits.voicetalent",
+  "en": "Voice Talent",
+  "zh": "配音演员"
+ },
+ {
+  "k": "shell.credits.execproducer",
+  "en": "Executive Producer",
+  "zh": "执行制作人"
+ },
+ {
+  "k": "shell.credits.tester",
+  "en": "Testers",
+  "zh": "测试人员"
+ },
+ {
+  "k": "shell.credits.programmer",
+  "en": "Programmer",
+  "zh": "程序员"
+ },
+ {
+  "k": "shell.credits.sounddesign",
+  "en": "Music and Sound Design By :",
+  "zh": "音乐与音效设计："
+ },
+ {
+  "k": "shell.credits.title",
+  "en": "Credits",
+  "zh": "制作人员"
+ },
+ {
+  "k": "shell.credits.complete_message1",
+  "en": "You've unlocked the",
+  "zh": "您已解锁"
+ },
+ {
+  "k": "shell.credits.leadprogrammer",
+  "en": "Lead Programmer",
+  "zh": "主程序员"
+ },
+ {
+  "k": "shell.credits.complete_message2",
+  "en": "entire game!",
+  "zh": "整个游戏！"
+ },
+ {
+  "k": "shell.credits.designer",
+  "en": "Designer",
+  "zh": "设计师"
+ },
+ {
+  "k": "shell.credits.addart",
+  "en": "Additional Art",
+  "zh": "附加美术"
+ },
+ {
+  "k": "shell.credits.artist",
+  "en": "Artist",
+  "zh": "美术"
+ },
+ {
+  "k": "shell.credits.bink",
+  "en": "Uses Bink Video. Copyright © 1997-2001 by RAD Game Tools, Inc.\\r\\n",
+  "zh": "使用 Bink Video。版权所有 (C) 1997-2001 RAD Game Tools, Inc.\\r\\n"
+ },
+ {
+  "k": "shell.credits.mpeg1",
+  "en": "MPEG Layer-3 playback supplied with the Miles Sound System from RAD ",
+  "zh": "MPEG Layer-3 播放由 RAD Game Tools, Inc. 的 Miles Sound System 提供。"
+ },
+ {
+  "k": "shell.credits.seniorproducer",
+  "en": "Senior Producer",
+  "zh": "高级制作人"
+ },
+ {
+  "k": "shell.credits.mpeg2",
+  "en": "Game Tools, Inc. MPEG Layer-3 audio compression technology licensed by ",
+  "zh": "MPEG Layer-3 音频压缩技术由"
+ },
+ {
+  "k": "shell.credits.leadartist",
+  "en": "Lead Artist",
+  "zh": "主美术"
+ },
+ {
+  "k": "shell.credits.mpeg3",
+  "en": "Fraunhofer IIS and THOMSON multimedia.",
+  "zh": "Fraunhofer IIS 与 THOMSON multimedia 授权。"
+ },
+ {
+  "k": "shell.credits.complete",
+  "en": "Well Done!",
+  "zh": "干得好！"
+ },
+ {
+  "k": "shell.credits.artistanimator",
+  "en": "3D Artist/Animator",
+  "zh": "3D 美术/动画"
+ },
+ {
+  "k": "shell.credits.producer",
+  "en": "Producer",
+  "zh": "制作人"
+ },
+ {
+  "k": "shell.credits.mediaservices",
+  "en": "Media Services",
+  "zh": "媒体服务"
+ },
+ {
+  "k": "shell.credits.artistcharanim",
+  "en": "3D Artist/Character Animator",
+  "zh": "3D 美术/角色动画"
+ },
+ {
+  "k": "shell.credits.specialthanks",
+  "en": "Special Thanks",
+  "zh": "特别鸣谢"
+ },
+ {
+  "k": "shell.credits.miles",
+  "en": "Uses Miles Sound System. Copyright © 1991-2001 by RAD Game Tools, Inc.",
+  "zh": "使用 Miles Sound System。版权所有 (C) 1991-2001 RAD Game Tools, Inc."
+ },
+ {
+  "k": "shell.credits.testsupervisor",
+  "en": "Test Supervisor",
+  "zh": "测试主管"
+ },
+ {
+  "k": "shell.credits.fourelements",
+  "en": "3D Cinematic by 4-Elements Studios, Montreal, Qebec, Canada",
+  "zh": "3D 过场动画：4-Elements Studios（加拿大魁北克省蒙特利尔）"
+ },
+ {
+  "k": "shell.credits.prerender",
+  "en": "Pre-rendered Video",
+  "zh": "预渲染视频"
+ },
+ {
+  "k": "shell.credits.fourelements_ps2_1",
+  "en": "3D Cinematic by 4-Elements Studios,",
+  "zh": "3D 过场动画：4-Elements Studios，"
+ },
+ {
+  "k": "shell.credits.projectlead",
+  "en": "Project Lead",
+  "zh": "项目主管"
+ },
+ {
+  "k": "shell.credits.fourelements_ps2_2",
+  "en": "Montreal, Qebec, Canada",
+  "zh": "加拿大魁北克省蒙特利尔"
+ },
+ {
+  "k": "shell.credits.musicaudio",
+  "en": "Music and Sound Design",
+  "zh": "音乐与音效设计"
+ },
+ {
+  "k": "shell.campaign.story.missionlocation",
+  "en": "Mission Location",
+  "zh": "任务地点"
+ },
+ {
+  "k": "shell.campaign.story.title",
+  "en": "Campaign",
+  "zh": "战役"
+ },
+ {
+  "k": "shell.campaign.story.missionname",
+  "en": "Mission Name",
+  "zh": "任务名称"
+ },
+ {
+  "k": "shell.campaign.number",
+  "en": "{1:d}",
+  "zh": "{1:d}"
+ },
+ {
+  "k": "shell.campaign.boot.title",
+  "en": "Boot Camp",
+  "zh": "新兵训练"
+ },
+ {
+  "k": "shell.debriefing.time",
+  "en": "{1:d} min {2:d} sec",
+  "zh": "{1:d} 分 {2:d} 秒"
+ },
+ {
+  "k": "shell.debriefing.unlock.unlock",
+  "en": "You have unlocked",
+  "zh": "您已解锁"
+ },
+ {
+  "k": "shell.debriefing.unlock.type-1.multiple",
+  "en": "{1:d} Great Battles missions",
+  "zh": "{1:d} 个大战役任务"
+ },
+ {
+  "k": "shell.debriefing.unlock.type-1.single",
+  "en": "1 Great Battles mission",
+  "zh": "1 个大战役任务"
+ },
+ {
+  "k": "shell.debriefing.unlock.type-0.multiple",
+  "en": "{1:d} Intelligence Files",
+  "zh": "{1:d} 份情报文件"
+ },
+ {
+  "k": "shell.debriefing.unlock.type-0.single",
+  "en": "1 Intelligence File",
+  "zh": "1 份情报文件"
+ },
+ {
+  "k": "shell.debriefing.unlock.type-2.multiple",
+  "en": "{1:d} Special Operations missions",
+  "zh": "{1:d} 个特别行动任务"
+ },
+ {
+  "k": "shell.debriefing.unlock.type-2.single",
+  "en": "1 Special Operations mission",
+  "zh": "1 个特别行动任务"
+ },
+ {
+  "k": "shell.debriefing.lost.title",
+  "en": "Defeat",
+  "zh": "失败"
+ },
+ {
+  "k": "shell.debriefing.lost.network",
+  "en": "Defeat",
+  "zh": "失败"
+ },
+ {
+  "k": "shell.debriefing.won.title",
+  "en": "Victory",
+  "zh": "胜利"
+ },
+ {
+  "k": "shell.debriefing.won.network",
+  "en": "Victory",
+  "zh": "胜利"
+ },
+ {
+  "k": "shell.debriefing.network.electricity",
+  "en": "Electricity",
+  "zh": "电力"
+ },
+ {
+  "k": "shell.debriefing.network.result",
+  "en": "Result",
+  "zh": "结果"
+ },
+ {
+  "k": "shell.debriefing.network.kills",
+  "en": "Kills",
+  "zh": "击杀"
+ },
+ {
+  "k": "shell.debriefing.network.name",
+  "en": "Name",
+  "zh": "名称"
+ },
+ {
+  "k": "shell.debriefing.network.plastic",
+  "en": "Plastic",
+  "zh": "塑料"
+ },
+ {
+  "k": "shell.debriefing.network.casualties",
+  "en": "Casualties",
+  "zh": "伤亡"
+ },
+ {
+  "k": "shell.debriefing.network.timetitle",
+  "en": "Mission Time",
+  "zh": "任务用时"
+ },
+ {
+  "k": "shell.debriefing.congratulations",
+  "en": "Congratulations",
+  "zh": "恭喜"
+ },
+ {
+  "k": "shell.debriefing.replay",
+  "en": "Retry",
+  "zh": "重试"
+ },
+ {
+  "k": "shell.debriefing.next",
+  "en": "Next",
+  "zh": "下一步"
+ },
+ {
+  "k": "shell.debriefing.single.kills",
+  "en": "Kills",
+  "zh": "击杀"
+ },
+ {
+  "k": "shell.debriefing.single.secretcode",
+  "en": "Secret Code",
+  "zh": "密技"
+ },
+ {
+  "k": "shell.debriefing.single.resources",
+  "en": "Resources Spent",
+  "zh": "消耗资源"
+ },
+ {
+  "k": "shell.debriefing.single.losses",
+  "en": "Losses",
+  "zh": "损失"
+ },
+ {
+  "k": "shell.debriefing.single.medalgoals",
+  "en": "Medal Goals",
+  "zh": "奖章目标"
+ },
+ {
+  "k": "shell.debriefing.single.casualties",
+  "en": "Casualties",
+  "zh": "伤亡"
+ },
+ {
+  "k": "shell.debriefing.single.timetitle",
+  "en": "Mission Time",
+  "zh": "任务用时"
+ },
+ {
+  "k": "shell.debriefing.load",
+  "en": "Load",
+  "zh": "读取"
+ },
+ {
+  "k": "shell.debriefing.computer",
+  "en": "Computer",
+  "zh": "电脑"
+ },
+ {
+  "k": "shell.debriefing.medals.silveraward",
+  "en": "You have been awarded a Silver Medal!",
+  "zh": "您获得了银质奖章！"
+ },
+ {
+  "k": "shell.debriefing.medals.bronzeaward",
+  "en": "You have been awarded a Bronze Medal!",
+  "zh": "您获得了铜质奖章！"
+ },
+ {
+  "k": "shell.debriefing.medals.silver",
+  "en": "Silver",
+  "zh": "银质"
+ },
+ {
+  "k": "shell.debriefing.medals.bronze",
+  "en": "Bronze",
+  "zh": "铜质"
+ },
+ {
+  "k": "shell.debriefing.medals.goldaward",
+  "en": "You have been awarded a Gold Medal!",
+  "zh": "您获得了金质奖章！"
+ },
+ {
+  "k": "shell.debriefing.medals.gold",
+  "en": "Gold",
+  "zh": "金质"
+ },
+ {
+  "k": "shell.debriefing.medals.congratulations",
+  "en": "Congratulations!",
+  "zh": "恭喜！"
+ },
+ {
+  "k": "shell.intel.classified",
+  "en": "Classified",
+  "zh": "机密"
+ },
+ {
+  "k": "shell.intel.totaltitle",
+  "en": "Files",
+  "zh": "文件"
+ },
+ {
+  "k": "shell.intel.animations",
+  "en": "Animations",
+  "zh": "动画"
+ },
+ {
+  "k": "shell.intel.accessing",
+  "en": "Accessing...",
+  "zh": "正在读取..."
+ },
+ {
+  "k": "shell.intel.sounds",
+  "en": "Sounds",
+  "zh": "音效"
+ },
+ {
+  "k": "shell.intel.total",
+  "en": "{1:d} / {2:d}",
+  "zh": "{1:d} / {2:d}"
+ },
+ {
+  "k": "shell.intel.classified_hint2",
+  "en": "unlock these files.",
+  "zh": "解锁这些文件。"
+ },
+ {
+  "k": "shell.intel.classified_hint1",
+  "en": "Earn Medals to",
+  "zh": "获得奖章以"
+ },
+ {
+  "k": "shell.intel.names.acid_gun",
+  "en": "Blintz's Acid Gun",
+  "zh": "布林茨的酸液枪"
+ },
+ {
+  "k": "shell.intel.names.video_games",
+  "en": "Video Games",
+  "zh": "电子游戏"
+ },
+ {
+  "k": "shell.intel.names.spaceman",
+  "en": "Spaceman Dave",
+  "zh": "太空人戴夫"
+ },
+ {
+  "k": "shell.intel.names.chemfactory",
+  "en": "Chemical Factory",
+  "zh": "化工厂"
+ },
+ {
+  "k": "shell.intel.names.rubberduck",
+  "en": "Adam the Strident Duck",
+  "zh": "尖嗓鸭亚当"
+ },
+ {
+  "k": "shell.intel.names.petunia",
+  "en": "Gordon the Asthmatic Sheep",
+  "zh": "哮喘羊戈登"
+ },
+ {
+  "k": "shell.intel.names.toychest",
+  "en": "Lachlan the Laconic Ladybug",
+  "zh": "寡言瓢虫拉克伦"
+ },
+ {
+  "k": "shell.intel.names.frisbee",
+  "en": "Air Smiley",
+  "zh": "飞天笑脸"
+ },
+ {
+  "k": "shell.intel.names.fan",
+  "en": "Spinning Fan of Doom",
+  "zh": "死亡旋转风扇"
+ },
+ {
+  "k": "shell.intel.names.flamethrower",
+  "en": "The Unloved Flamethrower",
+  "zh": "无人爱的喷火器"
+ },
+ {
+  "k": "shell.intel.names.cow",
+  "en": "Brendan the Non-Dairy Cow",
+  "zh": "不产奶的牛布伦丹"
+ },
+ {
+  "k": "shell.intel.names.spider",
+  "en": "Australian Death Spider",
+  "zh": "澳洲死亡蜘蛛"
+ },
+ {
+  "k": "shell.intel.names.cereal",
+  "en": "Captain Dan Cereal",
+  "zh": "丹上尉麦片"
+ },
+ {
+  "k": "shell.intel.names.goldfish",
+  "en": "Matt Harding's \"Goldfish\"",
+  "zh": "马特·哈丁的“金鱼”"
+ },
+ {
+  "k": "shell.intel.names.toilet",
+  "en": "Steenky Toilet",
+  "zh": "臭马桶"
+ },
+ {
+  "k": "shell.intel.names.brontosaurus",
+  "en": "Brontosaurus",
+  "zh": "雷龙"
+ },
+ {
+  "k": "shell.intel.names.concept_art",
+  "en": "Concept Art",
+  "zh": "概念美术"
+ },
+ {
+  "k": "shell.intel.names.triceratops",
+  "en": "Triceratops",
+  "zh": "三角龙"
+ },
+ {
+  "k": "shell.intel.names.butterfly",
+  "en": "Fiona the Butterfly",
+  "zh": "蝴蝶菲奥娜"
+ },
+ {
+  "k": "shell.intel.names.fly",
+  "en": "House Fly",
+  "zh": "家蝇"
+ },
+ {
+  "k": "shell.intel.names.alien",
+  "en": "Shlime of Zantrobulor",
+  "zh": "赞特罗布洛的史莱姆"
+ },
+ {
+  "k": "shell.intel.names.skateboard",
+  "en": "Skateboard",
+  "zh": "滑板"
+ },
+ {
+  "k": "shell.intel.names.townhall",
+  "en": "Town Hall",
+  "zh": "市政厅"
+ },
+ {
+  "k": "shell.intel.names.soldier_ant",
+  "en": "Soldier Ant",
+  "zh": "兵蚁"
+ },
+ {
+  "k": "shell.intel.names.tricycle",
+  "en": "Fat Wheels",
+  "zh": "胖轮车"
+ },
+ {
+  "k": "shell.intel.names.worker_ant",
+  "en": "Worker Ant",
+  "zh": "工蚁"
+ },
+ {
+  "k": "shell.intel.names.blintz",
+  "en": "Colonel Blintz",
+  "zh": "布林茨上校"
+ },
+ {
+  "k": "shell.intel.names.pizza",
+  "en": "Greasy Pizza",
+  "zh": "油腻披萨"
+ },
+ {
+  "k": "shell.intel.names.pig",
+  "en": "Unprocessed Bacon",
+  "zh": "未加工培根"
+ },
+ {
+  "k": "shell.intel.names.grimm",
+  "en": "Colonel Grimm",
+  "zh": "格里姆上校"
+ },
+ {
+  "k": "shell.intel.names.train_engine",
+  "en": "Attic Express",
+  "zh": "阁楼特快"
+ },
+ {
+  "k": "shell.intel.names.captain_dan",
+  "en": "Captain Dan",
+  "zh": "丹上尉"
+ },
+ {
+  "k": "shell.intel.names.gnome",
+  "en": "Weili the Strange Gnome",
+  "zh": "古怪侏儒威利"
+ },
+ {
+  "k": "shell.intel.names.ps2",
+  "en": "PlayStation® 2",
+  "zh": "PlayStation(R) 2"
+ },
+ {
+  "k": "shell.intel.names.queen_ant",
+  "en": "Ant Queen",
+  "zh": "蚁后"
+ },
+ {
+  "k": "shell.intel.names.fork",
+  "en": "Shiny Pronged Metal Device",
+  "zh": "闪亮尖齿金属装置"
+ },
+ {
+  "k": "shell.intel.names.trex",
+  "en": "T-Rex McClurg",
+  "zh": "霸王龙麦克勒格"
+ },
+ {
+  "k": "shell.intel.names.blockoman",
+  "en": "Brian the Vaguely Amish",
+  "zh": "疑似阿米什人布莱恩"
+ },
+ {
+  "k": "shell.intel.names.banana",
+  "en": "Blahnana",
+  "zh": "布拉纳纳"
+ },
+ {
+  "k": "shell.intel.names.castle",
+  "en": "Kasey's Castle",
+  "zh": "凯西的城堡"
+ },
+ {
+  "k": "shell.intel.names.frog",
+  "en": "Bradford the Frog",
+  "zh": "青蛙布拉德福德"
+ },
+ {
+  "k": "shell.intel.help.rotateleft",
+  "en": "Rotate Left",
+  "zh": "向左旋转"
+ },
+ {
+  "k": "shell.intel.help.music",
+  "en": "Change Music",
+  "zh": "切换音乐"
+ },
+ {
+  "k": "shell.intel.help.title",
+  "en": "Help",
+  "zh": "帮助"
+ },
+ {
+  "k": "shell.intel.help.animations",
+  "en": "Play Animations",
+  "zh": "播放动画"
+ },
+ {
+  "k": "shell.intel.help.L1",
+  "en": "L1",
+  "zh": "L1"
+ },
+ {
+  "k": "shell.intel.help.zoomout",
+  "en": "Zoom Out",
+  "zh": "缩小"
+ },
+ {
+  "k": "shell.intel.help.L2",
+  "en": "L2",
+  "zh": "L2"
+ },
+ {
+  "k": "shell.intel.help.zoomin",
+  "en": "Zoom In",
+  "zh": "放大"
+ },
+ {
+  "k": "shell.intel.help.sounds",
+  "en": "Play Sounds",
+  "zh": "播放音效"
+ },
+ {
+  "k": "shell.intel.help.R2",
+  "en": "R2",
+  "zh": "R2"
+ },
+ {
+  "k": "shell.intel.help.rotateright",
+  "en": "Rotate Right",
+  "zh": "向右旋转"
+ },
+ {
+  "k": "shell.intel.help.R1",
+  "en": "R1",
+  "zh": "R1"
+ },
+ {
+  "k": "shell.options.subtitle2",
+  "en": "Audio Options",
+  "zh": "音频设置"
+ },
+ {
+  "k": "shell.options.subtitle1",
+  "en": "Video Options",
+  "zh": "视频设置"
+ },
+ {
+  "k": "shell.options.gamma.title",
+  "en": "Brightness",
+  "zh": "亮度"
+ },
+ {
+  "k": "shell.options.gamma.max",
+  "en": "Brighter",
+  "zh": "更亮"
+ },
+ {
+  "k": "shell.options.gamma.min",
+  "en": "Darker",
+  "zh": "更暗"
+ },
+ {
+  "k": "shell.options.title",
+  "en": "Options",
+  "zh": "设置"
+ },
+ {
+  "k": "shell.options.world.low",
+  "en": "Low",
+  "zh": "低"
+ },
+ {
+  "k": "shell.options.world.title",
+  "en": "World Detail",
+  "zh": "世界细节"
+ },
+ {
+  "k": "shell.options.world.high",
+  "en": "High",
+  "zh": "高"
+ },
+ {
+  "k": "shell.options.world.medium",
+  "en": "Medium",
+  "zh": "中"
+ },
+ {
+  "k": "shell.options.texture.low",
+  "en": "Low",
+  "zh": "低"
+ },
+ {
+  "k": "shell.options.texture.title",
+  "en": "Texture Detail",
+  "zh": "贴图细节"
+ },
+ {
+  "k": "shell.options.texture.high",
+  "en": "High",
+  "zh": "高"
+ },
+ {
+  "k": "shell.options.sound.speech",
+  "en": "Speech Volume",
+  "zh": "语音音量"
+ },
+ {
+  "k": "shell.options.sound.music",
+  "en": "Music Volume",
+  "zh": "音乐音量"
+ },
+ {
+  "k": "shell.options.sound.max",
+  "en": "Max",
+  "zh": "最大"
+ },
+ {
+  "k": "shell.options.sound.master",
+  "en": "Master Volume",
+  "zh": "主音量"
+ },
+ {
+  "k": "shell.options.sound.min",
+  "en": "Min",
+  "zh": "最小"
+ },
+ {
+  "k": "shell.options.previews",
+  "en": "Previews",
+  "zh": "预览"
+ },
+ {
+  "k": "shell.options.resolution",
+  "en": "Screen Resolution and Color Depth",
+  "zh": "屏幕分辨率与色彩深度"
+ },
+ {
+  "k": "shell.quit.title",
+  "en": "Quit",
+  "zh": "退出"
+ },
+ {
+  "k": "shell.quit.ask1",
+  "en": "Are you sure you",
+  "zh": "您确定要"
+ },
+ {
+  "k": "shell.quit.ask2",
+  "en": "want to quit?",
+  "zh": "退出游戏吗？"
+ },
+ {
+  "k": "shell.greatbattles.hintPS2_2",
+  "en": "Campaign to unlock these",
+  "zh": "以解锁这些"
+ },
+ {
+  "k": "shell.greatbattles.hintPS2_3",
+  "en": " missions.",
+  "zh": "任务。"
+ },
+ {
+  "k": "shell.greatbattles.classified",
+  "en": "Classified",
+  "zh": "机密"
+ },
+ {
+  "k": "shell.greatbattles.hintPS2_1",
+  "en": "Earn Gold Medals in the",
+  "zh": "在战役中获得金牌"
+ },
+ {
+  "k": "shell.greatbattles.title",
+  "en": "Great Battles",
+  "zh": "大战役"
+ },
+ {
+  "k": "shell.greatbattles.vaguehint",
+  "en": "Earn Medals to unlock these missions",
+  "zh": "获得奖章即可解锁这些任务"
+ },
+ {
+  "k": "shell.greatbattles.rating",
+  "en": "Mission Rating",
+  "zh": "任务评分"
+ },
+ {
+  "k": "shell.main.buttons.story",
+  "en": "Campaign",
+  "zh": "战役"
+ },
+ {
+  "k": "shell.main.buttons.bootcamp",
+  "en": "Boot Camp",
+  "zh": "新兵训练"
+ },
+ {
+  "k": "shell.main.buttons.intelfiles",
+  "en": "Intelligence Files",
+  "zh": "情报文件"
+ },
+ {
+  "k": "shell.main.buttons.specialops",
+  "en": "Special Operations",
+  "zh": "特别行动"
+ },
+ {
+  "k": "shell.main.buttons.back",
+  "en": "Back",
+  "zh": "返回"
+ },
+ {
+  "k": "shell.main.buttons.select",
+  "en": "Select",
+  "zh": "选择"
+ },
+ {
+  "k": "shell.main.buttons.options",
+  "en": "Options",
+  "zh": "设置"
+ },
+ {
+  "k": "shell.main.buttons.quit",
+  "en": "Quit",
+  "zh": "退出"
+ },
+ {
+  "k": "shell.main.buttons.greatbattles",
+  "en": "Great Battles",
+  "zh": "大战役"
+ },
+ {
+  "k": "shell.main.buttons.load",
+  "en": "Load Game",
+  "zh": "读取游戏"
+ },
+ {
+  "k": "shell.main.buttons.multiplayer",
+  "en": "Multiplayer",
+  "zh": "多人对战"
+ },
+ {
+  "k": "shell.load.empty",
+  "en": "- No Saved Game -",
+  "zh": "- 无存档 -"
+ },
+ {
+  "k": "shell.load.title",
+  "en": "Load a Game",
+  "zh": "读取游戏"
+ },
+ {
+  "k": "shell.load.load",
+  "en": "Load",
+  "zh": "读取"
+ },
+ {
+  "k": "game.side.army.description",
+  "en": "Army",
+  "zh": "军队"
+ },
+ {
+  "k": "game.side.insect.description",
+  "en": "Insect",
+  "zh": "虫族"
+ },
+ {
+  "k": "game.info.oos.playerkick",
+  "en": "The host has detected that your game has\\r\\ndiverged from the other players. \\r\\nUnfortunately you are unable to continue\\r\\nplaying in this game.",
+  "zh": "主机检测到你的游戏已\\r\\n与其他玩家不同步。 \\r\\n很遗憾，你无法继续\\r\\n进行本局游戏。"
+ },
+ {
+  "k": "game.info.oos.title",
+  "en": "Out of Sync",
+  "zh": "不同步"
+ },
+ {
+  "k": "game.info.oos.playerother",
+  "en": "{1:s} was out of sync and has been kicked from the game",
+  "zh": "{1:s} 不同步，已被踢出游戏"
+ },
+ {
+  "k": "game.info.data",
+  "en": "Detected that '{1:s}' has different data.",
+  "zh": "检测到 '{1:s}' 的数据不同。"
+ },
+ {
+  "k": "game.info.custommission",
+  "en": "Custom Mission",
+  "zh": "自定义任务"
+ },
+ {
+  "k": "game.messages.eliminated_computer",
+  "en": "An enemy computer opponent has been eliminated.",
+  "zh": "一个敌方电脑对手已被消灭。"
+ },
+ {
+  "k": "game.messages.team_gaveresource",
+  "en": "You gave {2:d} {3:s} to {1:s}",
+  "zh": "你给了 {1:s} {2:d} {3:s}"
+ },
+ {
+  "k": "game.messages.team_givenresource",
+  "en": "{1:s} just gave you {2:d} {3:s}",
+  "zh": "{1:s} 刚刚给了你 {2:d} {3:s}"
+ },
+ {
+  "k": "game.messages.team_gaveunits",
+  "en": "You gave {1:s} {2:d} unit(s)",
+  "zh": "你给了 {1:s} {2:d} 个单位"
+ },
+ {
+  "k": "game.messages.eliminated_human",
+  "en": "{1:s} has been eliminated.",
+  "zh": "{1:s} 已被消灭。"
+ },
+ {
+  "k": "game.messages.team_givenunits",
+  "en": "{1:s} just gave you {2:d} unit(s)",
+  "zh": "{1:s} 刚刚给了你 {2:d} 个单位"
+ },
+ {
+  "k": "game.resources.electricity",
+  "en": "Electricity",
+  "zh": "电力"
+ },
+ {
+  "k": "game.resources.plastic",
+  "en": "Plastic",
+  "zh": "塑料"
+ },
+ {
+  "k": "game.client.prereq.unavailable",
+  "en": "Requires a {1:s}",
+  "zh": "需要 {1:s}"
+ },
+ {
+  "k": "game.client.prereq.available",
+  "en": "",
+  "zh": ""
+ },
+ {
+  "k": "game.client.events.construct.secondary",
+  "en": "Press the L2 or R2 buttons to rotate the building",
+  "zh": "按 L2 或 R2 键旋转建筑"
+ },
+ {
+  "k": "game.client.events.construct.primary",
+  "en": "Use < and > to rotate the building",
+  "zh": "用 < 和 > 旋转建筑"
+ },
+ {
+  "k": "game.client.events.noconstruct",
+  "en": "Cannot build here",
+  "zh": "无法在此建造"
+ },
+ {
+  "k": "game.client.events.setrally",
+  "en": "Set the rally point for this building",
+  "zh": "为该建筑设置集结点"
+ },
+ {
+  "k": "game.client.events.walldeactivate",
+  "en": "Disconnect barbed wire",
+  "zh": "断开铁丝网"
+ },
+ {
+  "k": "game.client.events.wallactivate",
+  "en": "Connect barbed wire",
+  "zh": "连接铁丝网"
+ },
+ {
+  "k": "game.client.events.wallnoactivate",
+  "en": "Cannot connect these posts",
+  "zh": "无法连接这些柱子"
+ },
+ {
+  "k": "game.client.events.recycle",
+  "en": "Melt this building",
+  "zh": "熔毁此建筑"
+ },
+ {
+  "k": "game.client.events.useoffmap",
+  "en": "Drop the Air Strike",
+  "zh": "投放空袭"
+ },
+ {
+  "k": "game.client.hud.tasks.construct.process",
+  "en": "Building...",
+  "zh": "建造中..."
+ },
+ {
+  "k": "game.client.hud.tasks.construct.paused",
+  "en": "Paused",
+  "zh": "已暂停"
+ },
+ {
+  "k": "game.client.hud.tasks.constructor.process",
+  "en": "{1:s} {2:.0f}%",
+  "zh": "{1:s} {2:.0f}%"
+ },
+ {
+  "k": "game.client.hud.tasks.constructor.offmap",
+  "en": "{1:s} Ready",
+  "zh": "{1:s} 就绪"
+ },
+ {
+  "k": "game.client.hud.tasks.constructor.paused",
+  "en": "Paused",
+  "zh": "已暂停"
+ },
+ {
+  "k": "game.client.hud.tasks.upgrade.process",
+  "en": "Upgrading in progress...",
+  "zh": "正在升级..."
+ },
+ {
+  "k": "game.client.hud.tasks.upgrade.paused",
+  "en": "Upgrading Paused",
+  "zh": "升级已暂停"
+ },
+ {
+  "k": "game.client.hud.tasks.recycle.process",
+  "en": "Melting...",
+  "zh": "熔毁中..."
+ },
+ {
+  "k": "game.client.hud.sourcedepleted",
+  "en": "Source Depleted",
+  "zh": "资源枯竭"
+ },
+ {
+  "k": "game.client.hud.upgrade",
+  "en": "Upgrade Available",
+  "zh": "可升级"
+ },
+ {
+  "k": "game.client.construction.queue",
+  "en": "Queue",
+  "zh": "队列"
+ },
+ {
+  "k": "game.client.construction.build",
+  "en": "Build",
+  "zh": "建造"
+ },
+ {
+  "k": "game.client.construction.selectairstrike",
+  "en": "Select an airstrike to call in.",
+  "zh": "选择要呼叫的空袭。"
+ },
+ {
+  "k": "game.client.construction.upgraded",
+  "en": "This building is being upgraded.",
+  "zh": "该建筑正在升级。"
+ },
+ {
+  "k": "game.client.construction.bulldozerconstructing",
+  "en": "This Bulldozer is constructing a building.",
+  "zh": "该推土机正在建造建筑。"
+ },
+ {
+  "k": "game.client.construction.jump",
+  "en": "Jump",
+  "zh": "跳转"
+ },
+ {
+  "k": "game.client.construction.remove",
+  "en": "Remove",
+  "zh": "移除"
+ },
+ {
+  "k": "game.client.construction.select",
+  "en": "Select",
+  "zh": "选择"
+ },
+ {
+  "k": "game.client.construction.title-multiple",
+  "en": "{1:s} ({2:d})",
+  "zh": "{1:s} ({2:d})"
+ },
+ {
+  "k": "game.client.construction.releasetosetrally",
+  "en": "Release R1 to set the rally location.",
+  "zh": "松开 R1 设置集结位置。"
+ },
+ {
+  "k": "game.client.construction.underconstruction",
+  "en": "This building is under construction.",
+  "zh": "该建筑正在建造中。"
+ },
+ {
+  "k": "game.client.construction.title-single",
+  "en": "{1:s}",
+  "zh": "{1:s}"
+ },
+ {
+  "k": "game.client.construction.upgrade",
+  "en": "Upgrade",
+  "zh": "升级"
+ },
+ {
+  "k": "game.client.construction.selectunit",
+  "en": "Select a unit to build.",
+  "zh": "选择要建造的单位。"
+ },
+ {
+  "k": "game.client.construction.setrallypoint",
+  "en": "Set Rally Point",
+  "zh": "设置集结点"
+ },
+ {
+  "k": "game.client.construction.releasetoplace",
+  "en": "Release R1 to place this building.",
+  "zh": "松开 R1 放置此建筑。"
+ },
+ {
+  "k": "game.client.construction.selectbuilding",
+  "en": "Select a building to construct.",
+  "zh": "选择要建造的建筑。"
+ },
+ {
+  "k": "game.client.context.recycle",
+  "en": "Melt",
+  "zh": "熔毁"
+ },
+ {
+  "k": "game.savegame.description",
+  "en": "{1:s} - {2:s} ({3:d}:{4:.2d}:{5:.2d})",
+  "zh": "{1:s} - {2:s} ({3:d}:{4:.2d}:{5:.2d})"
+ },
+ {
+  "k": "game.savegame.changed",
+  "en": "Caution!\\r\\nThe memory card (PS2) may have been changed. If you proceed you may overwrite another Army Men RTS save game!",
+  "zh": "注意！\\r\\n记忆卡 (PS2) 可能已被更换。若继续，可能会覆盖另一个 Army Men RTS 存档！"
+ },
+ {
+  "k": "game.types.kitchen.prop.chemfactory",
+  "en": "Chemical Weapons Factory",
+  "zh": "化学武器工厂"
+ },
+ {
+  "k": "game.types.kitchen.prop.chemfactory_bottle",
+  "en": "Chemical Silo",
+  "zh": "化学储罐"
+ },
+ {
+  "k": "game.types.army.strike.magnifyingglass",
+  "en": "Magnifying Glass",
+  "zh": "放大镜"
+ },
+ {
+  "k": "game.types.army.strike.bombingrun",
+  "en": "Bombing Run",
+  "zh": "轰炸"
+ },
+ {
+  "k": "game.types.army.strike.paratroopers",
+  "en": "Paratroopers",
+  "zh": "伞兵"
+ },
+ {
+  "k": "game.types.army.building.guardtower",
+  "en": "Guard Tower",
+  "zh": "哨塔"
+ },
+ {
+  "k": "game.types.army.building.crates_group",
+  "en": "Ammo Crates",
+  "zh": "弹药箱"
+ },
+ {
+  "k": "game.types.army.building.aagun",
+  "en": "AA Gun",
+  "zh": "防空炮"
+ },
+ {
+  "k": "game.types.army.building.pillbox",
+  "en": "Pillbox",
+  "zh": "碉堡"
+ },
+ {
+  "k": "game.types.army.building.drum_group",
+  "en": "Drums",
+  "zh": "油桶"
+ },
+ {
+  "k": "game.types.army.building.jerrycans_group",
+  "en": "Jerry Cans",
+  "zh": "汽油桶"
+ },
+ {
+  "k": "game.types.army.building.bwpost",
+  "en": "Barbed Wire Post",
+  "zh": "铁丝网柱"
+ },
+ {
+  "k": "game.types.army.building.hq3",
+  "en": "Super Duper HQ",
+  "zh": "超级总部"
+ },
+ {
+  "k": "game.types.army.building.hq2",
+  "en": "Super HQ",
+  "zh": "高级总部"
+ },
+ {
+  "k": "game.types.army.building.hq1",
+  "en": "HQ",
+  "zh": "总部"
+ },
+ {
+  "k": "game.types.army.building.resourcedepot",
+  "en": "Resource Depot",
+  "zh": "资源库"
+ },
+ {
+  "k": "game.types.army.building.thumbtacks",
+  "en": "Thumbtacks",
+  "zh": "图钉"
+ },
+ {
+  "k": "game.types.army.building.bwpost-leg",
+  "en": "Table Leg",
+  "zh": "桌腿"
+ },
+ {
+  "k": "game.types.army.building.mine",
+  "en": "Mine",
+  "zh": "地雷"
+ },
+ {
+  "k": "game.types.army.building.barracks1",
+  "en": "Barracks",
+  "zh": "兵营"
+ },
+ {
+  "k": "game.types.army.building.gluebomb",
+  "en": "Glue Bomb",
+  "zh": "胶水炸弹"
+ },
+ {
+  "k": "game.types.army.building.barracks2",
+  "en": "Super Barracks",
+  "zh": "高级兵营"
+ },
+ {
+  "k": "game.types.army.building.garage1",
+  "en": "Garage",
+  "zh": "车库"
+ },
+ {
+  "k": "game.types.army.building.garage2",
+  "en": "Super Garage",
+  "zh": "高级车库"
+ },
+ {
+  "k": "game.types.army.unit.thick",
+  "en": "Thick",
+  "zh": "壮汉"
+ },
+ {
+  "k": "game.types.army.unit.bullseye",
+  "en": "Bullseye",
+  "zh": "神射手"
+ },
+ {
+  "k": "game.types.army.unit.mortar",
+  "en": "Mortar Man",
+  "zh": "迫击炮兵"
+ },
+ {
+  "k": "game.types.army.unit.bulldozer",
+  "en": "Bulldozer",
+  "zh": "推土机"
+ },
+ {
+  "k": "game.types.army.unit.shrap",
+  "en": "Shrap",
+  "zh": "弹片"
+ },
+ {
+  "k": "game.types.army.unit.scorch",
+  "en": "Scorch",
+  "zh": "焦炭"
+ },
+ {
+  "k": "game.types.army.unit.riff",
+  "en": "Riff",
+  "zh": "里夫"
+ },
+ {
+  "k": "game.types.army.unit.flame",
+  "en": "Flamethrower",
+  "zh": "火焰喷射兵"
+ },
+ {
+  "k": "game.types.army.unit.sniper",
+  "en": "Sniper",
+  "zh": "狙击手"
+ },
+ {
+  "k": "game.types.army.unit.tank",
+  "en": "Tank",
+  "zh": "坦克"
+ },
+ {
+  "k": "game.types.army.unit.grenadier",
+  "en": "Grenadier",
+  "zh": "掷弹兵"
+ },
+ {
+  "k": "game.types.army.unit.flagcapturer",
+  "en": "Flag Capturer",
+  "zh": "夺旗兵"
+ },
+ {
+  "k": "game.types.army.unit.paratrooper-parachute",
+  "en": "Paratrooper-parachute",
+  "zh": "伞兵-降落伞"
+ },
+ {
+  "k": "game.types.army.unit.machinegunner",
+  "en": "Machine Gunner",
+  "zh": "机枪手"
+ },
+ {
+  "k": "game.types.army.unit.chinook",
+  "en": "Chinook",
+  "zh": "支奴干直升机"
+ },
+ {
+  "k": "game.types.army.unit.minejeep",
+  "en": "Minelayer",
+  "zh": "布雷车"
+ },
+ {
+  "k": "game.types.army.unit.flag",
+  "en": "Flag",
+  "zh": "旗帜"
+ },
+ {
+  "k": "game.types.army.unit.hoover",
+  "en": "Hoover",
+  "zh": "胡佛"
+ },
+ {
+  "k": "game.types.army.unit.grunt",
+  "en": "Grunt",
+  "zh": "大兵"
+ },
+ {
+  "k": "game.types.army.unit.radio",
+  "en": "Radio Operator",
+  "zh": "通讯兵"
+ },
+ {
+  "k": "game.types.army.unit.truck",
+  "en": "Convoy Truck",
+  "zh": "运输卡车"
+ },
+ {
+  "k": "game.types.army.unit.dumdum",
+  "en": "DumDum",
+  "zh": "达姆弹"
+ },
+ {
+  "k": "game.types.army.unit.chopper",
+  "en": "Chopper",
+  "zh": "武装直升机"
+ },
+ {
+  "k": "game.types.army.unit.medicjeep",
+  "en": "Medic",
+  "zh": "医疗兵"
+ },
+ {
+  "k": "game.types.army.unit.paratrooper",
+  "en": "Paratrooper",
+  "zh": "伞兵"
+ },
+ {
+  "k": "game.types.army.unit.sarge",
+  "en": "Sarge",
+  "zh": "中士"
+ },
+ {
+  "k": "game.types.army.unit.vikki",
+  "en": "Vikki",
+  "zh": "薇琪"
+ },
+ {
+  "k": "game.types.army.unit.dumptruck",
+  "en": "Dump Truck",
+  "zh": "自卸卡车"
+ },
+ {
+  "k": "game.types.army.unit.bazooka",
+  "en": "Bazooka Man",
+  "zh": "火箭筒兵"
+ },
+ {
+  "k": "game.types.army.unit.halftrack",
+  "en": "Half-Track",
+  "zh": "半履带车"
+ },
+ {
+  "k": "game.types.army.unit.minesweeper",
+  "en": "Mine Sweeper",
+  "zh": "扫雷车"
+ },
+ {
+  "k": "game.types.resource.flashlight",
+  "en": "Flashlight",
+  "zh": "手电筒"
+ },
+ {
+  "k": "game.types.resource.bonetrain",
+  "en": "Train Wreck",
+  "zh": "火车残骸"
+ },
+ {
+  "k": "game.types.resource.cowstand",
+  "en": "Cow",
+  "zh": "奶牛"
+ },
+ {
+  "k": "game.types.resource.9volt-standing",
+  "en": "Battery",
+  "zh": "电池"
+ },
+ {
+  "k": "game.types.resource.vhschef",
+  "en": "VHS Tape",
+  "zh": "录像带"
+ },
+ {
+  "k": "game.types.resource.controlbox",
+  "en": "Control Box",
+  "zh": "控制箱"
+ },
+ {
+  "k": "game.types.resource.controller",
+  "en": "Controller",
+  "zh": "手柄"
+ },
+ {
+  "k": "game.types.resource.torch",
+  "en": "Torch",
+  "zh": "火炬"
+ },
+ {
+  "k": "game.types.resource.vhsblintz",
+  "en": "VHS Tape",
+  "zh": "录像带"
+ },
+ {
+  "k": "game.types.resource.watergun",
+  "en": "Water Gun",
+  "zh": "水枪"
+ },
+ {
+  "k": "game.types.resource.rubberduck",
+  "en": "Rubber Duck",
+  "zh": "橡皮鸭"
+ },
+ {
+  "k": "game.types.resource.frisbee",
+  "en": "Airdisk",
+  "zh": "飞盘"
+ },
+ {
+  "k": "game.types.resource.bikinipeachy",
+  "en": "Bikini Peachy",
+  "zh": "比基尼皮奇"
+ },
+ {
+  "k": "game.types.resource.cow",
+  "en": "Cow",
+  "zh": "奶牛"
+ },
+ {
+  "k": "game.types.resource.9volt",
+  "en": "Battery",
+  "zh": "电池"
+ },
+ {
+  "k": "game.types.resource.punkpeachy",
+  "en": "Punk Peachy",
+  "zh": "朋克皮奇"
+ },
+ {
+  "k": "game.types.resource.measuringcups",
+  "en": "Measuring Cups",
+  "zh": "量杯"
+ },
+ {
+  "k": "game.types.resource.dumptruckside",
+  "en": "Toy Truck",
+  "zh": "玩具卡车"
+ },
+ {
+  "k": "game.types.resource.spacealien",
+  "en": "Space Alien",
+  "zh": "外星人"
+ },
+ {
+  "k": "game.types.resource.battery",
+  "en": "Battery",
+  "zh": "电池"
+ },
+ {
+  "k": "game.types.resource.pigstand",
+  "en": "Pig",
+  "zh": "猪"
+ },
+ {
+  "k": "game.types.resource.powerdrill",
+  "en": "Power Drill",
+  "zh": "电钻"
+ },
+ {
+  "k": "game.types.resource.lamp",
+  "en": "Garden Lamp",
+  "zh": "庭院灯"
+ },
+ {
+  "k": "game.types.resource.peacepeachy",
+  "en": "Bikini Peachy",
+  "zh": "比基尼皮奇"
+ },
+ {
+  "k": "game.types.resource.dumptruckstand",
+  "en": "Toy Truck",
+  "zh": "玩具卡车"
+ },
+ {
+  "k": "game.types.resource.sandshovelshort",
+  "en": "Shovel",
+  "zh": "铲子"
+ },
+ {
+  "k": "game.types.resource.remotecontrol",
+  "en": "Remote Control",
+  "zh": "遥控器"
+ },
+ {
+  "k": "game.types.resource.chewtoy",
+  "en": "Chew Toy",
+  "zh": "咀嚼玩具"
+ },
+ {
+  "k": "game.types.resource.vhstape",
+  "en": "VHS Tape",
+  "zh": "录像带"
+ },
+ {
+  "k": "game.types.resource.sandbucket_side",
+  "en": "Pail",
+  "zh": "桶"
+ },
+ {
+  "k": "game.types.resource.megarobo",
+  "en": "Mega Assassin Robo",
+  "zh": "超级刺客机器人"
+ },
+ {
+  "k": "game.types.resource.solderingiron",
+  "en": "Soldering Iron",
+  "zh": "烙铁"
+ },
+ {
+  "k": "game.types.resource.toaster",
+  "en": "Toaster",
+  "zh": "烤面包机"
+ },
+ {
+  "k": "game.types.resource.sheep",
+  "en": "Sheep",
+  "zh": "绵羊"
+ },
+ {
+  "k": "game.types.resource.blocko_building_damage",
+  "en": "Damaged Building",
+  "zh": "受损建筑"
+ },
+ {
+  "k": "game.types.resource.blob.infantry1",
+  "en": "Plastic Blob",
+  "zh": "塑料团"
+ },
+ {
+  "k": "game.types.resource.blob.infantry2",
+  "en": "Plastic Blob",
+  "zh": "塑料团"
+ },
+ {
+  "k": "game.types.resource.blob.building1",
+  "en": "Plastic Blob",
+  "zh": "塑料团"
+ },
+ {
+  "k": "game.types.resource.blob.vehicle1",
+  "en": "Plastic Blob",
+  "zh": "塑料团"
+ },
+ {
+  "k": "game.types.resource.walkietalkie",
+  "en": "Walkie Talkie",
+  "zh": "对讲机"
+ },
+ {
+  "k": "game.types.resource.sandshovel",
+  "en": "Shovel",
+  "zh": "铲子"
+ },
+ {
+  "k": "game.types.resource.blocko_building1",
+  "en": "Building",
+  "zh": "建筑"
+ },
+ {
+  "k": "game.types.resource.watchdigital",
+  "en": "Watch",
+  "zh": "手表"
+ },
+ {
+  "k": "game.types.resource.pig",
+  "en": "Pig",
+  "zh": "猪"
+ },
+ {
+  "k": "game.types.resource.kidomatic",
+  "en": "Kid-O-Matic",
+  "zh": "儿童自动机"
+ },
+ {
+  "k": "game.types.resource.planewreck",
+  "en": "Plane Wreck",
+  "zh": "飞机残骸"
+ },
+ {
+  "k": "game.types.resource.zorgsit",
+  "en": "Chet",
+  "zh": "切特"
+ },
+ {
+  "k": "game.types.resource.vhstape_stack",
+  "en": "VHS Tapes",
+  "zh": "录像带"
+ },
+ {
+  "k": "game.types.resource.toytruck",
+  "en": "Toy Truck",
+  "zh": "玩具卡车"
+ },
+ {
+  "k": "game.types.resource.sheeplie",
+  "en": "Sheep",
+  "zh": "绵羊"
+ },
+ {
+  "k": "game.types.resource.dogbone",
+  "en": "Dog Bone",
+  "zh": "狗骨头"
+ },
+ {
+  "k": "game.types.resource.captdan-lie",
+  "en": "Captain Dan",
+  "zh": "丹上尉"
+ },
+ {
+  "k": "game.types.resource.spatula",
+  "en": "Spatula",
+  "zh": "锅铲"
+ },
+ {
+  "k": "game.types.resource.nursepeachy",
+  "en": "Nurse Peachy",
+  "zh": "护士皮奇"
+ },
+ {
+  "k": "game.types.resource.ball",
+  "en": "Ball",
+  "zh": "球"
+ },
+ {
+  "k": "game.types.resource.ps2",
+  "en": "Game System",
+  "zh": "游戏机"
+ },
+ {
+  "k": "game.types.resource.zorgside",
+  "en": "Zantrobulor",
+  "zh": "赞特罗布洛"
+ },
+ {
+  "k": "game.types.resource.toothbrush",
+  "en": "Toothbrush",
+  "zh": "牙刷"
+ },
+ {
+  "k": "game.types.resource.sandbucket_down",
+  "en": "Pail",
+  "zh": "桶"
+ },
+ {
+  "k": "game.types.resource.blocko_towncentre",
+  "en": "Town Center",
+  "zh": "城镇中心"
+ },
+ {
+  "k": "game.types.resource.battery_sand",
+  "en": "Battery",
+  "zh": "电池"
+ },
+ {
+  "k": "game.types.resource.dogbowl",
+  "en": "Dog Bowl",
+  "zh": "狗碗"
+ },
+ {
+  "k": "game.types.resource.slotcarpaddle",
+  "en": "Slot Car Paddle",
+  "zh": "轨道车控制器"
+ },
+ {
+  "k": "game.types.resource.watch",
+  "en": "Watch",
+  "zh": "手表"
+ },
+ {
+  "k": "game.types.resource.captdan-sit",
+  "en": "Captain Dan",
+  "zh": "丹上尉"
+ },
+ {
+  "k": "game.types.resource.spacepeachy",
+  "en": "Space Commander",
+  "zh": "太空指挥官"
+ },
+ {
+  "k": "game.types.resource.zorglie",
+  "en": "Blarg",
+  "zh": "布拉格"
+ },
+ {
+  "k": "game.types.insect.building.nursery-dummy",
+  "en": "Nursery",
+  "zh": "育虫室"
+ },
+ {
+  "k": "game.types.insect.building.nursery",
+  "en": "Nursery",
+  "zh": "育虫室"
+ },
+ {
+  "k": "game.types.insect.building.fooddeposit",
+  "en": "Food Deposit",
+  "zh": "食物储备"
+ },
+ {
+  "k": "game.types.insect.unit.worker",
+  "en": "Worker",
+  "zh": "工蚁"
+ },
+ {
+  "k": "game.types.insect.unit.queen",
+  "en": "Queen",
+  "zh": "蚁后"
+ },
+ {
+  "k": "game.types.insect.unit.soldier",
+  "en": "Soldier",
+  "zh": "兵蚁"
+ },
+ {
+  "k": "game.types.insect.unit.cockroach",
+  "en": "Cockroach",
+  "zh": "蟑螂"
+ },
+ {
+  "k": "game.types.sandbox.prop.target",
+  "en": "Target",
+  "zh": "目标"
+ },
+ {
+  "k": "game.types.koth.army.throne",
+  "en": "Throne",
+  "zh": "王座"
+ },
+ {
+  "k": "game.types.ctf.flagcapturer",
+  "en": "Flag Capturer",
+  "zh": "夺旗兵"
+ },
+ {
+  "k": "game.types.ctf.flag",
+  "en": "Flag",
+  "zh": "旗帜"
+ },
+ {
+  "k": "game.types.attic.prop.bridgemid",
+  "en": "Rail Bridge",
+  "zh": "铁路桥"
+ },
+ {
+  "k": "game.types.attic.prop.s14jar",
+  "en": "Bug Jar",
+  "zh": "昆虫罐"
+ },
+ {
+  "k": "game.types.attic.prop.plurtzheal",
+  "en": "Healer",
+  "zh": "治疗者"
+ },
+ {
+  "k": "game.types.attic.prop.plurtzhealw",
+  "en": "Healer",
+  "zh": "治疗者"
+ },
+ {
+  "k": "game.types.attic.prop.bioplurtz",
+  "en": "Blintz",
+  "zh": "布林茨"
+ },
+ {
+  "k": "game.types.attic.prop.plurtzheale",
+  "en": "Healer",
+  "zh": "治疗者"
+ },
+ {
+  "k": "game.types.attic.prop.plurtzhealn",
+  "en": "Healer",
+  "zh": "治疗者"
+ },
+ {
+  "k": "game.types.attic.prop.plurtzacid",
+  "en": "Acid Gun",
+  "zh": "酸液枪"
+ },
+ {
+  "k": "game.types.yard.prop.rocket",
+  "en": "Model Rocket",
+  "zh": "模型火箭"
+ },
+ {
+  "k": "game.types.livingrm.prop.blocko_person-fire",
+  "en": "Villager",
+  "zh": "村民"
+ },
+ {
+  "k": "game.types.livingrm.prop.blocko_person-1",
+  "en": "Villager",
+  "zh": "村民"
+ },
+ {
+  "k": "game.load.newtoy",
+  "en": "New Weapon Available",
+  "zh": "新武器可用"
+ },
+ {
+  "k": "game.load.title",
+  "en": "Loading",
+  "zh": "载入中"
+ },
+ {
+  "k": "game.load.newtoys",
+  "en": "New Weapons Available",
+  "zh": "新武器可用"
+ },
+ {
+  "k": "multiplayer.session.baduser.title",
+  "en": "Name Taken",
+  "zh": "名称已被占用"
+ },
+ {
+  "k": "multiplayer.session.baduser.message",
+  "en": "Someone is already using your name",
+  "zh": "已有玩家使用该名称"
+ },
+ {
+  "k": "multiplayer.session.create",
+  "en": "Create Game",
+  "zh": "创建游戏"
+ },
+ {
+  "k": "multiplayer.session.joined",
+  "en": "Session Joined",
+  "zh": "已加入房间"
+ },
+ {
+  "k": "multiplayer.session.title",
+  "en": "Multiplayer Games",
+  "zh": "多人游戏"
+ },
+ {
+  "k": "multiplayer.session.addressbook",
+  "en": "Address Book",
+  "zh": "地址簿"
+ },
+ {
+  "k": "multiplayer.session.created",
+  "en": "Session Created",
+  "zh": "房间已创建"
+ },
+ {
+  "k": "multiplayer.session.local",
+  "en": "Local",
+  "zh": "本地"
+ },
+ {
+  "k": "multiplayer.session.messages.joinfail.title",
+  "en": "Join Failed",
+  "zh": "加入失败"
+ },
+ {
+  "k": "multiplayer.session.messages.joinfail.message",
+  "en": "Could not join the session",
+  "zh": "无法加入该房间"
+ },
+ {
+  "k": "multiplayer.session.messages.nosession.title",
+  "en": "No Session",
+  "zh": "未选房间"
+ },
+ {
+  "k": "multiplayer.session.messages.nosession.message",
+  "en": "No session selected, select a session before joining.",
+  "zh": "未选择房间，请先选择一个房间再加入。"
+ },
+ {
+  "k": "multiplayer.session.messages.createfail.title",
+  "en": "Create Failed",
+  "zh": "创建失败"
+ },
+ {
+  "k": "multiplayer.session.messages.createfail.message",
+  "en": "Could not create a new session",
+  "zh": "无法创建新房间"
+ },
+ {
+  "k": "multiplayer.session.createwindow.title",
+  "en": "Create A Game",
+  "zh": "创建游戏"
+ },
+ {
+  "k": "multiplayer.session.createwindow.subtitle",
+  "en": "Enter a name for this game.",
+  "zh": "请输入游戏名称。"
+ },
+ {
+  "k": "multiplayer.session.badsessionname.title",
+  "en": "Invalid Game Name",
+  "zh": "游戏名称无效"
+ },
+ {
+  "k": "multiplayer.session.badsessionname.message",
+  "en": "Game name must be at least 3 characters long",
+  "zh": "游戏名称至少需要 3 个字符"
+ },
+ {
+  "k": "multiplayer.session.join",
+  "en": "Join",
+  "zh": "加入"
+ },
+ {
+  "k": "multiplayer.session.sessionlocked.title",
+  "en": "Game in locked",
+  "zh": "游戏已锁定"
+ },
+ {
+  "k": "multiplayer.session.sessionlocked.message",
+  "en": "The session cannot be entered because it is locked",
+  "zh": "该房间已锁定，无法进入"
+ },
+ {
+  "k": "multiplayer.session.sessionexists.title",
+  "en": "Session Exists",
+  "zh": "房间已存在"
+ },
+ {
+  "k": "multiplayer.session.sessionexists.message",
+  "en": "There is already a session with that name on the server",
+  "zh": "服务器上已存在同名房间"
+ },
+ {
+  "k": "multiplayer.session.sessionmigratefailed.title",
+  "en": "Migration Failed",
+  "zh": "迁移失败"
+ },
+ {
+  "k": "multiplayer.session.sessionmigratefailed.message",
+  "en": "Could not migrate to new host",
+  "zh": "无法迁移到新的主机"
+ },
+ {
+  "k": "multiplayer.session.servermigratefailed.abort",
+  "en": "Abort",
+  "zh": "中止"
+ },
+ {
+  "k": "multiplayer.session.servermigratefailed.title",
+  "en": "Migrate Failed",
+  "zh": "迁移失败"
+ },
+ {
+  "k": "multiplayer.session.servermigratefailed.message",
+  "en": "None of the other players in the game can become the host",
+  "zh": "游戏中的其他玩家均无法成为主机"
+ },
+ {
+  "k": "multiplayer.session.servermigratefailed.continue",
+  "en": "Continue",
+  "zh": "继续"
+ },
+ {
+  "k": "multiplayer.session.sessionfull.title",
+  "en": "Session Full",
+  "zh": "房间已满"
+ },
+ {
+  "k": "multiplayer.session.sessionfull.message",
+  "en": "The session has is already has the maximum number of players",
+  "zh": "该房间玩家人数已达上限"
+ },
+ {
+  "k": "multiplayer.session.changename",
+  "en": "Change Name",
+  "zh": "修改名称"
+ },
+ {
+  "k": "multiplayer.setup.locked",
+  "en": "The game is now locked",
+  "zh": "游戏现已锁定"
+ },
+ {
+  "k": "multiplayer.setup.selectmission.players",
+  "en": "Maximum of {1:d} players",
+  "zh": "最多 {1:d} 名玩家"
+ },
+ {
+  "k": "multiplayer.setup.selectmission.title",
+  "en": "Select A Mission",
+  "zh": "选择任务"
+ },
+ {
+  "k": "multiplayer.setup.selectmission.map",
+  "en": "Map",
+  "zh": "地图"
+ },
+ {
+  "k": "multiplayer.setup.host.lock",
+  "en": "Lock Game",
+  "zh": "锁定游戏"
+ },
+ {
+  "k": "multiplayer.setup.host.mission",
+  "en": "Select Mission",
+  "zh": "选择任务"
+ },
+ {
+  "k": "multiplayer.setup.host.addai",
+  "en": "Add AI Player",
+  "zh": "添加电脑玩家"
+ },
+ {
+  "k": "multiplayer.setup.teams.1",
+  "en": "Bravo",
+  "zh": "Bravo"
+ },
+ {
+  "k": "multiplayer.setup.teams.0",
+  "en": "Alpha",
+  "zh": "Alpha"
+ },
+ {
+  "k": "multiplayer.setup.teams.3",
+  "en": "Delta",
+  "zh": "Delta"
+ },
+ {
+  "k": "multiplayer.setup.teams.2",
+  "en": "Charlie",
+  "zh": "Charlie"
+ },
+ {
+  "k": "multiplayer.setup.teams.5",
+  "en": "Foxtrot",
+  "zh": "Foxtrot"
+ },
+ {
+  "k": "multiplayer.setup.teams.4",
+  "en": "Echo",
+  "zh": "Echo"
+ },
+ {
+  "k": "multiplayer.setup.teams.7",
+  "en": "Hotel",
+  "zh": "Hotel"
+ },
+ {
+  "k": "multiplayer.setup.teams.6",
+  "en": "Golf",
+  "zh": "Golf"
+ },
+ {
+  "k": "multiplayer.setup.titlebar.players",
+  "en": "Players",
+  "zh": "玩家"
+ },
+ {
+  "k": "multiplayer.setup.titlebar.chat",
+  "en": "Chat",
+  "zh": "聊天"
+ },
+ {
+  "k": "multiplayer.setup.choosecolor",
+  "en": "Choose A Color",
+  "zh": "选择颜色"
+ },
+ {
+  "k": "multiplayer.setup.missionname",
+  "en": "Mission Name",
+  "zh": "任务名称"
+ },
+ {
+  "k": "multiplayer.setup.error.havemission",
+  "en": "{1:s} doesn't have the current mission or their version of the mission is different to yours.",
+  "zh": "{1:s} 没有当前任务，或其任务版本与你的不同。"
+ },
+ {
+  "k": "multiplayer.setup.error.launch",
+  "en": "wants to launch",
+  "zh": "想要开始游戏"
+ },
+ {
+  "k": "multiplayer.setup.error.moreplayers",
+  "en": "You need at least two players.",
+  "zh": "至少需要两名玩家。"
+ },
+ {
+  "k": "multiplayer.setup.error.wrongversion",
+  "en": "{1:s} has a different version of the game.",
+  "zh": "{1:s} 的游戏版本不同。"
+ },
+ {
+  "k": "multiplayer.setup.error.needgroups",
+  "en": "You need to assign players to at least two different teams.",
+  "zh": "你需要把玩家分配到至少两支不同的队伍。"
+ },
+ {
+  "k": "multiplayer.setup.error.nomission",
+  "en": "No mission selected.",
+  "zh": "未选择任务。"
+ },
+ {
+  "k": "multiplayer.setup.error.toomanyteams",
+  "en": "There are too many players for the current mission.  Choose a different mission or kick some players.",
+  "zh": "当前任务玩家过多。请选择其他任务或踢出部分玩家。"
+ },
+ {
+  "k": "multiplayer.setup.error.notready",
+  "en": "{1:s} isn't ready to launch.",
+  "zh": "{1:s} 尚未准备就绪。"
+ },
+ {
+  "k": "multiplayer.setup.ainame",
+  "en": "Computer Player",
+  "zh": "电脑玩家"
+ },
+ {
+  "k": "multiplayer.addressbook.edit",
+  "en": "Edit",
+  "zh": "编辑"
+ },
+ {
+  "k": "multiplayer.addressbook.title",
+  "en": "Address Book",
+  "zh": "地址簿"
+ },
+ {
+  "k": "multiplayer.addressbook.remove",
+  "en": "Remove",
+  "zh": "删除"
+ },
+ {
+  "k": "multiplayer.addressbook.add",
+  "en": "Add",
+  "zh": "添加"
+ },
+ {
+  "k": "multiplayer.addressbook.data.title",
+  "en": "Edit Entry",
+  "zh": "编辑条目"
+ },
+ {
+  "k": "multiplayer.addressbook.data.address",
+  "en": "Address",
+  "zh": "地址"
+ },
+ {
+  "k": "multiplayer.addressbook.data.name",
+  "en": "Name",
+  "zh": "名称"
+ },
+ {
+  "k": "multiplayer.eliminated.title",
+  "en": "You have been eliminated!",
+  "zh": "你已被淘汰！"
+ },
+ {
+  "k": "multiplayer.eliminated.message",
+  "en": "You may continue to host this game, or \\r\\nabort and allow another player to host.",
+  "zh": "你可以继续作为主机，或\\r\\n中止并让其他玩家担任主机。"
+ },
+ {
+  "k": "multiplayer.chat.privmsg",
+  "en": "msg[{1:s}] {2:s}",
+  "zh": "私聊[{1:s}] {2:s}"
+ },
+ {
+  "k": "multiplayer.chat.allymsg",
+  "en": "[allies] {1:s}",
+  "zh": "[盟友] {1:s}"
+ },
+ {
+  "k": "multiplayer.chat.type.all",
+  "en": "All",
+  "zh": "全体"
+ },
+ {
+  "k": "multiplayer.chat.type.ally",
+  "en": "Allies",
+  "zh": "盟友"
+ },
+ {
+  "k": "multiplayer.chat.enemymsg",
+  "en": "[enemies] {1:s}",
+  "zh": "[敌人] {1:s}"
+ },
+ {
+  "k": "multiplayer.chat.playerexit",
+  "en": "{1:s} has left the game.",
+  "zh": "{1:s} 已离开游戏。"
+ },
+ {
+  "k": "multiplayer.chat.playerdisconnected",
+  "en": "{1:s} has disconnected.",
+  "zh": "{1:s} 已断开连接。"
+ },
+ {
+  "k": "multiplayer.chat.error.noplayer",
+  "en": "Could not find player {1:s}.",
+  "zh": "找不到玩家 {1:s}。"
+ },
+ {
+  "k": "multiplayer.chat.teammsg",
+  "en": "[team] {1:s}",
+  "zh": "[队伍] {1:s}"
+ },
+ {
+  "k": "multiplayer.chat.playerenter",
+  "en": "{1:s} has entered the game.",
+  "zh": "{1:s} 已进入游戏。"
+ },
+ {
+  "k": "multiplayer.connect.playersync",
+  "en": "Waiting for players",
+  "zh": "正在等待玩家"
+ },
+ {
+  "k": "multiplayer.connect.migrate",
+  "en": "Migrating to new host",
+  "zh": "正在迁移到新主机"
+ },
+ {
+  "k": "multiplayer.connect.title",
+  "en": "Connecting...",
+  "zh": "正在连接..."
+ },
+ {
+  "k": "multiplayer.connect.communicating",
+  "en": "Communicating with Network",
+  "zh": "正在与网络通信"
+ },
+ {
+  "k": "multiplayer.server.disconnected.title",
+  "en": "Disconnected",
+  "zh": "已断开连接"
+ },
+ {
+  "k": "multiplayer.server.disconnected.message",
+  "en": "You have been disconnected from the server",
+  "zh": "你已与服务器断开连接"
+ },
+ {
+  "k": "multiplayer.server.connectfailed.title",
+  "en": "Connection Failed",
+  "zh": "连接失败"
+ },
+ {
+  "k": "multiplayer.server.connectfailed.message",
+  "en": "Could not establish a connection to the server",
+  "zh": "无法与服务器建立连接"
+ },
+ {
+  "k": "multiplayer.server.serverconnect.entering",
+  "en": "Entering Session",
+  "zh": "正在进入房间"
+ },
+ {
+  "k": "multiplayer.server.serverconnect.connect",
+  "en": "Connected to Server",
+  "zh": "已连接到服务器"
+ },
+ {
+  "k": "multiplayer.server.serverstart.connecting",
+  "en": "Connecting to Server",
+  "zh": "正在连接服务器"
+ },
+ {
+  "k": "multiplayer.server.serverstart.started",
+  "en": "Server Started",
+  "zh": "服务器已启动"
+ },
+ {
+  "k": "multiplayer.server.kicked.title",
+  "en": "Kicked",
+  "zh": "已被踢出"
+ },
+ {
+  "k": "multiplayer.server.kicked.message",
+  "en": "You have been kicked from the game",
+  "zh": "你已被踢出游戏"
+ },
+ {
+  "k": "multiplayer.server.migrated",
+  "en": "Session is migrating to you.  You are now the host.",
+  "zh": "房间正在迁移给你。你现在是主机。"
+ },
+ {
+  "k": "multiplayer.server.sessionfull.title",
+  "en": "Session Full",
+  "zh": "房间已满"
+ },
+ {
+  "k": "multiplayer.server.sessionfull.message",
+  "en": "This session already has the maximum number of players.",
+  "zh": "该房间玩家人数已达上限。"
+ },
+ {
+  "k": "multiplayer.changename.title",
+  "en": "Change Your Name",
+  "zh": "修改你的名称"
+ },
+ {
+  "k": "multiplayer.changename.subtitle",
+  "en": "Enter your new name",
+  "zh": "请输入你的新名称"
+ },
+ {
+  "k": "client.unitdisplay.prereq",
+  "en": "You Need To Build",
+  "zh": "需要建造"
+ },
+ {
+  "k": "client.unitdisplay.unavailable",
+  "en": "UNAVAILABLE",
+  "zh": "不可用"
+ },
+ {
+  "k": "client.unitdisplay.firepower",
+  "en": "Firepower",
+  "zh": "火力"
+ },
+ {
+  "k": "client.unitdisplay.infantry",
+  "en": "Infantry",
+  "zh": "步兵"
+ },
+ {
+  "k": "client.unitdisplay.air",
+  "en": "Air",
+  "zh": "空军"
+ },
+ {
+  "k": "client.unitdisplay.cost",
+  "en": "Cost",
+  "zh": "费用"
+ },
+ {
+  "k": "client.unitdisplay.upgrade",
+  "en": "Upgrade",
+  "zh": "升级"
+ },
+ {
+  "k": "client.unitdisplay.armor",
+  "en": "Armor",
+  "zh": "装甲"
+ },
+ {
+  "k": "client.restart.restart",
+  "en": "Restart",
+  "zh": "重新开始"
+ },
+ {
+  "k": "client.restart.text1",
+  "en": "Are you sure?",
+  "zh": "确定吗？"
+ },
+ {
+  "k": "client.restart.title",
+  "en": "Restart Mission",
+  "zh": "重开任务"
+ },
+ {
+  "k": "client.abort.abort",
+  "en": "Abort",
+  "zh": "中止"
+ },
+ {
+  "k": "client.abort.text1",
+  "en": "Are you sure?",
+  "zh": "确定吗？"
+ },
+ {
+  "k": "client.abort.title",
+  "en": "Abort Mission",
+  "zh": "中止任务"
+ },
+ {
+  "k": "client.facility.title",
+  "en": "Construction",
+  "zh": "建造"
+ },
+ {
+  "k": "client.chat.title",
+  "en": "Chat",
+  "zh": "聊天"
+ },
+ {
+  "k": "client.comms.title",
+  "en": "Give Items",
+  "zh": "给予物品"
+ },
+ {
+  "k": "client.comms.selectedoff",
+  "en": "Select A Player",
+  "zh": "选择玩家"
+ },
+ {
+  "k": "client.comms.selectedon",
+  "en": "Click Item to Give",
+  "zh": "点击要给予的物品"
+ },
+ {
+  "k": "client.comms.units",
+  "en": "Selected Units",
+  "zh": "已选单位"
+ },
+ {
+  "k": "client.objectives.title",
+  "en": "Objectives",
+  "zh": "目标"
+ },
+ {
+  "k": "client.objectives.ps2_2",
+  "en": "to see your Objective",
+  "zh": "查看你的目标"
+ },
+ {
+  "k": "client.objectives.ps2_1",
+  "en": "Press the Start button",
+  "zh": "按 Start 键"
+ },
+ {
+  "k": "client.objectives.pc2",
+  "en": "to see your Objective",
+  "zh": "查看你的目标"
+ },
+ {
+  "k": "client.objectives.pc1",
+  "en": "Press the Escape key",
+  "zh": "按 Escape 键"
+ },
+ {
+  "k": "client.minimap.title",
+  "en": "Map",
+  "zh": "地图"
+ },
+ {
+  "k": "client.options.difficulty.easy",
+  "en": "Easy",
+  "zh": "简单"
+ },
+ {
+  "k": "client.options.difficulty.title",
+  "en": "Difficulty",
+  "zh": "难度"
+ },
+ {
+  "k": "client.options.difficulty.normal",
+  "en": "Normal",
+  "zh": "普通"
+ },
+ {
+  "k": "client.options.difficulty.hard",
+  "en": "Hard",
+  "zh": "困难"
+ },
+ {
+  "k": "client.options.low",
+  "en": "Low",
+  "zh": "低"
+ },
+ {
+  "k": "client.options.title",
+  "en": "Options",
+  "zh": "设置"
+ },
+ {
+  "k": "client.options.gameplay.keyscroll",
+  "en": "Keyboard Scroll Speed",
+  "zh": "键盘滚动速度"
+ },
+ {
+  "k": "client.options.gameplay.rightscroll",
+  "en": "Right Scroll Speed",
+  "zh": "右键滚动速度"
+ },
+ {
+  "k": "client.options.gameplay.edgescroll",
+  "en": "Edge Scroll Speed",
+  "zh": "边缘滚动速度"
+ },
+ {
+  "k": "client.options.gameplay.title",
+  "en": "Gameplay Options",
+  "zh": "游戏设置"
+ },
+ {
+  "k": "client.options.gameplay.reset",
+  "en": "Reset To Defaults",
+  "zh": "恢复默认"
+ },
+ {
+  "k": "client.options.gameplay.zoomspeed",
+  "en": "Zoom Speed",
+  "zh": "缩放速度"
+ },
+ {
+  "k": "client.options.gameplay.cameraspeed",
+  "en": "Camera Speed",
+  "zh": "镜头速度"
+ },
+ {
+  "k": "client.options.gameplay.titleps2",
+  "en": "Camera Options",
+  "zh": "镜头设置"
+ },
+ {
+  "k": "client.options.high",
+  "en": "High",
+  "zh": "高"
+ },
+ {
+  "k": "client.options.audio.music",
+  "en": "Music Volume",
+  "zh": "音乐音量"
+ },
+ {
+  "k": "client.options.audio.title",
+  "en": "Audio Options",
+  "zh": "音频设置"
+ },
+ {
+  "k": "client.options.audio.master",
+  "en": "Master Volume",
+  "zh": "主音量"
+ },
+ {
+  "k": "client.options.vibration.off",
+  "en": "Off",
+  "zh": "关"
+ },
+ {
+  "k": "client.options.vibration.title",
+  "en": "Vibration",
+  "zh": "震动"
+ },
+ {
+  "k": "client.options.vibration.on",
+  "en": "On",
+  "zh": "开"
+ },
+ {
+  "k": "client.options.video.gamma",
+  "en": "Brightness",
+  "zh": "亮度"
+ },
+ {
+  "k": "client.options.video.title",
+  "en": "Video Options",
+  "zh": "画面设置"
+ },
+ {
+  "k": "client.options.video.world",
+  "en": "World Detail",
+  "zh": "世界细节"
+ },
+ {
+  "k": "client.options.video.texture",
+  "en": "Texture Detail",
+  "zh": "纹理细节"
+ },
+ {
+  "k": "client.options.video.resolution",
+  "en": "Screen Resolution and Color Depth",
+  "zh": "分辨率与色深"
+ },
+ {
+  "k": "client.options.medium",
+  "en": "Medium",
+  "zh": "中"
+ },
+ {
+  "k": "client.squad.title",
+  "en": "Squads",
+  "zh": "小队"
+ },
+ {
+  "k": "client.squad.1",
+  "en": "1",
+  "zh": "1"
+ },
+ {
+  "k": "client.squad.3",
+  "en": "3",
+  "zh": "3"
+ },
+ {
+  "k": "client.squad.2",
+  "en": "2",
+  "zh": "2"
+ },
+ {
+  "k": "client.squad.4",
+  "en": "4",
+  "zh": "4"
+ },
+ {
+  "k": "client.quit.text2",
+  "en": "want to quit?",
+  "zh": "退出吗？"
+ },
+ {
+  "k": "client.quit.text1",
+  "en": "Are you sure you",
+  "zh": "你确定要"
+ },
+ {
+  "k": "client.quit.title",
+  "en": "Quit",
+  "zh": "退出"
+ },
+ {
+  "k": "client.zoom.zoom",
+  "en": "VIEW",
+  "zh": "视角"
+ },
+ {
+  "k": "client.code.title",
+  "en": "Enter a secret code",
+  "zh": "输入密码"
+ },
+ {
+  "k": "client.medalgoals.GoalNum1",
+  "en": "2.",
+  "zh": "2."
+ },
+ {
+  "k": "client.medalgoals.GoalNum0",
+  "en": "1.",
+  "zh": "1."
+ },
+ {
+  "k": "client.medalgoals.title",
+  "en": "Medal Goals",
+  "zh": "勋章目标"
+ },
+ {
+  "k": "client.medalgoals.hidden",
+  "en": "Classified",
+  "zh": "机密"
+ },
+ {
+  "k": "client.menu.restart",
+  "en": "Restart Mission",
+  "zh": "重开任务"
+ },
+ {
+  "k": "client.menu.abort",
+  "en": "Abort Mission",
+  "zh": "中止任务"
+ },
+ {
+  "k": "client.menu.resumePS2",
+  "en": "Resume",
+  "zh": "继续"
+ },
+ {
+  "k": "client.menu.back",
+  "en": "Back",
+  "zh": "返回"
+ },
+ {
+  "k": "client.menu.objectives",
+  "en": "Mission Objectives",
+  "zh": "任务目标"
+ },
+ {
+  "k": "client.menu.select",
+  "en": "Select",
+  "zh": "选择"
+ },
+ {
+  "k": "client.menu.options",
+  "en": "Options",
+  "zh": "设置"
+ },
+ {
+  "k": "client.menu.objectivesPS2",
+  "en": "Objectives",
+  "zh": "目标"
+ },
+ {
+  "k": "client.menu.resume",
+  "en": "Resume Game",
+  "zh": "继续游戏"
+ },
+ {
+  "k": "client.menu.quit",
+  "en": "Quit",
+  "zh": "退出"
+ },
+ {
+  "k": "client.menu.medalgoals",
+  "en": "Medal Goals",
+  "zh": "勋章目标"
+ },
+ {
+  "k": "client.menu.saveload",
+  "en": "Save and Load",
+  "zh": "存档与读档"
+ },
+ {
+  "k": "client.menu.paused",
+  "en": "Paused",
+  "zh": "已暂停"
+ },
+ {
+  "k": "client.saveload.empty",
+  "en": "- No Saved Game -",
+  "zh": "- 无存档 -"
+ },
+ {
+  "k": "client.saveload.title",
+  "en": "Save and Load Games",
+  "zh": "存档与读档"
+ },
+ {
+  "k": "client.saveload.saving",
+  "en": "Saving, please wait...",
+  "zh": "正在保存，请稍候..."
+ },
+ {
+  "k": "client.saveload.confirmload.title",
+  "en": "Confirm Load",
+  "zh": "确认读档"
+ },
+ {
+  "k": "client.saveload.confirmload.message",
+  "en": "Are you sure you want to load this save game?",
+  "zh": "确定要载入此存档吗？"
+ },
+ {
+  "k": "client.saveload.load",
+  "en": "Load",
+  "zh": "载入"
+ },
+ {
+  "k": "client.saveload.save",
+  "en": "Save",
+  "zh": "保存"
+ },
+ {
+  "k": "client.saveload.confirmsave.title",
+  "en": "Confirm Save",
+  "zh": "确认保存"
+ },
+ {
+  "k": "client.saveload.confirmsave.message",
+  "en": "Are you sure you want to overwrite the previous save game?",
+  "zh": "确定要覆盖之前的存档吗？"
+ },
+ {
+  "k": "mods.ruleset.protecthq.title",
+  "en": "Protect HQ",
+  "zh": "保卫总部"
+ },
+ {
+  "k": "mods.ruleset.protecthq.objective",
+  "en": "You must construct an HQ before the timer runs out",
+  "zh": "你必须在计时结束前建造一座总部"
+ },
+ {
+  "k": "mods.ruleset.protecthq.objective2",
+  "en": "Kill all enemy players",
+  "zh": "消灭所有敌方玩家"
+ },
+ {
+  "k": "mods.ruleset.protecthq.3minally",
+  "en": "Your ally, {1:s}, has 3 minutes to build a HQ",
+  "zh": "你的盟友 {1:s} 有 3 分钟建造总部"
+ },
+ {
+  "k": "mods.ruleset.protecthq.3minself",
+  "en": "You have 3 minutes to build a HQ",
+  "zh": "你有 3 分钟建造总部"
+ },
+ {
+  "k": "mods.ruleset.koth.s_built",
+  "en": "You have claimed the hill!",
+  "zh": "你已占领高地！"
+ },
+ {
+  "k": "mods.ruleset.koth.a_holding",
+  "en": "{1:s} has to defend the hill for {2:s} more minute(s)",
+  "zh": "{1:s} 还需防守高地 {2:s} 分钟"
+ },
+ {
+  "k": "mods.ruleset.koth.e_built",
+  "en": "Your enemy, {1:s}, has built on the hill!",
+  "zh": "你的敌人 {1:s} 已在高地上建造！"
+ },
+ {
+  "k": "mods.ruleset.koth.objective",
+  "en": "Build a Headquarters on the hill and keep it there for 5 minutes",
+  "zh": "在高地上建造总部并坚守 5 分钟"
+ },
+ {
+  "k": "mods.ruleset.koth.pre_5min",
+  "en": "The Hill will be open in 5 minutes",
+  "zh": "高地将在 5 分钟后开放"
+ },
+ {
+  "k": "mods.ruleset.koth.a_built",
+  "en": "Your ally, {1:s}, has built on the hill!",
+  "zh": "你的盟友 {1:s} 已在高地上建造！"
+ },
+ {
+  "k": "mods.ruleset.koth.e_holding",
+  "en": "{1:s} still holds the hill. You have {2:s} minute(s) left",
+  "zh": "{1:s} 仍占据高地。你还有 {2:s} 分钟"
+ },
+ {
+  "k": "mods.ruleset.koth.s_holding",
+  "en": "You have to defend the hill for {1:s} more minute(s)",
+  "zh": "你还需防守高地 {1:s} 分钟"
+ },
+ {
+  "k": "mods.ruleset.koth.pre_open",
+  "en": "The Hill is open!",
+  "zh": "高地已开放！"
+ },
+ {
+  "k": "std.buttons.abort",
+  "en": "Abort",
+  "zh": "中止"
+ },
+ {
+  "k": "std.buttons.exit",
+  "en": "Exit",
+  "zh": "退出"
+ },
+ {
+  "k": "std.buttons.cancel",
+  "en": "Cancel",
+  "zh": "取消"
+ },
+ {
+  "k": "std.buttons.back",
+  "en": "Back",
+  "zh": "返回"
+ },
+ {
+  "k": "std.buttons.done",
+  "en": "Done",
+  "zh": "完成"
+ },
+ {
+  "k": "std.buttons.ok",
+  "en": "Ok",
+  "zh": "确定"
+ },
+ {
+  "k": "std.buttons.play",
+  "en": "Play",
+  "zh": "开始游戏"
+ },
+ {
+  "k": "std.buttons.continue",
+  "en": "Continue",
+  "zh": "继续"
+ }
+]

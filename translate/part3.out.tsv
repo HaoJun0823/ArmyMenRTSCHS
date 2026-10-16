@@ -1,0 +1,203 @@
+game.side.army.description	军队
+game.side.insect.description	虫族
+game.info.oos.playerkick	主机检测到你的游戏已\r\n与其他玩家不同步。 \r\n很遗憾，你无法继续\r\n进行本局游戏。
+game.info.oos.title	不同步
+game.info.oos.playerother	{1:s} 不同步，已被踢出游戏
+game.info.data	检测到 '{1:s}' 的数据不同。
+game.info.custommission	自定义任务
+game.messages.eliminated_computer	一个敌方电脑对手已被消灭。
+game.messages.team_gaveresource	你给了 {1:s} {2:d} {3:s}
+game.messages.team_givenresource	{1:s} 刚刚给了你 {2:d} {3:s}
+game.messages.team_gaveunits	你给了 {1:s} {2:d} 个单位
+game.messages.eliminated_human	{1:s} 已被消灭。
+game.messages.team_givenunits	{1:s} 刚刚给了你 {2:d} 个单位
+game.resources.electricity	电力
+game.resources.plastic	塑料
+game.client.prereq.unavailable	需要 {1:s}
+game.client.prereq.available	
+game.client.events.construct.secondary	按 L2 或 R2 键旋转建筑
+game.client.events.construct.primary	用 < 和 > 旋转建筑
+game.client.events.noconstruct	无法在此建造
+game.client.events.setrally	为该建筑设置集结点
+game.client.events.walldeactivate	断开铁丝网
+game.client.events.wallactivate	连接铁丝网
+game.client.events.wallnoactivate	无法连接这些柱子
+game.client.events.recycle	熔毁此建筑
+game.client.events.useoffmap	投放空袭
+game.client.hud.tasks.construct.process	建造中...
+game.client.hud.tasks.construct.paused	已暂停
+game.client.hud.tasks.constructor.process	{1:s} {2:.0f}%
+game.client.hud.tasks.constructor.offmap	{1:s} 就绪
+game.client.hud.tasks.constructor.paused	已暂停
+game.client.hud.tasks.upgrade.process	正在升级...
+game.client.hud.tasks.upgrade.paused	升级已暂停
+game.client.hud.tasks.recycle.process	熔毁中...
+game.client.hud.sourcedepleted	资源枯竭
+game.client.hud.upgrade	可升级
+game.client.construction.queue	队列
+game.client.construction.build	建造
+game.client.construction.selectairstrike	选择要呼叫的空袭。
+game.client.construction.upgraded	该建筑正在升级。
+game.client.construction.bulldozerconstructing	该推土机正在建造建筑。
+game.client.construction.jump	跳转
+game.client.construction.remove	移除
+game.client.construction.select	选择
+game.client.construction.title-multiple	{1:s} ({2:d})
+game.client.construction.releasetosetrally	松开 R1 设置集结位置。
+game.client.construction.underconstruction	该建筑正在建造中。
+game.client.construction.title-single	{1:s}
+game.client.construction.upgrade	升级
+game.client.construction.selectunit	选择要建造的单位。
+game.client.construction.setrallypoint	设置集结点
+game.client.construction.releasetoplace	松开 R1 放置此建筑。
+game.client.construction.selectbuilding	选择要建造的建筑。
+game.client.context.recycle	熔毁
+game.savegame.description	{1:s} - {2:s} ({3:d}:{4:.2d}:{5:.2d})
+game.savegame.changed	注意！\r\n记忆卡 (PS2) 可能已被更换。若继续，可能会覆盖另一个 Army Men RTS 存档！
+game.types.kitchen.prop.chemfactory	化学武器工厂
+game.types.kitchen.prop.chemfactory_bottle	化学储罐
+game.types.army.strike.magnifyingglass	放大镜
+game.types.army.strike.bombingrun	轰炸
+game.types.army.strike.paratroopers	伞兵
+game.types.army.building.guardtower	哨塔
+game.types.army.building.crates_group	弹药箱
+game.types.army.building.aagun	防空炮
+game.types.army.building.pillbox	碉堡
+game.types.army.building.drum_group	油桶
+game.types.army.building.jerrycans_group	汽油桶
+game.types.army.building.bwpost	铁丝网柱
+game.types.army.building.hq3	超级总部
+game.types.army.building.hq2	高级总部
+game.types.army.building.hq1	总部
+game.types.army.building.resourcedepot	资源库
+game.types.army.building.thumbtacks	图钉
+game.types.army.building.bwpost-leg	桌腿
+game.types.army.building.mine	地雷
+game.types.army.building.barracks1	兵营
+game.types.army.building.gluebomb	胶水炸弹
+game.types.army.building.barracks2	高级兵营
+game.types.army.building.garage1	车库
+game.types.army.building.garage2	高级车库
+game.types.army.unit.thick	壮汉
+game.types.army.unit.bullseye	神射手
+game.types.army.unit.mortar	迫击炮兵
+game.types.army.unit.bulldozer	推土机
+game.types.army.unit.shrap	弹片
+game.types.army.unit.scorch	焦炭
+game.types.army.unit.riff	里夫
+game.types.army.unit.flame	火焰喷射兵
+game.types.army.unit.sniper	狙击手
+game.types.army.unit.tank	坦克
+game.types.army.unit.grenadier	掷弹兵
+game.types.army.unit.flagcapturer	夺旗兵
+game.types.army.unit.paratrooper-parachute	伞兵-降落伞
+game.types.army.unit.machinegunner	机枪手
+game.types.army.unit.chinook	支奴干直升机
+game.types.army.unit.minejeep	布雷车
+game.types.army.unit.flag	旗帜
+game.types.army.unit.hoover	胡佛
+game.types.army.unit.grunt	大兵
+game.types.army.unit.radio	通讯兵
+game.types.army.unit.truck	运输卡车
+game.types.army.unit.dumdum	达姆弹
+game.types.army.unit.chopper	武装直升机
+game.types.army.unit.medicjeep	医疗兵
+game.types.army.unit.paratrooper	伞兵
+game.types.army.unit.sarge	中士
+game.types.army.unit.vikki	薇琪
+game.types.army.unit.dumptruck	自卸卡车
+game.types.army.unit.bazooka	火箭筒兵
+game.types.army.unit.halftrack	半履带车
+game.types.army.unit.minesweeper	扫雷车
+game.types.resource.flashlight	手电筒
+game.types.resource.bonetrain	火车残骸
+game.types.resource.cowstand	奶牛
+game.types.resource.9volt-standing	电池
+game.types.resource.vhschef	录像带
+game.types.resource.controlbox	控制箱
+game.types.resource.controller	手柄
+game.types.resource.torch	火炬
+game.types.resource.vhsblintz	录像带
+game.types.resource.watergun	水枪
+game.types.resource.rubberduck	橡皮鸭
+game.types.resource.frisbee	飞盘
+game.types.resource.bikinipeachy	比基尼皮奇
+game.types.resource.cow	奶牛
+game.types.resource.9volt	电池
+game.types.resource.punkpeachy	朋克皮奇
+game.types.resource.measuringcups	量杯
+game.types.resource.dumptruckside	玩具卡车
+game.types.resource.spacealien	外星人
+game.types.resource.battery	电池
+game.types.resource.pigstand	猪
+game.types.resource.powerdrill	电钻
+game.types.resource.lamp	庭院灯
+game.types.resource.peacepeachy	比基尼皮奇
+game.types.resource.dumptruckstand	玩具卡车
+game.types.resource.sandshovelshort	铲子
+game.types.resource.remotecontrol	遥控器
+game.types.resource.chewtoy	咀嚼玩具
+game.types.resource.vhstape	录像带
+game.types.resource.sandbucket_side	桶
+game.types.resource.megarobo	超级刺客机器人
+game.types.resource.solderingiron	烙铁
+game.types.resource.toaster	烤面包机
+game.types.resource.sheep	绵羊
+game.types.resource.blocko_building_damage	受损建筑
+game.types.resource.blob.infantry1	塑料团
+game.types.resource.blob.infantry2	塑料团
+game.types.resource.blob.building1	塑料团
+game.types.resource.blob.vehicle1	塑料团
+game.types.resource.walkietalkie	对讲机
+game.types.resource.sandshovel	铲子
+game.types.resource.blocko_building1	建筑
+game.types.resource.watchdigital	手表
+game.types.resource.pig	猪
+game.types.resource.kidomatic	儿童自动机
+game.types.resource.planewreck	飞机残骸
+game.types.resource.zorgsit	切特
+game.types.resource.vhstape_stack	录像带
+game.types.resource.toytruck	玩具卡车
+game.types.resource.sheeplie	绵羊
+game.types.resource.dogbone	狗骨头
+game.types.resource.captdan-lie	丹上尉
+game.types.resource.spatula	锅铲
+game.types.resource.nursepeachy	护士皮奇
+game.types.resource.ball	球
+game.types.resource.ps2	游戏机
+game.types.resource.zorgside	赞特罗布洛
+game.types.resource.toothbrush	牙刷
+game.types.resource.sandbucket_down	桶
+game.types.resource.blocko_towncentre	城镇中心
+game.types.resource.battery_sand	电池
+game.types.resource.dogbowl	狗碗
+game.types.resource.slotcarpaddle	轨道车控制器
+game.types.resource.watch	手表
+game.types.resource.captdan-sit	丹上尉
+game.types.resource.spacepeachy	太空指挥官
+game.types.resource.zorglie	布拉格
+game.types.insect.building.nursery-dummy	育虫室
+game.types.insect.building.nursery	育虫室
+game.types.insect.building.fooddeposit	食物储备
+game.types.insect.unit.worker	工蚁
+game.types.insect.unit.queen	蚁后
+game.types.insect.unit.soldier	兵蚁
+game.types.insect.unit.cockroach	蟑螂
+game.types.sandbox.prop.target	目标
+game.types.koth.army.throne	王座
+game.types.ctf.flagcapturer	夺旗兵
+game.types.ctf.flag	旗帜
+game.types.attic.prop.bridgemid	铁路桥
+game.types.attic.prop.s14jar	昆虫罐
+game.types.attic.prop.plurtzheal	治疗者
+game.types.attic.prop.plurtzhealw	治疗者
+game.types.attic.prop.bioplurtz	布林茨
+game.types.attic.prop.plurtzheale	治疗者
+game.types.attic.prop.plurtzhealn	治疗者
+game.types.attic.prop.plurtzacid	酸液枪
+game.types.yard.prop.rocket	模型火箭
+game.types.livingrm.prop.blocko_person-fire	村民
+game.types.livingrm.prop.blocko_person-1	村民
+game.load.newtoy	新武器可用
+game.load.title	载入中
+game.load.newtoys	新武器可用

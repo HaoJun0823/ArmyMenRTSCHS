@@ -1,0 +1,187 @@
+shell.nonetwork.title	多人对战不可用
+shell.nonetwork.message	多人对战已被禁用，因为您的计算机 \r\n未安装 Winsock 2.2 版。\r\n\r\nWinsock 2.2 可从安装光盘安装，也可通过访问\r\nhttp://www.microsoft.com 并搜索 Winsock2 下载。
+shell.start.pressstart	请按 START 键
+shell.specialops.title	特别行动
+shell.credits.leaddesigner	主设计师
+shell.credits.addprogrammer	附加程序
+shell.credits.producers	制作人
+shell.credits.voicetalent	配音演员
+shell.credits.execproducer	执行制作人
+shell.credits.tester	测试人员
+shell.credits.programmer	程序员
+shell.credits.sounddesign	音乐与音效设计：
+shell.credits.title	制作人员
+shell.credits.complete_message1	您已解锁
+shell.credits.leadprogrammer	主程序员
+shell.credits.complete_message2	整个游戏！
+shell.credits.designer	设计师
+shell.credits.addart	附加美术
+shell.credits.artist	美术
+shell.credits.bink	使用 Bink Video。版权所有 (C) 1997-2001 RAD Game Tools, Inc.\r\n
+shell.credits.mpeg1	MPEG Layer-3 播放由 RAD Game Tools, Inc. 的 Miles Sound System 提供。
+shell.credits.seniorproducer	高级制作人
+shell.credits.mpeg2	MPEG Layer-3 音频压缩技术由
+shell.credits.leadartist	主美术
+shell.credits.mpeg3	Fraunhofer IIS 与 THOMSON multimedia 授权。
+shell.credits.complete	干得好！
+shell.credits.artistanimator	3D 美术/动画
+shell.credits.producer	制作人
+shell.credits.mediaservices	媒体服务
+shell.credits.artistcharanim	3D 美术/角色动画
+shell.credits.specialthanks	特别鸣谢
+shell.credits.miles	使用 Miles Sound System。版权所有 (C) 1991-2001 RAD Game Tools, Inc.
+shell.credits.testsupervisor	测试主管
+shell.credits.fourelements	3D 过场动画：4-Elements Studios（加拿大魁北克省蒙特利尔）
+shell.credits.prerender	预渲染视频
+shell.credits.fourelements_ps2_1	3D 过场动画：4-Elements Studios，
+shell.credits.projectlead	项目主管
+shell.credits.fourelements_ps2_2	加拿大魁北克省蒙特利尔
+shell.credits.musicaudio	音乐与音效设计
+shell.campaign.story.missionlocation	任务地点
+shell.campaign.story.title	战役
+shell.campaign.story.missionname	任务名称
+shell.campaign.number	{1:d}
+shell.campaign.boot.title	新兵训练
+shell.debriefing.time	{1:d} 分 {2:d} 秒
+shell.debriefing.unlock.unlock	您已解锁
+shell.debriefing.unlock.type-1.multiple	{1:d} 个大战役任务
+shell.debriefing.unlock.type-1.single	1 个大战役任务
+shell.debriefing.unlock.type-0.multiple	{1:d} 份情报文件
+shell.debriefing.unlock.type-0.single	1 份情报文件
+shell.debriefing.unlock.type-2.multiple	{1:d} 个特别行动任务
+shell.debriefing.unlock.type-2.single	1 个特别行动任务
+shell.debriefing.lost.title	失败
+shell.debriefing.lost.network	失败
+shell.debriefing.won.title	胜利
+shell.debriefing.won.network	胜利
+shell.debriefing.network.electricity	电力
+shell.debriefing.network.result	结果
+shell.debriefing.network.kills	击杀
+shell.debriefing.network.name	名称
+shell.debriefing.network.plastic	塑料
+shell.debriefing.network.casualties	伤亡
+shell.debriefing.network.timetitle	任务用时
+shell.debriefing.congratulations	恭喜
+shell.debriefing.replay	重试
+shell.debriefing.next	下一步
+shell.debriefing.single.kills	击杀
+shell.debriefing.single.secretcode	密技
+shell.debriefing.single.resources	消耗资源
+shell.debriefing.single.losses	损失
+shell.debriefing.single.medalgoals	奖章目标
+shell.debriefing.single.casualties	伤亡
+shell.debriefing.single.timetitle	任务用时
+shell.debriefing.load	读取
+shell.debriefing.computer	电脑
+shell.debriefing.medals.silveraward	您获得了银质奖章！
+shell.debriefing.medals.bronzeaward	您获得了铜质奖章！
+shell.debriefing.medals.silver	银质
+shell.debriefing.medals.bronze	铜质
+shell.debriefing.medals.goldaward	您获得了金质奖章！
+shell.debriefing.medals.gold	金质
+shell.debriefing.medals.congratulations	恭喜！
+shell.intel.classified	机密
+shell.intel.totaltitle	文件
+shell.intel.animations	动画
+shell.intel.accessing	正在读取...
+shell.intel.sounds	音效
+shell.intel.total	{1:d} / {2:d}
+shell.intel.classified_hint2	解锁这些文件。
+shell.intel.classified_hint1	获得奖章以
+shell.intel.names.acid_gun	布林茨的酸液枪
+shell.intel.names.video_games	电子游戏
+shell.intel.names.spaceman	太空人戴夫
+shell.intel.names.chemfactory	化工厂
+shell.intel.names.rubberduck	尖嗓鸭亚当
+shell.intel.names.petunia	哮喘羊戈登
+shell.intel.names.toychest	寡言瓢虫拉克伦
+shell.intel.names.frisbee	飞天笑脸
+shell.intel.names.fan	死亡旋转风扇
+shell.intel.names.flamethrower	无人爱的喷火器
+shell.intel.names.cow	不产奶的牛布伦丹
+shell.intel.names.spider	澳洲死亡蜘蛛
+shell.intel.names.cereal	丹上尉麦片
+shell.intel.names.goldfish	马特·哈丁的“金鱼”
+shell.intel.names.toilet	臭马桶
+shell.intel.names.brontosaurus	雷龙
+shell.intel.names.concept_art	概念美术
+shell.intel.names.triceratops	三角龙
+shell.intel.names.butterfly	蝴蝶菲奥娜
+shell.intel.names.fly	家蝇
+shell.intel.names.alien	赞特罗布洛的史莱姆
+shell.intel.names.skateboard	滑板
+shell.intel.names.townhall	市政厅
+shell.intel.names.soldier_ant	兵蚁
+shell.intel.names.tricycle	胖轮车
+shell.intel.names.worker_ant	工蚁
+shell.intel.names.blintz	布林茨上校
+shell.intel.names.pizza	油腻披萨
+shell.intel.names.pig	未加工培根
+shell.intel.names.grimm	格里姆上校
+shell.intel.names.train_engine	阁楼特快
+shell.intel.names.captain_dan	丹上尉
+shell.intel.names.gnome	古怪侏儒威利
+shell.intel.names.ps2	PlayStation(R) 2
+shell.intel.names.queen_ant	蚁后
+shell.intel.names.fork	闪亮尖齿金属装置
+shell.intel.names.trex	霸王龙麦克勒格
+shell.intel.names.blockoman	疑似阿米什人布莱恩
+shell.intel.names.banana	布拉纳纳
+shell.intel.names.castle	凯西的城堡
+shell.intel.names.frog	青蛙布拉德福德
+shell.intel.help.rotateleft	向左旋转
+shell.intel.help.music	切换音乐
+shell.intel.help.title	帮助
+shell.intel.help.animations	播放动画
+shell.intel.help.L1	L1
+shell.intel.help.zoomout	缩小
+shell.intel.help.L2	L2
+shell.intel.help.zoomin	放大
+shell.intel.help.sounds	播放音效
+shell.intel.help.R2	R2
+shell.intel.help.rotateright	向右旋转
+shell.intel.help.R1	R1
+shell.options.subtitle2	音频设置
+shell.options.subtitle1	视频设置
+shell.options.gamma.title	亮度
+shell.options.gamma.max	更亮
+shell.options.gamma.min	更暗
+shell.options.title	设置
+shell.options.world.low	低
+shell.options.world.title	世界细节
+shell.options.world.high	高
+shell.options.world.medium	中
+shell.options.texture.low	低
+shell.options.texture.title	贴图细节
+shell.options.texture.high	高
+shell.options.sound.speech	语音音量
+shell.options.sound.music	音乐音量
+shell.options.sound.max	最大
+shell.options.sound.master	主音量
+shell.options.sound.min	最小
+shell.options.previews	预览
+shell.options.resolution	屏幕分辨率与色彩深度
+shell.quit.title	退出
+shell.quit.ask1	您确定要
+shell.quit.ask2	退出游戏吗？
+shell.greatbattles.hintPS2_2	以解锁这些
+shell.greatbattles.hintPS2_3	任务。
+shell.greatbattles.classified	机密
+shell.greatbattles.hintPS2_1	在战役中获得金牌
+shell.greatbattles.title	大战役
+shell.greatbattles.vaguehint	获得奖章即可解锁这些任务
+shell.greatbattles.rating	任务评分
+shell.main.buttons.story	战役
+shell.main.buttons.bootcamp	新兵训练
+shell.main.buttons.intelfiles	情报文件
+shell.main.buttons.specialops	特别行动
+shell.main.buttons.back	返回
+shell.main.buttons.select	选择
+shell.main.buttons.options	设置
+shell.main.buttons.quit	退出
+shell.main.buttons.greatbattles	大战役
+shell.main.buttons.load	读取游戏
+shell.main.buttons.multiplayer	多人对战
+shell.load.empty	- 无存档 -
+shell.load.title	读取游戏
+shell.load.load	读取

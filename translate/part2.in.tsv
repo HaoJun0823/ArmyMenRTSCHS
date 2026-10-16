@@ -1,0 +1,187 @@
+shell.nonetwork.title	Multiplayer not available
+shell.nonetwork.message	Multiplayer has been disabled because your computer \r\ndoes not have Winsock version 2.2 installed.\r\n\r\nWinsock 2.2 can be installed from the installation CD or can be downloaded\r\nby going to http://www.microsoft.com and searching for Winsock2.
+shell.start.pressstart	Press the START button
+shell.specialops.title	Special Operations
+shell.credits.leaddesigner	Lead Designer
+shell.credits.addprogrammer	Additional Programming
+shell.credits.producers	Producers
+shell.credits.voicetalent	Voice Talent
+shell.credits.execproducer	Executive Producer
+shell.credits.tester	Testers
+shell.credits.programmer	Programmer
+shell.credits.sounddesign	Music and Sound Design By :
+shell.credits.title	Credits
+shell.credits.complete_message1	You've unlocked the
+shell.credits.leadprogrammer	Lead Programmer
+shell.credits.complete_message2	entire game!
+shell.credits.designer	Designer
+shell.credits.addart	Additional Art
+shell.credits.artist	Artist
+shell.credits.bink	Uses Bink Video. Copyright © 1997-2001 by RAD Game Tools, Inc.\r\n
+shell.credits.mpeg1	MPEG Layer-3 playback supplied with the Miles Sound System from RAD 
+shell.credits.seniorproducer	Senior Producer
+shell.credits.mpeg2	Game Tools, Inc. MPEG Layer-3 audio compression technology licensed by 
+shell.credits.leadartist	Lead Artist
+shell.credits.mpeg3	Fraunhofer IIS and THOMSON multimedia.
+shell.credits.complete	Well Done!
+shell.credits.artistanimator	3D Artist/Animator
+shell.credits.producer	Producer
+shell.credits.mediaservices	Media Services
+shell.credits.artistcharanim	3D Artist/Character Animator
+shell.credits.specialthanks	Special Thanks
+shell.credits.miles	Uses Miles Sound System. Copyright © 1991-2001 by RAD Game Tools, Inc.
+shell.credits.testsupervisor	Test Supervisor
+shell.credits.fourelements	3D Cinematic by 4-Elements Studios, Montreal, Qebec, Canada
+shell.credits.prerender	Pre-rendered Video
+shell.credits.fourelements_ps2_1	3D Cinematic by 4-Elements Studios,
+shell.credits.projectlead	Project Lead
+shell.credits.fourelements_ps2_2	Montreal, Qebec, Canada
+shell.credits.musicaudio	Music and Sound Design
+shell.campaign.story.missionlocation	Mission Location
+shell.campaign.story.title	Campaign
+shell.campaign.story.missionname	Mission Name
+shell.campaign.number	{1:d}
+shell.campaign.boot.title	Boot Camp
+shell.debriefing.time	{1:d} min {2:d} sec
+shell.debriefing.unlock.unlock	You have unlocked
+shell.debriefing.unlock.type-1.multiple	{1:d} Great Battles missions
+shell.debriefing.unlock.type-1.single	1 Great Battles mission
+shell.debriefing.unlock.type-0.multiple	{1:d} Intelligence Files
+shell.debriefing.unlock.type-0.single	1 Intelligence File
+shell.debriefing.unlock.type-2.multiple	{1:d} Special Operations missions
+shell.debriefing.unlock.type-2.single	1 Special Operations mission
+shell.debriefing.lost.title	Defeat
+shell.debriefing.lost.network	Defeat
+shell.debriefing.won.title	Victory
+shell.debriefing.won.network	Victory
+shell.debriefing.network.electricity	Electricity
+shell.debriefing.network.result	Result
+shell.debriefing.network.kills	Kills
+shell.debriefing.network.name	Name
+shell.debriefing.network.plastic	Plastic
+shell.debriefing.network.casualties	Casualties
+shell.debriefing.network.timetitle	Mission Time
+shell.debriefing.congratulations	Congratulations
+shell.debriefing.replay	Retry
+shell.debriefing.next	Next
+shell.debriefing.single.kills	Kills
+shell.debriefing.single.secretcode	Secret Code
+shell.debriefing.single.resources	Resources Spent
+shell.debriefing.single.losses	Losses
+shell.debriefing.single.medalgoals	Medal Goals
+shell.debriefing.single.casualties	Casualties
+shell.debriefing.single.timetitle	Mission Time
+shell.debriefing.load	Load
+shell.debriefing.computer	Computer
+shell.debriefing.medals.silveraward	You have been awarded a Silver Medal!
+shell.debriefing.medals.bronzeaward	You have been awarded a Bronze Medal!
+shell.debriefing.medals.silver	Silver
+shell.debriefing.medals.bronze	Bronze
+shell.debriefing.medals.goldaward	You have been awarded a Gold Medal!
+shell.debriefing.medals.gold	Gold
+shell.debriefing.medals.congratulations	Congratulations!
+shell.intel.classified	Classified
+shell.intel.totaltitle	Files
+shell.intel.animations	Animations
+shell.intel.accessing	Accessing...
+shell.intel.sounds	Sounds
+shell.intel.total	{1:d} / {2:d}
+shell.intel.classified_hint2	unlock these files.
+shell.intel.classified_hint1	Earn Medals to
+shell.intel.names.acid_gun	Blintz's Acid Gun
+shell.intel.names.video_games	Video Games
+shell.intel.names.spaceman	Spaceman Dave
+shell.intel.names.chemfactory	Chemical Factory
+shell.intel.names.rubberduck	Adam the Strident Duck
+shell.intel.names.petunia	Gordon the Asthmatic Sheep
+shell.intel.names.toychest	Lachlan the Laconic Ladybug
+shell.intel.names.frisbee	Air Smiley
+shell.intel.names.fan	Spinning Fan of Doom
+shell.intel.names.flamethrower	The Unloved Flamethrower
+shell.intel.names.cow	Brendan the Non-Dairy Cow
+shell.intel.names.spider	Australian Death Spider
+shell.intel.names.cereal	Captain Dan Cereal
+shell.intel.names.goldfish	Matt Harding's "Goldfish"
+shell.intel.names.toilet	Steenky Toilet
+shell.intel.names.brontosaurus	Brontosaurus
+shell.intel.names.concept_art	Concept Art
+shell.intel.names.triceratops	Triceratops
+shell.intel.names.butterfly	Fiona the Butterfly
+shell.intel.names.fly	House Fly
+shell.intel.names.alien	Shlime of Zantrobulor
+shell.intel.names.skateboard	Skateboard
+shell.intel.names.townhall	Town Hall
+shell.intel.names.soldier_ant	Soldier Ant
+shell.intel.names.tricycle	Fat Wheels
+shell.intel.names.worker_ant	Worker Ant
+shell.intel.names.blintz	Colonel Blintz
+shell.intel.names.pizza	Greasy Pizza
+shell.intel.names.pig	Unprocessed Bacon
+shell.intel.names.grimm	Colonel Grimm
+shell.intel.names.train_engine	Attic Express
+shell.intel.names.captain_dan	Captain Dan
+shell.intel.names.gnome	Weili the Strange Gnome
+shell.intel.names.ps2	PlayStation® 2
+shell.intel.names.queen_ant	Ant Queen
+shell.intel.names.fork	Shiny Pronged Metal Device
+shell.intel.names.trex	T-Rex McClurg
+shell.intel.names.blockoman	Brian the Vaguely Amish
+shell.intel.names.banana	Blahnana
+shell.intel.names.castle	Kasey's Castle
+shell.intel.names.frog	Bradford the Frog
+shell.intel.help.rotateleft	Rotate Left
+shell.intel.help.music	Change Music
+shell.intel.help.title	Help
+shell.intel.help.animations	Play Animations
+shell.intel.help.L1	L1
+shell.intel.help.zoomout	Zoom Out
+shell.intel.help.L2	L2
+shell.intel.help.zoomin	Zoom In
+shell.intel.help.sounds	Play Sounds
+shell.intel.help.R2	R2
+shell.intel.help.rotateright	Rotate Right
+shell.intel.help.R1	R1
+shell.options.subtitle2	Audio Options
+shell.options.subtitle1	Video Options
+shell.options.gamma.title	Brightness
+shell.options.gamma.max	Brighter
+shell.options.gamma.min	Darker
+shell.options.title	Options
+shell.options.world.low	Low
+shell.options.world.title	World Detail
+shell.options.world.high	High
+shell.options.world.medium	Medium
+shell.options.texture.low	Low
+shell.options.texture.title	Texture Detail
+shell.options.texture.high	High
+shell.options.sound.speech	Speech Volume
+shell.options.sound.music	Music Volume
+shell.options.sound.max	Max
+shell.options.sound.master	Master Volume
+shell.options.sound.min	Min
+shell.options.previews	Previews
+shell.options.resolution	Screen Resolution and Color Depth
+shell.quit.title	Quit
+shell.quit.ask1	Are you sure you
+shell.quit.ask2	want to quit?
+shell.greatbattles.hintPS2_2	Campaign to unlock these
+shell.greatbattles.hintPS2_3	 missions.
+shell.greatbattles.classified	Classified
+shell.greatbattles.hintPS2_1	Earn Gold Medals in the
+shell.greatbattles.title	Great Battles
+shell.greatbattles.vaguehint	Earn Medals to unlock these missions
+shell.greatbattles.rating	Mission Rating
+shell.main.buttons.story	Campaign
+shell.main.buttons.bootcamp	Boot Camp
+shell.main.buttons.intelfiles	Intelligence Files
+shell.main.buttons.specialops	Special Operations
+shell.main.buttons.back	Back
+shell.main.buttons.select	Select
+shell.main.buttons.options	Options
+shell.main.buttons.quit	Quit
+shell.main.buttons.greatbattles	Great Battles
+shell.main.buttons.load	Load Game
+shell.main.buttons.multiplayer	Multiplayer
+shell.load.empty	- No Saved Game -
+shell.load.title	Load a Game
+shell.load.load	Load

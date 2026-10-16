@@ -1,0 +1,98 @@
+multiplayer.session.baduser.title	Name Taken
+multiplayer.session.baduser.message	Someone is already using your name
+multiplayer.session.create	Create Game
+multiplayer.session.joined	Session Joined
+multiplayer.session.title	Multiplayer Games
+multiplayer.session.addressbook	Address Book
+multiplayer.session.created	Session Created
+multiplayer.session.local	Local
+multiplayer.session.messages.joinfail.title	Join Failed
+multiplayer.session.messages.joinfail.message	Could not join the session
+multiplayer.session.messages.nosession.title	No Session
+multiplayer.session.messages.nosession.message	No session selected, select a session before joining.
+multiplayer.session.messages.createfail.title	Create Failed
+multiplayer.session.messages.createfail.message	Could not create a new session
+multiplayer.session.createwindow.title	Create A Game
+multiplayer.session.createwindow.subtitle	Enter a name for this game.
+multiplayer.session.badsessionname.title	Invalid Game Name
+multiplayer.session.badsessionname.message	Game name must be at least 3 characters long
+multiplayer.session.join	Join
+multiplayer.session.sessionlocked.title	Game in locked
+multiplayer.session.sessionlocked.message	The session cannot be entered because it is locked
+multiplayer.session.sessionexists.title	Session Exists
+multiplayer.session.sessionexists.message	There is already a session with that name on the server
+multiplayer.session.sessionmigratefailed.title	Migration Failed
+multiplayer.session.sessionmigratefailed.message	Could not migrate to new host
+multiplayer.session.servermigratefailed.abort	Abort
+multiplayer.session.servermigratefailed.title	Migrate Failed
+multiplayer.session.servermigratefailed.message	None of the other players in the game can become the host
+multiplayer.session.servermigratefailed.continue	Continue
+multiplayer.session.sessionfull.title	Session Full
+multiplayer.session.sessionfull.message	The session has is already has the maximum number of players
+multiplayer.session.changename	Change Name
+multiplayer.setup.locked	The game is now locked
+multiplayer.setup.selectmission.players	Maximum of {1:d} players
+multiplayer.setup.selectmission.title	Select A Mission
+multiplayer.setup.selectmission.map	Map
+multiplayer.setup.host.lock	Lock Game
+multiplayer.setup.host.mission	Select Mission
+multiplayer.setup.host.addai	Add AI Player
+multiplayer.setup.teams.1	Bravo
+multiplayer.setup.teams.0	Alpha
+multiplayer.setup.teams.3	Delta
+multiplayer.setup.teams.2	Charlie
+multiplayer.setup.teams.5	Foxtrot
+multiplayer.setup.teams.4	Echo
+multiplayer.setup.teams.7	Hotel
+multiplayer.setup.teams.6	Golf
+multiplayer.setup.titlebar.players	Players
+multiplayer.setup.titlebar.chat	Chat
+multiplayer.setup.choosecolor	Choose A Color
+multiplayer.setup.missionname	Mission Name
+multiplayer.setup.error.havemission	{1:s} doesn't have the current mission or their version of the mission is different to yours.
+multiplayer.setup.error.launch	wants to launch
+multiplayer.setup.error.moreplayers	You need at least two players.
+multiplayer.setup.error.wrongversion	{1:s} has a different version of the game.
+multiplayer.setup.error.needgroups	You need to assign players to at least two different teams.
+multiplayer.setup.error.nomission	No mission selected.
+multiplayer.setup.error.toomanyteams	There are too many players for the current mission.  Choose a different mission or kick some players.
+multiplayer.setup.error.notready	{1:s} isn't ready to launch.
+multiplayer.setup.ainame	Computer Player
+multiplayer.addressbook.edit	Edit
+multiplayer.addressbook.title	Address Book
+multiplayer.addressbook.remove	Remove
+multiplayer.addressbook.add	Add
+multiplayer.addressbook.data.title	Edit Entry
+multiplayer.addressbook.data.address	Address
+multiplayer.addressbook.data.name	Name
+multiplayer.eliminated.title	You have been eliminated!
+multiplayer.eliminated.message	You may continue to host this game, or \r\nabort and allow another player to host.
+multiplayer.chat.privmsg	msg[{1:s}] {2:s}
+multiplayer.chat.allymsg	[allies] {1:s}
+multiplayer.chat.type.all	All
+multiplayer.chat.type.ally	Allies
+multiplayer.chat.enemymsg	[enemies] {1:s}
+multiplayer.chat.playerexit	{1:s} has left the game.
+multiplayer.chat.playerdisconnected	{1:s} has disconnected.
+multiplayer.chat.error.noplayer	Could not find player {1:s}.
+multiplayer.chat.teammsg	[team] {1:s}
+multiplayer.chat.playerenter	{1:s} has entered the game.
+multiplayer.connect.playersync	Waiting for players
+multiplayer.connect.migrate	Migrating to new host
+multiplayer.connect.title	Connecting...
+multiplayer.connect.communicating	Communicating with Network
+multiplayer.server.disconnected.title	Disconnected
+multiplayer.server.disconnected.message	You have been disconnected from the server
+multiplayer.server.connectfailed.title	Connection Failed
+multiplayer.server.connectfailed.message	Could not establish a connection to the server
+multiplayer.server.serverconnect.entering	Entering Session
+multiplayer.server.serverconnect.connect	Connected to Server
+multiplayer.server.serverstart.connecting	Connecting to Server
+multiplayer.server.serverstart.started	Server Started
+multiplayer.server.kicked.title	Kicked
+multiplayer.server.kicked.message	You have been kicked from the game
+multiplayer.server.migrated	Session is migrating to you.  You are now the host.
+multiplayer.server.sessionfull.title	Session Full
+multiplayer.server.sessionfull.message	This session already has the maximum number of players.
+multiplayer.changename.title	Change Your Name
+multiplayer.changename.subtitle	Enter your new name

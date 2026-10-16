@@ -1,0 +1,98 @@
+multiplayer.session.baduser.title	名称已被占用
+multiplayer.session.baduser.message	已有玩家使用该名称
+multiplayer.session.create	创建游戏
+multiplayer.session.joined	已加入房间
+multiplayer.session.title	多人游戏
+multiplayer.session.addressbook	地址簿
+multiplayer.session.created	房间已创建
+multiplayer.session.local	本地
+multiplayer.session.messages.joinfail.title	加入失败
+multiplayer.session.messages.joinfail.message	无法加入该房间
+multiplayer.session.messages.nosession.title	未选房间
+multiplayer.session.messages.nosession.message	未选择房间，请先选择一个房间再加入。
+multiplayer.session.messages.createfail.title	创建失败
+multiplayer.session.messages.createfail.message	无法创建新房间
+multiplayer.session.createwindow.title	创建游戏
+multiplayer.session.createwindow.subtitle	请输入游戏名称。
+multiplayer.session.badsessionname.title	游戏名称无效
+multiplayer.session.badsessionname.message	游戏名称至少需要 3 个字符
+multiplayer.session.join	加入
+multiplayer.session.sessionlocked.title	游戏已锁定
+multiplayer.session.sessionlocked.message	该房间已锁定，无法进入
+multiplayer.session.sessionexists.title	房间已存在
+multiplayer.session.sessionexists.message	服务器上已存在同名房间
+multiplayer.session.sessionmigratefailed.title	迁移失败
+multiplayer.session.sessionmigratefailed.message	无法迁移到新的主机
+multiplayer.session.servermigratefailed.abort	中止
+multiplayer.session.servermigratefailed.title	迁移失败
+multiplayer.session.servermigratefailed.message	游戏中的其他玩家均无法成为主机
+multiplayer.session.servermigratefailed.continue	继续
+multiplayer.session.sessionfull.title	房间已满
+multiplayer.session.sessionfull.message	该房间玩家人数已达上限
+multiplayer.session.changename	修改名称
+multiplayer.setup.locked	游戏现已锁定
+multiplayer.setup.selectmission.players	最多 {1:d} 名玩家
+multiplayer.setup.selectmission.title	选择任务
+multiplayer.setup.selectmission.map	地图
+multiplayer.setup.host.lock	锁定游戏
+multiplayer.setup.host.mission	选择任务
+multiplayer.setup.host.addai	添加电脑玩家
+multiplayer.setup.teams.1	Bravo
+multiplayer.setup.teams.0	Alpha
+multiplayer.setup.teams.3	Delta
+multiplayer.setup.teams.2	Charlie
+multiplayer.setup.teams.5	Foxtrot
+multiplayer.setup.teams.4	Echo
+multiplayer.setup.teams.7	Hotel
+multiplayer.setup.teams.6	Golf
+multiplayer.setup.titlebar.players	玩家
+multiplayer.setup.titlebar.chat	聊天
+multiplayer.setup.choosecolor	选择颜色
+multiplayer.setup.missionname	任务名称
+multiplayer.setup.error.havemission	{1:s} 没有当前任务，或其任务版本与你的不同。
+multiplayer.setup.error.launch	想要开始游戏
+multiplayer.setup.error.moreplayers	至少需要两名玩家。
+multiplayer.setup.error.wrongversion	{1:s} 的游戏版本不同。
+multiplayer.setup.error.needgroups	你需要把玩家分配到至少两支不同的队伍。
+multiplayer.setup.error.nomission	未选择任务。
+multiplayer.setup.error.toomanyteams	当前任务玩家过多。请选择其他任务或踢出部分玩家。
+multiplayer.setup.error.notready	{1:s} 尚未准备就绪。
+multiplayer.setup.ainame	电脑玩家
+multiplayer.addressbook.edit	编辑
+multiplayer.addressbook.title	地址簿
+multiplayer.addressbook.remove	删除
+multiplayer.addressbook.add	添加
+multiplayer.addressbook.data.title	编辑条目
+multiplayer.addressbook.data.address	地址
+multiplayer.addressbook.data.name	名称
+multiplayer.eliminated.title	你已被淘汰！
+multiplayer.eliminated.message	你可以继续作为主机，或\r\n中止并让其他玩家担任主机。
+multiplayer.chat.privmsg	私聊[{1:s}] {2:s}
+multiplayer.chat.allymsg	[盟友] {1:s}
+multiplayer.chat.type.all	全体
+multiplayer.chat.type.ally	盟友
+multiplayer.chat.enemymsg	[敌人] {1:s}
+multiplayer.chat.playerexit	{1:s} 已离开游戏。
+multiplayer.chat.playerdisconnected	{1:s} 已断开连接。
+multiplayer.chat.error.noplayer	找不到玩家 {1:s}。
+multiplayer.chat.teammsg	[队伍] {1:s}
+multiplayer.chat.playerenter	{1:s} 已进入游戏。
+multiplayer.connect.playersync	正在等待玩家
+multiplayer.connect.migrate	正在迁移到新主机
+multiplayer.connect.title	正在连接...
+multiplayer.connect.communicating	正在与网络通信
+multiplayer.server.disconnected.title	已断开连接
+multiplayer.server.disconnected.message	你已与服务器断开连接
+multiplayer.server.connectfailed.title	连接失败
+multiplayer.server.connectfailed.message	无法与服务器建立连接
+multiplayer.server.serverconnect.entering	正在进入房间
+multiplayer.server.serverconnect.connect	已连接到服务器
+multiplayer.server.serverstart.connecting	正在连接服务器
+multiplayer.server.serverstart.started	服务器已启动
+multiplayer.server.kicked.title	已被踢出
+multiplayer.server.kicked.message	你已被踢出游戏
+multiplayer.server.migrated	房间正在迁移给你。你现在是主机。
+multiplayer.server.sessionfull.title	房间已满
+multiplayer.server.sessionfull.message	该房间玩家人数已达上限。
+multiplayer.changename.title	修改你的名称
+multiplayer.changename.subtitle	请输入你的新名称

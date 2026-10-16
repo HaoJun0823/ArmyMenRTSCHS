@@ -1,0 +1,39 @@
+# 构建产物
+ArmyRTS_CHINESE/Release/
+ArmyRTS_CHINESE/x64/
+ArmyRTS_CHINESE/Debug/
+*.obj
+*.iobj
+*.pdb
+*.ipdb
+*.exp
+*.lib
+*.tlog
+*.user
+
+# 运行期生成的日志
+chs_debug.log
+
+# 工具测试残留
+Tools/_test_*
+Tools/__pycache__/
+__pycache__/
+
+# 原版资源备份（体积大且属游戏资产，不入库）
+Resource_EN/
+
+# 废弃脚本与残留：按用户约定只归档不删除，但不进版本库
+_trash/
+
+# 字库中间产物（由 _build_full.py 重新生成）
+build_full/*.fff
+build_full/chs_index.bin
+
+# 单字探针残留
+probe1/
+_probe_loader/
+build_chs/
+
+# 编辑器
+.vs/
+*.suo

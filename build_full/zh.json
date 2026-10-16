@@ -1,0 +1,10126 @@
+{
+ "format": "amrts-docb-language",
+ "header_b64": "RE9DQgEAAAACAAAA7ACmADD5EgBfOeF3ALRNAIQAAAAAAAAAbznhdwAAAAA=",
+ "pre_b64": "RfKR7CCGAAAHAA==",
+ "tail_b64": "+7grcgQAAABOAwAA",
+ "blob_start": 54,
+ "data_size": 34334,
+ "nodes": [
+  {
+   "path": [
+    "missions"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s13"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s13",
+    "title"
+   ],
+   "value": "任务 13",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s13",
+    "description"
+   ],
+   "value": "褐军之村",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s13",
+    "objective1"
+   ],
+   "value": "抵达火车站并击溃守卫的褐军。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s13",
+    "goal-0"
+   ],
+   "value": "摧毁所有集装箱",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s13",
+    "goal-1"
+   ],
+   "value": "50 分钟内完成",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s12"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s12",
+    "title"
+   ],
+   "value": "任务 12",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s12",
+    "description"
+   ],
+   "value": "脱轨",
+   "tag": 9
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s12",
+    "objective"
+   ],
+   "value": "摧毁铁路桥",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s12",
+    "goal-0"
+   ],
+   "value": "消灭所有蚂蚁",
+   "tag": 11
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s12",
+    "goal-1"
+   ],
+   "value": "摧毁所有褐军建筑",
+   "tag": 11
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s11"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s11",
+    "title"
+   ],
+   "value": "任务 11",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s11",
+    "description"
+   ],
+   "value": "孤胆英雄",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s11",
+    "objective1"
+   ],
+   "value": "从床尾救出中士",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s11",
+    "objective2"
+   ],
+   "value": "摧毁门前的褐军基地。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s11",
+    "goal-0"
+   ],
+   "value": "消灭所有蚂蚁",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s11",
+    "goal-1"
+   ],
+   "value": "塑料消耗低于 10,000",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s10"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s10",
+    "title"
+   ],
+   "value": "任务 10",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s10",
+    "description"
+   ],
+   "value": "荣耀浴场",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s10",
+    "objective1"
+   ],
+   "value": "抵达柜台尽头的门。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s10",
+    "goal-0"
+   ],
+   "value": "8 分钟内完成",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s10",
+    "goal-1"
+   ],
+   "value": "摧毁所有警卫塔",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s15"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s15",
+    "title"
+   ],
+   "value": "任务 15",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s15",
+    "description"
+   ],
+   "value": "塑料之心",
+   "tag": 9
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s15",
+    "objective"
+   ],
+   "value": "追猎并终结布林茨",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s15",
+    "theend"
+   ],
+   "value": "结束",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s15",
+    "goal-0"
+   ],
+   "value": "90 分钟内完成",
+   "tag": 10
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s15",
+    "goal-1"
+   ],
+   "value": "以困难难度完成",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s14"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s14",
+    "title"
+   ],
+   "value": "任务 14",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s14",
+    "description"
+   ],
+   "value": "焦土",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s14",
+    "objective1"
+   ],
+   "value": "找到进入布林茨营地的路径。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s14",
+    "goal-0"
+   ],
+   "value": "50 分钟内完成",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s14",
+    "goal-1"
+   ],
+   "value": "解救蚁后",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "description"
+   ],
+   "value": "剧情战役",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s08"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s08",
+    "title"
+   ],
+   "value": "任务 8",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s08",
+    "description"
+   ],
+   "value": "从这里到沙发",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s08",
+    "objective1"
+   ],
+   "value": "消灭褐军，夺取 PlayStation(R)2 电脑娱乐系统。",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s08",
+    "objective2"
+   ],
+   "value": "保护 PlayStation(R)2 电脑娱乐系统。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s08",
+    "goal-0"
+   ],
+   "value": "投放一次伞兵空袭",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s08",
+    "goal-1"
+   ],
+   "value": "消灭所有蚂蚁",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s09"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s09",
+    "title"
+   ],
+   "value": "任务 9",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s09",
+    "description"
+   ],
+   "value": "一把塑料",
+   "tag": 8
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s09",
+    "objective1"
+   ],
+   "value": "掩护村民撤离。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s09",
+    "villagers"
+   ],
+   "value": "剩余 {1:d} 名村民",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s09",
+    "goal-0"
+   ],
+   "value": "救下所有村民",
+   "tag": 9
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s09",
+    "goal-1"
+   ],
+   "value": "塑料消耗低于 10,000",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s07"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s07",
+    "title"
+   ],
+   "value": "任务 7",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s07",
+    "description"
+   ],
+   "value": "碗碟间的英勇",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s07",
+    "objective1"
+   ],
+   "value": "摧毁化学武器工厂",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s07",
+    "goal-0"
+   ],
+   "value": "摧毁所有集装箱",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s07",
+    "goal-1"
+   ],
+   "value": "35 分钟内完成",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s06"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s06",
+    "title"
+   ],
+   "value": "任务 6",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s06",
+    "description"
+   ],
+   "value": "杂货下的勇气",
+   "tag": 9
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s06",
+    "objective1"
+   ],
+   "value": "找到并增援绿军厨房基地",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s06",
+    "objective2"
+   ],
+   "value": "守住绿军基地",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s06",
+    "1aa"
+   ],
+   "value": "清除最后一座防空炮塔",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s06",
+    "2aa"
+   ],
+   "value": "清除剩余 2 座防空炮塔",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s06",
+    "3aa"
+   ],
+   "value": "清除剩余 3 座防空炮塔",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s06",
+    "sargeobj"
+   ],
+   "value": "将中士撤回基地",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s06",
+    "goal-0"
+   ],
+   "value": "消灭所有蟑螂",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s06",
+    "goal-1"
+   ],
+   "value": "35 分钟内完成",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s05"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s05",
+    "title"
+   ],
+   "value": "任务 5",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s05",
+    "description"
+   ],
+   "value": "来自地下室",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s05",
+    "objective1"
+   ],
+   "value": "经楼梯逃离地下室",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s05",
+    "objective2"
+   ],
+   "value": "在轰炸开始前逃离地下室",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s05",
+    "description1"
+   ],
+   "value": "它来自",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s05",
+    "description2"
+   ],
+   "value": "地下室",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s05",
+    "goal-0"
+   ],
+   "value": "无人牺牲",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s05",
+    "goal-1"
+   ],
+   "value": "拾取所有奖励",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s04"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s04",
+    "title"
+   ],
+   "value": "任务 4",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s04",
+    "description"
+   ],
+   "value": "塑料防弹衣",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s04",
+    "objective1"
+   ],
+   "value": "找到进入房屋的路径",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s04",
+    "goal-0"
+   ],
+   "value": "拾取所有奖励",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s04",
+    "goal-1"
+   ],
+   "value": "30 分钟内完成",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s03"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s03",
+    "title"
+   ],
+   "value": "任务 3",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s03",
+    "description"
+   ],
+   "value": "少数绿军",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s03",
+    "objective1"
+   ],
+   "value": "找到电源",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s03",
+    "objective2"
+   ],
+   "value": "抵达棒球处",
+   "tag": 8
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s03",
+    "goal-0"
+   ],
+   "value": "找到增援",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s03",
+    "goal-1"
+   ],
+   "value": "8 分钟内完成",
+   "tag": 8
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s02"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s02",
+    "title"
+   ],
+   "value": "任务 2",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s02",
+    "description"
+   ],
+   "value": "深入褐军铁幕",
+   "tag": 10
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s02",
+    "goal-0"
+   ],
+   "value": "摧毁所有地雷",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s02",
+    "goal-1"
+   ],
+   "value": "塑料消耗低于 4000",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s02",
+    "obj_win"
+   ],
+   "value": "摧毁中央院落的褐军基地",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s01"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s01",
+    "title"
+   ],
+   "value": "任务 1",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s01",
+    "description"
+   ],
+   "value": "绿色防线",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s01",
+    "objective1"
+   ],
+   "value": "突破褐军防御圈",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s01",
+    "goal-0"
+   ],
+   "value": "7 分钟内完成",
+   "tag": 9
+  },
+  {
+   "path": [
+    "missions",
+    "story",
+    "s01",
+    "goal-1"
+   ],
+   "value": "消灭所有褐军",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "gb"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "waterway"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "waterway",
+    "description"
+   ],
+   "value": "水道之战",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "waterway",
+    "objective"
+   ],
+   "value": "摧毁中央敌军基地。",
+   "tag": 15
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "waterway",
+    "goal-0"
+   ],
+   "value": "30 分钟内完成",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "waterway",
+    "goal-1"
+   ],
+   "value": "拾取所有奖励",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "garden"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "garden",
+    "description"
+   ],
+   "value": "花园围攻",
+   "tag": 8
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "garden",
+    "objective"
+   ],
+   "value": "摧毁所有褐军建筑",
+   "tag": 15
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "garden",
+    "goal-0"
+   ],
+   "value": "摧毁所有集装箱",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "garden",
+    "goal-1"
+   ],
+   "value": "30 分钟内完成",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "description"
+   ],
+   "value": "大战役",
+   "tag": 14
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "basement"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "basement",
+    "description"
+   ],
+   "value": "地下室闹剧",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "basement",
+    "objective"
+   ],
+   "value": "摧毁桌下的中央总部",
+   "tag": 19
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "basement",
+    "goal-0"
+   ],
+   "value": "以困难难度完成",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "basement",
+    "goal-1"
+   ],
+   "value": "电力消耗低于 2000",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "sandbox"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "sandbox",
+    "description"
+   ],
+   "value": "沙坑恶作剧",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "sandbox",
+    "objective"
+   ],
+   "value": "摧毁所有褐军建筑",
+   "tag": 16
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "sandbox",
+    "goal-0"
+   ],
+   "value": "拾取所有奖励",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "sandbox",
+    "goal-1"
+   ],
+   "value": "40 分钟内完成",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "bathroom"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "bathroom",
+    "description"
+   ],
+   "value": "浴室闪击",
+   "tag": 9
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "bathroom",
+    "objective"
+   ],
+   "value": "消灭浴室柜台上的褐军",
+   "tag": 19
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "bathroom",
+    "goal-0"
+   ],
+   "value": "拾取所有奖励",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "bathroom",
+    "goal-1"
+   ],
+   "value": "塑料消耗低于 5000",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "tricycle"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "tricycle",
+    "description"
+   ],
+   "value": "三轮车诡计",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "tricycle",
+    "objective"
+   ],
+   "value": "摧毁所有褐军建筑",
+   "tag": 21
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "tricycle",
+    "goal-0"
+   ],
+   "value": "30 分钟内完成",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "tricycle",
+    "goal-1"
+   ],
+   "value": "以困难难度完成",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "attic"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "attic",
+    "description"
+   ],
+   "value": "盲目通行",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "attic",
+    "objective"
+   ],
+   "value": "歼灭阁楼通道的褐军部队",
+   "tag": 15
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "attic",
+    "goal-0"
+   ],
+   "value": "30 分钟内完成",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "attic",
+    "goal-1"
+   ],
+   "value": "塑料消耗低于 12,000",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "flooded"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "flooded",
+    "description"
+   ],
+   "value": "水淹闹剧",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "flooded",
+    "objective"
+   ],
+   "value": "在被淹没前夺取厨房柜台",
+   "tag": 16
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "flooded",
+    "goal-0"
+   ],
+   "value": "40 分钟内完成",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "gb",
+    "flooded",
+    "goal-1"
+   ],
+   "value": "塑料消耗低于 12000",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "shells"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "shells",
+    "description"
+   ],
+   "value": "炮弹任务",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "mp"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "2eight"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "2eight",
+    "description"
+   ],
+   "value": "8 字绕行",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "4crazed"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "4crazed",
+    "description"
+   ],
+   "value": "疯狂嬉闹",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "4sandbox"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "4sandbox",
+    "description"
+   ],
+   "value": "沙坑",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "4hose"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "4hose",
+    "description"
+   ],
+   "value": "水管太远",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "4koth"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "4koth",
+    "description"
+   ],
+   "value": "山头之王",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "description"
+   ],
+   "value": "多人任务",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "2dumdums"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "2dumdums",
+    "description"
+   ],
+   "value": "笨蛋狂潮！",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "8ally"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "8ally",
+    "description"
+   ],
+   "value": "双人协作",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "6sixway"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "6sixway",
+    "description"
+   ],
+   "value": "芝士汉堡山",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "8train"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "8train",
+    "description"
+   ],
+   "value": "搭上 8 号列车",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "2bench"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "mp",
+    "2bench",
+    "description"
+   ],
+   "value": "下沉的感觉",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "so"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "night"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "night",
+    "description"
+   ],
+   "value": "午夜点心",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "night",
+    "goal-0"
+   ],
+   "value": "15 分钟内完成",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "night",
+    "goal-1"
+   ],
+   "value": "救出所有英雄",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "night",
+    "obj_win"
+   ],
+   "value": "摧毁褐军基地",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "antparty"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "antparty",
+    "description"
+   ],
+   "value": "蚁群之王",
+   "tag": 9
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "antparty",
+    "objective"
+   ],
+   "value": "夺回食物。",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "antparty",
+    "goal-0"
+   ],
+   "value": "30 分钟内完成",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "antparty",
+    "goal-1"
+   ],
+   "value": "育蚁室无一失守",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "rescue"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "rescue",
+    "description"
+   ],
+   "value": "人质危机",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "rescue",
+    "objective1"
+   ],
+   "value": "让中士抵达褐军基地的人质处。",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "rescue",
+    "objective2"
+   ],
+   "value": "用中士引导人质前往撤离点。",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "rescue",
+    "goal-0"
+   ],
+   "value": "30 分钟内完成",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "rescue",
+    "goal-1"
+   ],
+   "value": "消灭所有褐军",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "description"
+   ],
+   "value": "特别行动",
+   "tag": 8
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "rocket"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "rocket",
+    "description"
+   ],
+   "value": "发射！",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "rocket",
+    "objective"
+   ],
+   "value": "保护火箭直至发射。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "rocket",
+    "goal-0"
+   ],
+   "value": "火箭保持满血",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "rocket",
+    "goal-1"
+   ],
+   "value": "消灭所有褐军",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "beach"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "beach",
+    "description"
+   ],
+   "value": "沙地登陆",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "beach",
+    "objective1"
+   ],
+   "value": "摧毁守卫海岸线的炮塔，为增援开路。",
+   "tag": 8
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "beach",
+    "objective2"
+   ],
+   "value": "摧毁褐军总部",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "beach",
+    "goal-0"
+   ],
+   "value": "拾取所有奖励",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "beach",
+    "goal-1"
+   ],
+   "value": "无人牺牲",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "uberbase"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "uberbase",
+    "description"
+   ],
+   "value": "这座旧堡垒",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "uberbase",
+    "objective"
+   ],
+   "value": "摧毁总部营地",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "uberbase",
+    "goal-0"
+   ],
+   "value": "以困难难度完成",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "uberbase",
+    "goal-1"
+   ],
+   "value": "不使用伞兵",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "convoy"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "convoy",
+    "description"
+   ],
+   "value": "路障",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "convoy",
+    "objective1"
+   ],
+   "value": "拦截所有试图突围的褐军车队卡车。",
+   "tag": 10
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "convoy",
+    "goal-0"
+   ],
+   "value": "找到所有奖励",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "convoy",
+    "goal-1"
+   ],
+   "value": "无人牺牲",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "convoy",
+    "trucks"
+   ],
+   "value": "剩余 {1:d} 辆卡车",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "battle"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "battle",
+    "description"
+   ],
+   "value": "褐军藏不住",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "battle",
+    "objective"
+   ],
+   "value": "不留一个褐军。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "battle",
+    "goal-0"
+   ],
+   "value": "15 分钟内完成",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "so",
+    "battle",
+    "goal-1"
+   ],
+   "value": "无人牺牲",
+   "tag": 1
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "description"
+   ],
+   "value": "PS2 新兵训练任务",
+   "tag": 11
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective5"
+   ],
+   "value": "订购一座资源站，把它放在两处资源附近。",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective16"
+   ],
+   "value": "随心练习，练好后将中士移动到撤离点完成训练。",
+   "tag": 8
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective4"
+   ],
+   "value": "滚动画面，把总部移到想要的位置，然后按叉键放置。",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective17"
+   ],
+   "value": "从兵营建造一个单位。",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "description"
+   ],
+   "value": "建造基地",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective7"
+   ],
+   "value": "高亮自卸卡车后，按一次叉键下单。",
+   "tag": 10
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective14"
+   ],
+   "value": "用推土机在每个标记处放置铁丝网。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective6"
+   ],
+   "value": "要建造自卸卡车，按住 R1 键并上下推左摇杆，或按方向键上/下，调出总部建造菜单。",
+   "tag": 9
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective15"
+   ],
+   "value": "按 L2 键，把镜头移到目标上，再按叉键即可熔毁任意建筑或围栏。",
+   "tag": 12
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective12"
+   ],
+   "value": "在兵营建造菜单中高亮升级按钮，按叉键升级。",
+   "tag": 9
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective1"
+   ],
+   "value": "选中推土机，按住 R1 键调出建造菜单。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective13"
+   ],
+   "value": "用推土机建造一座警卫塔。",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective10"
+   ],
+   "value": "在总部建造菜单中高亮升级按钮，按叉键升级。",
+   "tag": 11
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective11"
+   ],
+   "value": "打开推土机建造菜单，建造一座车库。",
+   "tag": 10
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective2"
+   ],
+   "value": "按住 R1 键，在菜单中高亮总部，然后按叉键选中它。",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t02",
+    "objective9"
+   ],
+   "value": "选中推土机，建造一座兵营。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t03"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t03",
+    "objective5"
+   ],
+   "value": "摧毁所有目标。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t03",
+    "objective4"
+   ],
+   "value": "选中所有单位，把它们移入第一处交战区开始。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t03",
+    "description"
+   ],
+   "value": "战斗",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t03",
+    "objective7"
+   ],
+   "value": "准备好后，选中所有单位，把它们移入下一处交战区。",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t03",
+    "objective6"
+   ],
+   "value": "选中所有单位，把它们移入下一处交战区。",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t03",
+    "objective3"
+   ],
+   "value": "推右摇杆跳到各个目标处，然后按叉键开火。",
+   "tag": 8
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t03",
+    "objective8"
+   ],
+   "value": "现在可以去撤离点，也可以继续在挑战场练习战斗。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t03",
+    "objective9"
+   ],
+   "value": "将中士移动到撤离点。",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective5"
+   ],
+   "value": "按叉键给突击队员下达移动指令。",
+   "tag": 8
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective4"
+   ],
+   "value": "连按三次圆圈键，一次选中全部三个突击队员。",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "description"
+   ],
+   "value": "视角与移动",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective7"
+   ],
+   "value": "按 L1 键跳到敌方单位处。",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective14"
+   ],
+   "value": "不要按选择键。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective6"
+   ],
+   "value": "依次移到每个单位上按方块键，一次选中地图上全部七个单位。",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective12"
+   ],
+   "value": "滚动到中士处，按三角键。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective1"
+   ],
+   "value": "用左摇杆移动到北面的撤离点。",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective13"
+   ],
+   "value": "滚回另外三个单位处，按三角键重新选中它们。",
+   "tag": 8
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective10"
+   ],
+   "value": "滚动时按 L3 键可获得额外加速。",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective3"
+   ],
+   "value": "在地图任意位置滚动画面，按叉键给中士下达移动指令。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective11"
+   ],
+   "value": "练够之后，将中士移动到撤离点完成训练。",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective2"
+   ],
+   "value": "移动视角，使目标落在中士身上，然后按圆圈键选中他。",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective8"
+   ],
+   "value": "按住手柄顶部的 R2 键，同时上下推左摇杆。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "bc_s",
+    "t01",
+    "objective9"
+   ],
+   "value": "要恢复默认视角高度，按住 R2 键后松开，期间不要推动左摇杆。",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "description"
+   ],
+   "value": "PC 新兵训练任务",
+   "tag": 9
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective5"
+   ],
+   "value": "订购一座资源站，把它放在两处资源附近。",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective16"
+   ],
+   "value": "随心练习，练好后将中士移动到撤离点完成训练。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective4"
+   ],
+   "value": "把总部移到想要的位置，然后按鼠标左键放置。",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective17"
+   ],
+   "value": "从兵营建造一个单位。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "description"
+   ],
+   "value": "建造基地",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective14"
+   ],
+   "value": "用推土机在每个标记处放置铁丝网。",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective6"
+   ],
+   "value": "选中总部，在它的建造菜单中点击自卸卡车。",
+   "tag": 7
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective15"
+   ],
+   "value": "选中建筑或围栏，再点击屏幕右侧地图上方的熔毁按钮将其熔化。",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective12"
+   ],
+   "value": "选中兵营，在建造菜单底部点击升级按钮。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective1"
+   ],
+   "value": "选中推土机，调出它的建造菜单。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective13"
+   ],
+   "value": "用推土机建造一座警卫塔。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective10"
+   ],
+   "value": "选中总部，在建造菜单底部点击升级按钮。",
+   "tag": 8
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective11"
+   ],
+   "value": "总部升级完成后，打开推土机建造菜单，建造一座车库。",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective2"
+   ],
+   "value": "把光标移到建造菜单中的总部上，按鼠标左键选中它。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t02",
+    "objective9"
+   ],
+   "value": "选中推土机，建造一座兵营。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t03"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t03",
+    "objective5"
+   ],
+   "value": "摧毁所有目标。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t03",
+    "objective4"
+   ],
+   "value": "选中所有单位，把它们移入第一处交战区开始。",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t03",
+    "description"
+   ],
+   "value": "小队与战斗",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t03",
+    "objective7"
+   ],
+   "value": "准备好后，选中所有单位，把它们移入下一处交战区。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t03",
+    "objective6"
+   ],
+   "value": "选中所有单位，把它们移入下一处交战区。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t03",
+    "objective1"
+   ],
+   "value": "选中所有单位，按住键盘 Ctrl 键，再按 1 键把他们编成小队。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t03",
+    "objective3"
+   ],
+   "value": "选中包含中士、里夫和斯考奇的这支小队。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t03",
+    "objective2"
+   ],
+   "value": "选中新单位，把他们编入小队。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t03",
+    "objective8"
+   ],
+   "value": "现在可以去撤离点，也可以继续在挑战场练习战斗。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t03",
+    "objective9"
+   ],
+   "value": "将中士移动到撤离点。",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t01"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t01",
+    "objective5"
+   ],
+   "value": "按鼠标左键给突击队员下达移动指令。",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t01",
+    "objective4"
+   ],
+   "value": "按住鼠标左键并拖动光标框住三个突击队员，一次全部选中。",
+   "tag": 4
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t01",
+    "description"
+   ],
+   "value": "视角与移动",
+   "tag": 3
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t01",
+    "objective7"
+   ],
+   "value": "按空格键跳到敌方单位处。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t01",
+    "objective6"
+   ],
+   "value": "按住 Shift 键逐个选择，一次选中地图上全部七个单位。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t01",
+    "objective1"
+   ],
+   "value": "按住鼠标右键并向前滚动，把视角对准北面的撤离点。",
+   "tag": 9
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t01",
+    "objective3"
+   ],
+   "value": "选中中士后，把光标移到地图任意位置，按鼠标左键下达移动指令。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t01",
+    "objective11"
+   ],
+   "value": "练够之后，将中士移动到撤离点完成训练。",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t01",
+    "objective2"
+   ],
+   "value": "滚动到中士处并把光标放在他身上，然后按鼠标左键选中他。",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t01",
+    "objective8"
+   ],
+   "value": "用鼠标滚轮或 Ctrl 键上下缩放视角。",
+   "tag": 6
+  },
+  {
+   "path": [
+    "missions",
+    "bc_p",
+    "t01",
+    "objective9"
+   ],
+   "value": "不要按 'J' 键。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "nonetwork"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "nonetwork",
+    "title"
+   ],
+   "value": "多人对战不可用",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "nonetwork",
+    "message"
+   ],
+   "value": "多人对战已被禁用，因为您的计算机 \\r\n未安装 Winsock 2.2 版。\\r\n\\r\nWinsock 2.2 可从安装光盘安装，也可通过访问\\r\nhttp://www.microsoft.com 并搜索 Winsock2 下载。",
+   "tag": 4
+  },
+  {
+   "path": [
+    "shell",
+    "start"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "start",
+    "pressstart"
+   ],
+   "value": "请按 START 键",
+   "tag": 4
+  },
+  {
+   "path": [
+    "shell",
+    "specialops"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "specialops",
+    "title"
+   ],
+   "value": "特别行动",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "leaddesigner"
+   ],
+   "value": "主设计师",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "addprogrammer"
+   ],
+   "value": "附加程序",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "producers"
+   ],
+   "value": "制作人",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "voicetalent"
+   ],
+   "value": "配音演员",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "execproducer"
+   ],
+   "value": "执行制作人",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "tester"
+   ],
+   "value": "测试人员",
+   "tag": 3
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "programmer"
+   ],
+   "value": "程序员",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "sounddesign"
+   ],
+   "value": "音乐与音效设计：",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "title"
+   ],
+   "value": "制作人员",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "complete_message1"
+   ],
+   "value": "您已解锁",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "leadprogrammer"
+   ],
+   "value": "主程序员",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "complete_message2"
+   ],
+   "value": "整个游戏！",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "designer"
+   ],
+   "value": "设计师",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "addart"
+   ],
+   "value": "附加美术",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "artist"
+   ],
+   "value": "美术",
+   "tag": 3
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "bink"
+   ],
+   "value": "使用 Bink Video。版权所有 (C) 1997-2001 RAD Game Tools, Inc.\\r\n",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "mpeg1"
+   ],
+   "value": "MPEG Layer-3 播放由 RAD Game Tools, Inc. 的 Miles Sound System 提供。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "seniorproducer"
+   ],
+   "value": "高级制作人",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "mpeg2"
+   ],
+   "value": "MPEG Layer-3 音频压缩技术由",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "leadartist"
+   ],
+   "value": "主美术",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "mpeg3"
+   ],
+   "value": "Fraunhofer IIS 与 THOMSON multimedia 授权。",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "complete"
+   ],
+   "value": "干得好！",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "artistanimator"
+   ],
+   "value": "3D 美术/动画",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "producer"
+   ],
+   "value": "制作人",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "mediaservices"
+   ],
+   "value": "媒体服务",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "artistcharanim"
+   ],
+   "value": "3D 美术/角色动画",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "specialthanks"
+   ],
+   "value": "特别鸣谢",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "miles"
+   ],
+   "value": "使用 Miles Sound System。版权所有 (C) 1991-2001 RAD Game Tools, Inc.",
+   "tag": 4
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "testsupervisor"
+   ],
+   "value": "测试主管",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "fourelements"
+   ],
+   "value": "3D 过场动画：4-Elements Studios（加拿大魁北克省蒙特利尔）",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "prerender"
+   ],
+   "value": "预渲染视频",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "fourelements_ps2_1"
+   ],
+   "value": "3D 过场动画：4-Elements Studios，",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "projectlead"
+   ],
+   "value": "项目主管",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "fourelements_ps2_2"
+   ],
+   "value": "加拿大魁北克省蒙特利尔",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "credits",
+    "musicaudio"
+   ],
+   "value": "音乐与音效设计",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "campaign"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "campaign",
+    "story"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "campaign",
+    "story",
+    "missionlocation"
+   ],
+   "value": "任务地点",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "campaign",
+    "story",
+    "title"
+   ],
+   "value": "战役",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "campaign",
+    "story",
+    "missionname"
+   ],
+   "value": "任务名称",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "campaign",
+    "number"
+   ],
+   "value": "{1:d}",
+   "tag": 4
+  },
+  {
+   "path": [
+    "shell",
+    "campaign",
+    "boot"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "campaign",
+    "boot",
+    "title"
+   ],
+   "value": "新兵训练",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "time"
+   ],
+   "value": "{1:d} 分 {2:d} 秒",
+   "tag": 27
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "unlock"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "unlock",
+    "unlock"
+   ],
+   "value": "您已解锁",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "unlock",
+    "type-1"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "unlock",
+    "type-1",
+    "multiple"
+   ],
+   "value": "{1:d} 个大战役任务",
+   "tag": 6
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "unlock",
+    "type-1",
+    "single"
+   ],
+   "value": "1 个大战役任务",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "unlock",
+    "type-0"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "unlock",
+    "type-0",
+    "multiple"
+   ],
+   "value": "{1:d} 份情报文件",
+   "tag": 5
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "unlock",
+    "type-0",
+    "single"
+   ],
+   "value": "1 份情报文件",
+   "tag": 6
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "unlock",
+    "type-2"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "unlock",
+    "type-2",
+    "multiple"
+   ],
+   "value": "{1:d} 个特别行动任务",
+   "tag": 5
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "unlock",
+    "type-2",
+    "single"
+   ],
+   "value": "1 个特别行动任务",
+   "tag": 4
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "lost"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "lost",
+    "title"
+   ],
+   "value": "失败",
+   "tag": 9
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "lost",
+    "network"
+   ],
+   "value": "失败",
+   "tag": 7
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "won"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "won",
+    "title"
+   ],
+   "value": "胜利",
+   "tag": 7
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "won",
+    "network"
+   ],
+   "value": "胜利",
+   "tag": 7
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "network"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "network",
+    "electricity"
+   ],
+   "value": "电力",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "network",
+    "result"
+   ],
+   "value": "结果",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "network",
+    "kills"
+   ],
+   "value": "击杀",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "network",
+    "name"
+   ],
+   "value": "名称",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "network",
+    "plastic"
+   ],
+   "value": "塑料",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "network",
+    "casualties"
+   ],
+   "value": "伤亡",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "network",
+    "timetitle"
+   ],
+   "value": "任务用时",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "congratulations"
+   ],
+   "value": "恭喜",
+   "tag": 3
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "replay"
+   ],
+   "value": "重试",
+   "tag": 6
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "next"
+   ],
+   "value": "下一步",
+   "tag": 4
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "single"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "single",
+    "kills"
+   ],
+   "value": "击杀",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "single",
+    "secretcode"
+   ],
+   "value": "密技",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "single",
+    "resources"
+   ],
+   "value": "消耗资源",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "single",
+    "losses"
+   ],
+   "value": "损失",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "single",
+    "medalgoals"
+   ],
+   "value": "奖章目标",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "single",
+    "casualties"
+   ],
+   "value": "伤亡",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "single",
+    "timetitle"
+   ],
+   "value": "任务用时",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "load"
+   ],
+   "value": "读取",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "computer"
+   ],
+   "value": "电脑",
+   "tag": 5
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "medals"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "medals",
+    "silveraward"
+   ],
+   "value": "您获得了银质奖章！",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "medals",
+    "bronzeaward"
+   ],
+   "value": "您获得了铜质奖章！",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "medals",
+    "silver"
+   ],
+   "value": "银质",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "medals",
+    "bronze"
+   ],
+   "value": "铜质",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "medals",
+    "goldaward"
+   ],
+   "value": "您获得了金质奖章！",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "medals",
+    "gold"
+   ],
+   "value": "金质",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "debriefing",
+    "medals",
+    "congratulations"
+   ],
+   "value": "恭喜！",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "classified"
+   ],
+   "value": "机密",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "totaltitle"
+   ],
+   "value": "文件",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "animations"
+   ],
+   "value": "动画",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "accessing"
+   ],
+   "value": "正在读取...",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "sounds"
+   ],
+   "value": "音效",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "total"
+   ],
+   "value": "{1:d} / {2:d}",
+   "tag": 3
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "classified_hint2"
+   ],
+   "value": "解锁这些文件。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "classified_hint1"
+   ],
+   "value": "获得奖章以",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "acid_gun"
+   ],
+   "value": "布林茨的酸液枪",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "video_games"
+   ],
+   "value": "电子游戏",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "spaceman"
+   ],
+   "value": "太空人戴夫",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "chemfactory"
+   ],
+   "value": "化工厂",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "rubberduck"
+   ],
+   "value": "尖嗓鸭亚当",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "petunia"
+   ],
+   "value": "哮喘羊戈登",
+   "tag": 3
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "toychest"
+   ],
+   "value": "寡言瓢虫拉克伦",
+   "tag": 4
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "frisbee"
+   ],
+   "value": "飞天笑脸",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "fan"
+   ],
+   "value": "死亡旋转风扇",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "flamethrower"
+   ],
+   "value": "无人爱的喷火器",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "cow"
+   ],
+   "value": "不产奶的牛布伦丹",
+   "tag": 4
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "spider"
+   ],
+   "value": "澳洲死亡蜘蛛",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "cereal"
+   ],
+   "value": "丹上尉麦片",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "goldfish"
+   ],
+   "value": "马特·哈丁的“金鱼”",
+   "tag": 4
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "toilet"
+   ],
+   "value": "臭马桶",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "brontosaurus"
+   ],
+   "value": "雷龙",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "concept_art"
+   ],
+   "value": "概念美术",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "triceratops"
+   ],
+   "value": "三角龙",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "butterfly"
+   ],
+   "value": "蝴蝶菲奥娜",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "fly"
+   ],
+   "value": "家蝇",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "alien"
+   ],
+   "value": "赞特罗布洛的史莱姆",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "skateboard"
+   ],
+   "value": "滑板",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "townhall"
+   ],
+   "value": "市政厅",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "soldier_ant"
+   ],
+   "value": "兵蚁",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "tricycle"
+   ],
+   "value": "胖轮车",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "worker_ant"
+   ],
+   "value": "工蚁",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "blintz"
+   ],
+   "value": "布林茨上校",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "pizza"
+   ],
+   "value": "油腻披萨",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "pig"
+   ],
+   "value": "未加工培根",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "grimm"
+   ],
+   "value": "格里姆上校",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "train_engine"
+   ],
+   "value": "阁楼特快",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "captain_dan"
+   ],
+   "value": "丹上尉",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "gnome"
+   ],
+   "value": "古怪侏儒威利",
+   "tag": 3
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "ps2"
+   ],
+   "value": "PlayStation(R) 2",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "queen_ant"
+   ],
+   "value": "蚁后",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "fork"
+   ],
+   "value": "闪亮尖齿金属装置",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "trex"
+   ],
+   "value": "霸王龙麦克勒格",
+   "tag": 4
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "blockoman"
+   ],
+   "value": "疑似阿米什人布莱恩",
+   "tag": 5
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "banana"
+   ],
+   "value": "布拉纳纳",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "castle"
+   ],
+   "value": "凯西的城堡",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "names",
+    "frog"
+   ],
+   "value": "青蛙布拉德福德",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "help"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "help",
+    "rotateleft"
+   ],
+   "value": "向左旋转",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "help",
+    "music"
+   ],
+   "value": "切换音乐",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "help",
+    "title"
+   ],
+   "value": "帮助",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "help",
+    "animations"
+   ],
+   "value": "播放动画",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "help",
+    "L1"
+   ],
+   "value": "L1",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "help",
+    "zoomout"
+   ],
+   "value": "缩小",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "help",
+    "L2"
+   ],
+   "value": "L2",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "help",
+    "zoomin"
+   ],
+   "value": "放大",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "help",
+    "sounds"
+   ],
+   "value": "播放音效",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "help",
+    "R2"
+   ],
+   "value": "R2",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "help",
+    "rotateright"
+   ],
+   "value": "向右旋转",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "intel",
+    "help",
+    "R1"
+   ],
+   "value": "R1",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "options"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "subtitle2"
+   ],
+   "value": "音频设置",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "subtitle1"
+   ],
+   "value": "视频设置",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "gamma"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "gamma",
+    "title"
+   ],
+   "value": "亮度",
+   "tag": 3
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "gamma",
+    "max"
+   ],
+   "value": "更亮",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "gamma",
+    "min"
+   ],
+   "value": "更暗",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "title"
+   ],
+   "value": "设置",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "world"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "world",
+    "low"
+   ],
+   "value": "低",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "world",
+    "title"
+   ],
+   "value": "世界细节",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "world",
+    "high"
+   ],
+   "value": "高",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "world",
+    "medium"
+   ],
+   "value": "中",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "texture"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "texture",
+    "low"
+   ],
+   "value": "低",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "texture",
+    "title"
+   ],
+   "value": "贴图细节",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "texture",
+    "high"
+   ],
+   "value": "高",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "sound"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "sound",
+    "speech"
+   ],
+   "value": "语音音量",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "sound",
+    "music"
+   ],
+   "value": "音乐音量",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "sound",
+    "max"
+   ],
+   "value": "最大",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "sound",
+    "master"
+   ],
+   "value": "主音量",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "sound",
+    "min"
+   ],
+   "value": "最小",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "previews"
+   ],
+   "value": "预览",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "options",
+    "resolution"
+   ],
+   "value": "屏幕分辨率与色彩深度",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "quit"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "quit",
+    "title"
+   ],
+   "value": "退出",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "quit",
+    "ask1"
+   ],
+   "value": "您确定要",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "quit",
+    "ask2"
+   ],
+   "value": "退出游戏吗？",
+   "tag": 3
+  },
+  {
+   "path": [
+    "shell",
+    "greatbattles"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "greatbattles",
+    "hintPS2_2"
+   ],
+   "value": "以解锁这些",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "greatbattles",
+    "hintPS2_3"
+   ],
+   "value": "任务。",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "greatbattles",
+    "classified"
+   ],
+   "value": "机密",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "greatbattles",
+    "hintPS2_1"
+   ],
+   "value": "在战役中获得金牌",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "greatbattles",
+    "title"
+   ],
+   "value": "大战役",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "greatbattles",
+    "vaguehint"
+   ],
+   "value": "获得奖章即可解锁这些任务",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "greatbattles",
+    "rating"
+   ],
+   "value": "任务评分",
+   "tag": 4
+  },
+  {
+   "path": [
+    "shell",
+    "main"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "main",
+    "buttons"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "main",
+    "buttons",
+    "story"
+   ],
+   "value": "战役",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "main",
+    "buttons",
+    "bootcamp"
+   ],
+   "value": "新兵训练",
+   "tag": 3
+  },
+  {
+   "path": [
+    "shell",
+    "main",
+    "buttons",
+    "intelfiles"
+   ],
+   "value": "情报文件",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "main",
+    "buttons",
+    "specialops"
+   ],
+   "value": "特别行动",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "main",
+    "buttons",
+    "back"
+   ],
+   "value": "返回",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "main",
+    "buttons",
+    "select"
+   ],
+   "value": "选择",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "main",
+    "buttons",
+    "options"
+   ],
+   "value": "设置",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "main",
+    "buttons",
+    "quit"
+   ],
+   "value": "退出",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "main",
+    "buttons",
+    "greatbattles"
+   ],
+   "value": "大战役",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "main",
+    "buttons",
+    "load"
+   ],
+   "value": "读取游戏",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "main",
+    "buttons",
+    "multiplayer"
+   ],
+   "value": "多人对战",
+   "tag": 2
+  },
+  {
+   "path": [
+    "shell",
+    "load"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "shell",
+    "load",
+    "empty"
+   ],
+   "value": "- 无存档 -",
+   "tag": 3
+  },
+  {
+   "path": [
+    "shell",
+    "load",
+    "title"
+   ],
+   "value": "读取游戏",
+   "tag": 1
+  },
+  {
+   "path": [
+    "shell",
+    "load",
+    "load"
+   ],
+   "value": "读取",
+   "tag": 2
+  },
+  {
+   "path": [
+    "std"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "std",
+    "buttons"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "std",
+    "buttons",
+    "abort"
+   ],
+   "value": "中止",
+   "tag": 1
+  },
+  {
+   "path": [
+    "std",
+    "buttons",
+    "exit"
+   ],
+   "value": "退出",
+   "tag": 1
+  },
+  {
+   "path": [
+    "std",
+    "buttons",
+    "cancel"
+   ],
+   "value": "取消",
+   "tag": 3
+  },
+  {
+   "path": [
+    "std",
+    "buttons",
+    "back"
+   ],
+   "value": "返回",
+   "tag": 1
+  },
+  {
+   "path": [
+    "std",
+    "buttons",
+    "done"
+   ],
+   "value": "完成",
+   "tag": 3
+  },
+  {
+   "path": [
+    "std",
+    "buttons",
+    "ok"
+   ],
+   "value": "确定",
+   "tag": 2
+  },
+  {
+   "path": [
+    "std",
+    "buttons",
+    "play"
+   ],
+   "value": "开始游戏",
+   "tag": 1
+  },
+  {
+   "path": [
+    "std",
+    "buttons",
+    "continue"
+   ],
+   "value": "继续",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "side"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "side",
+    "army"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "side",
+    "army",
+    "description"
+   ],
+   "value": "军队",
+   "tag": 7
+  },
+  {
+   "path": [
+    "game",
+    "side",
+    "insect"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "side",
+    "insect",
+    "description"
+   ],
+   "value": "虫族",
+   "tag": 6
+  },
+  {
+   "path": [
+    "game",
+    "info"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "info",
+    "oos"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "info",
+    "oos",
+    "playerkick"
+   ],
+   "value": "主机检测到你的游戏已\\r\n与其他玩家不同步。 \\r\n很遗憾，你无法继续\\r\n进行本局游戏。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "info",
+    "oos",
+    "title"
+   ],
+   "value": "不同步",
+   "tag": 5
+  },
+  {
+   "path": [
+    "game",
+    "info",
+    "oos",
+    "playerother"
+   ],
+   "value": "{1:s} 不同步，已被踢出游戏",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "info",
+    "data"
+   ],
+   "value": "检测到 '{1:s}' 的数据不同。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "game",
+    "info",
+    "custommission"
+   ],
+   "value": "自定义任务",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "messages"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "messages",
+    "eliminated_computer"
+   ],
+   "value": "一个敌方电脑对手已被消灭。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "messages",
+    "team_gaveresource"
+   ],
+   "value": "你给了 {1:s} {2:d} {3:s}",
+   "tag": 9
+  },
+  {
+   "path": [
+    "game",
+    "messages",
+    "team_givenresource"
+   ],
+   "value": "{1:s} 刚刚给了你 {2:d} {3:s}",
+   "tag": 8
+  },
+  {
+   "path": [
+    "game",
+    "messages",
+    "team_gaveunits"
+   ],
+   "value": "你给了 {1:s} {2:d} 个单位",
+   "tag": 6
+  },
+  {
+   "path": [
+    "game",
+    "messages",
+    "eliminated_human"
+   ],
+   "value": "{1:s} 已被消灭。",
+   "tag": 8
+  },
+  {
+   "path": [
+    "game",
+    "messages",
+    "team_givenunits"
+   ],
+   "value": "{1:s} 刚刚给了你 {2:d} 个单位",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "resources"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "resources",
+    "electricity"
+   ],
+   "value": "电力",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "resources",
+    "plastic"
+   ],
+   "value": "塑料",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "client"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "prereq"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "prereq",
+    "unavailable"
+   ],
+   "value": "需要 {1:s}",
+   "tag": 9
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "prereq",
+    "available"
+   ],
+   "value": "",
+   "tag": 6
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "events"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "events",
+    "construct"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "events",
+    "construct",
+    "secondary"
+   ],
+   "value": "按 L2 或 R2 键旋转建筑",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "events",
+    "construct",
+    "primary"
+   ],
+   "value": "用 < 和 > 旋转建筑",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "events",
+    "noconstruct"
+   ],
+   "value": "无法在此建造",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "events",
+    "setrally"
+   ],
+   "value": "为该建筑设置集结点",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "events",
+    "walldeactivate"
+   ],
+   "value": "断开铁丝网",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "events",
+    "wallactivate"
+   ],
+   "value": "连接铁丝网",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "events",
+    "wallnoactivate"
+   ],
+   "value": "无法连接这些柱子",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "events",
+    "recycle"
+   ],
+   "value": "熔毁此建筑",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "events",
+    "useoffmap"
+   ],
+   "value": "投放空袭",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "tasks"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "tasks",
+    "construct"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "tasks",
+    "construct",
+    "process"
+   ],
+   "value": "建造中...",
+   "tag": 6
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "tasks",
+    "construct",
+    "paused"
+   ],
+   "value": "已暂停",
+   "tag": 4
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "tasks",
+    "constructor"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "tasks",
+    "constructor",
+    "process"
+   ],
+   "value": "{1:s} {2:.0f}%",
+   "tag": 11
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "tasks",
+    "constructor",
+    "offmap"
+   ],
+   "value": "{1:s} 就绪",
+   "tag": 4
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "tasks",
+    "constructor",
+    "paused"
+   ],
+   "value": "已暂停",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "tasks",
+    "upgrade"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "tasks",
+    "upgrade",
+    "process"
+   ],
+   "value": "正在升级...",
+   "tag": 6
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "tasks",
+    "upgrade",
+    "paused"
+   ],
+   "value": "升级已暂停",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "tasks",
+    "recycle"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "tasks",
+    "recycle",
+    "process"
+   ],
+   "value": "熔毁中...",
+   "tag": 8
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "sourcedepleted"
+   ],
+   "value": "资源枯竭",
+   "tag": 8
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "hud",
+    "upgrade"
+   ],
+   "value": "可升级",
+   "tag": 8
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "queue"
+   ],
+   "value": "队列",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "build"
+   ],
+   "value": "建造",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "selectairstrike"
+   ],
+   "value": "选择要呼叫的空袭。",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "upgraded"
+   ],
+   "value": "该建筑正在升级。",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "bulldozerconstructing"
+   ],
+   "value": "该推土机正在建造建筑。",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "jump"
+   ],
+   "value": "跳转",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "remove"
+   ],
+   "value": "移除",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "select"
+   ],
+   "value": "选择",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "title-multiple"
+   ],
+   "value": "{1:s} ({2:d})",
+   "tag": 9
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "releasetosetrally"
+   ],
+   "value": "松开 R1 设置集结位置。",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "underconstruction"
+   ],
+   "value": "该建筑正在建造中。",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "title-single"
+   ],
+   "value": "{1:s}",
+   "tag": 5
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "upgrade"
+   ],
+   "value": "升级",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "selectunit"
+   ],
+   "value": "选择要建造的单位。",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "setrallypoint"
+   ],
+   "value": "设置集结点",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "releasetoplace"
+   ],
+   "value": "松开 R1 放置此建筑。",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "construction",
+    "selectbuilding"
+   ],
+   "value": "选择要建造的建筑。",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "context"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "client",
+    "context",
+    "recycle"
+   ],
+   "value": "熔毁",
+   "tag": 7
+  },
+  {
+   "path": [
+    "game",
+    "savegame"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "savegame",
+    "description"
+   ],
+   "value": "{1:s} - {2:s} ({3:d}:{4:.2d}:{5:.2d})",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "savegame",
+    "changed"
+   ],
+   "value": "注意！\\r\n记忆卡 (PS2) 可能已被更换。若继续，可能会覆盖另一个 Army Men RTS 存档！",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "types"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "kitchen"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "kitchen",
+    "prop"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "kitchen",
+    "prop",
+    "chemfactory"
+   ],
+   "value": "化学武器工厂",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "kitchen",
+    "prop",
+    "chemfactory_bottle"
+   ],
+   "value": "化学储罐",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "strike"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "strike",
+    "magnifyingglass"
+   ],
+   "value": "放大镜",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "strike",
+    "bombingrun"
+   ],
+   "value": "轰炸",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "strike",
+    "paratroopers"
+   ],
+   "value": "伞兵",
+   "tag": 4
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "guardtower"
+   ],
+   "value": "哨塔",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "crates_group"
+   ],
+   "value": "弹药箱",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "aagun"
+   ],
+   "value": "防空炮",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "pillbox"
+   ],
+   "value": "碉堡",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "drum_group"
+   ],
+   "value": "油桶",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "jerrycans_group"
+   ],
+   "value": "汽油桶",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "bwpost"
+   ],
+   "value": "铁丝网柱",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "hq3"
+   ],
+   "value": "超级总部",
+   "tag": 6
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "hq2"
+   ],
+   "value": "高级总部",
+   "tag": 6
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "hq1"
+   ],
+   "value": "总部",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "resourcedepot"
+   ],
+   "value": "资源库",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "thumbtacks"
+   ],
+   "value": "图钉",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "bwpost-leg"
+   ],
+   "value": "桌腿",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "mine"
+   ],
+   "value": "地雷",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "barracks1"
+   ],
+   "value": "兵营",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "gluebomb"
+   ],
+   "value": "胶水炸弹",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "barracks2"
+   ],
+   "value": "高级兵营",
+   "tag": 4
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "garage1"
+   ],
+   "value": "车库",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "building",
+    "garage2"
+   ],
+   "value": "高级车库",
+   "tag": 4
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "thick"
+   ],
+   "value": "壮汉",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "bullseye"
+   ],
+   "value": "神射手",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "mortar"
+   ],
+   "value": "迫击炮兵",
+   "tag": 10
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "bulldozer"
+   ],
+   "value": "推土机",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "shrap"
+   ],
+   "value": "弹片",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "scorch"
+   ],
+   "value": "焦炭",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "riff"
+   ],
+   "value": "里夫",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "flame"
+   ],
+   "value": "火焰喷射兵",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "sniper"
+   ],
+   "value": "狙击手",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "tank"
+   ],
+   "value": "坦克",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "grenadier"
+   ],
+   "value": "掷弹兵",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "flagcapturer"
+   ],
+   "value": "夺旗兵",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "paratrooper-parachute"
+   ],
+   "value": "伞兵-降落伞",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "machinegunner"
+   ],
+   "value": "机枪手",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "chinook"
+   ],
+   "value": "支奴干直升机",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "minejeep"
+   ],
+   "value": "布雷车",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "flag"
+   ],
+   "value": "旗帜",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "hoover"
+   ],
+   "value": "胡佛",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "grunt"
+   ],
+   "value": "大兵",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "radio"
+   ],
+   "value": "通讯兵",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "truck"
+   ],
+   "value": "运输卡车",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "dumdum"
+   ],
+   "value": "达姆弹",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "chopper"
+   ],
+   "value": "武装直升机",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "medicjeep"
+   ],
+   "value": "医疗兵",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "paratrooper"
+   ],
+   "value": "伞兵",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "sarge"
+   ],
+   "value": "中士",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "vikki"
+   ],
+   "value": "薇琪",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "dumptruck"
+   ],
+   "value": "自卸卡车",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "bazooka"
+   ],
+   "value": "火箭筒兵",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "halftrack"
+   ],
+   "value": "半履带车",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "army",
+    "unit",
+    "minesweeper"
+   ],
+   "value": "扫雷车",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "basement"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "flashlight"
+   ],
+   "value": "手电筒",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "bonetrain"
+   ],
+   "value": "火车残骸",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "cowstand"
+   ],
+   "value": "奶牛",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "9volt-standing"
+   ],
+   "value": "电池",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "vhschef"
+   ],
+   "value": "录像带",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "controlbox"
+   ],
+   "value": "控制箱",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "controller"
+   ],
+   "value": "手柄",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "torch"
+   ],
+   "value": "火炬",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "vhsblintz"
+   ],
+   "value": "录像带",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "watergun"
+   ],
+   "value": "水枪",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "rubberduck"
+   ],
+   "value": "橡皮鸭",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "frisbee"
+   ],
+   "value": "飞盘",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "bikinipeachy"
+   ],
+   "value": "比基尼皮奇",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "cow"
+   ],
+   "value": "奶牛",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "9volt"
+   ],
+   "value": "电池",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "punkpeachy"
+   ],
+   "value": "朋克皮奇",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "measuringcups"
+   ],
+   "value": "量杯",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "dumptruckside"
+   ],
+   "value": "玩具卡车",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "spacealien"
+   ],
+   "value": "外星人",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "battery"
+   ],
+   "value": "电池",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "pigstand"
+   ],
+   "value": "猪",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "powerdrill"
+   ],
+   "value": "电钻",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "lamp"
+   ],
+   "value": "庭院灯",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "peacepeachy"
+   ],
+   "value": "比基尼皮奇",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "dumptruckstand"
+   ],
+   "value": "玩具卡车",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "sandshovelshort"
+   ],
+   "value": "铲子",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "remotecontrol"
+   ],
+   "value": "遥控器",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "chewtoy"
+   ],
+   "value": "咀嚼玩具",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "vhstape"
+   ],
+   "value": "录像带",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "sandbucket_side"
+   ],
+   "value": "桶",
+   "tag": 5
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "megarobo"
+   ],
+   "value": "超级刺客机器人",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "solderingiron"
+   ],
+   "value": "烙铁",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "toaster"
+   ],
+   "value": "烤面包机",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "sheep"
+   ],
+   "value": "绵羊",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "blocko_building_damage"
+   ],
+   "value": "受损建筑",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "blob"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "blob",
+    "infantry1"
+   ],
+   "value": "塑料团",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "blob",
+    "infantry2"
+   ],
+   "value": "塑料团",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "blob",
+    "building1"
+   ],
+   "value": "塑料团",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "blob",
+    "vehicle1"
+   ],
+   "value": "塑料团",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "walkietalkie"
+   ],
+   "value": "对讲机",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "sandshovel"
+   ],
+   "value": "铲子",
+   "tag": 4
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "blocko_building1"
+   ],
+   "value": "建筑",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "watchdigital"
+   ],
+   "value": "手表",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "pig"
+   ],
+   "value": "猪",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "kidomatic"
+   ],
+   "value": "儿童自动机",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "planewreck"
+   ],
+   "value": "飞机残骸",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "zorgsit"
+   ],
+   "value": "切特",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "vhstape_stack"
+   ],
+   "value": "录像带",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "toytruck"
+   ],
+   "value": "玩具卡车",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "sheeplie"
+   ],
+   "value": "绵羊",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "dogbone"
+   ],
+   "value": "狗骨头",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "captdan-lie"
+   ],
+   "value": "丹上尉",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "spatula"
+   ],
+   "value": "锅铲",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "nursepeachy"
+   ],
+   "value": "护士皮奇",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "ball"
+   ],
+   "value": "球",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "ps2"
+   ],
+   "value": "游戏机",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "zorgside"
+   ],
+   "value": "赞特罗布洛",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "toothbrush"
+   ],
+   "value": "牙刷",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "sandbucket_down"
+   ],
+   "value": "桶",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "blocko_towncentre"
+   ],
+   "value": "城镇中心",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "battery_sand"
+   ],
+   "value": "电池",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "dogbowl"
+   ],
+   "value": "狗碗",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "slotcarpaddle"
+   ],
+   "value": "轨道车控制器",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "watch"
+   ],
+   "value": "手表",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "captdan-sit"
+   ],
+   "value": "丹上尉",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "spacepeachy"
+   ],
+   "value": "太空指挥官",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "resource",
+    "zorglie"
+   ],
+   "value": "布拉格",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "insect"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "insect",
+    "building"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "insect",
+    "building",
+    "nursery-dummy"
+   ],
+   "value": "育虫室",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "insect",
+    "building",
+    "nursery"
+   ],
+   "value": "育虫室",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "insect",
+    "building",
+    "fooddeposit"
+   ],
+   "value": "食物储备",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "insect",
+    "unit"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "insect",
+    "unit",
+    "worker"
+   ],
+   "value": "工蚁",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "insect",
+    "unit",
+    "queen"
+   ],
+   "value": "蚁后",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "insect",
+    "unit",
+    "soldier"
+   ],
+   "value": "兵蚁",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "insect",
+    "unit",
+    "cockroach"
+   ],
+   "value": "蟑螂",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "sandbox"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "sandbox",
+    "prop"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "sandbox",
+    "prop",
+    "target"
+   ],
+   "value": "目标",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "koth"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "koth",
+    "army"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "koth",
+    "army",
+    "throne"
+   ],
+   "value": "王座",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "bathroom"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "ctf"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "ctf",
+    "flagcapturer"
+   ],
+   "value": "夺旗兵",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "ctf",
+    "flag"
+   ],
+   "value": "旗帜",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "attic"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "attic",
+    "prop"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "attic",
+    "prop",
+    "bridgemid"
+   ],
+   "value": "铁路桥",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "attic",
+    "prop",
+    "s14jar"
+   ],
+   "value": "昆虫罐",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "attic",
+    "prop",
+    "plurtzheal"
+   ],
+   "value": "治疗者",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "attic",
+    "prop",
+    "plurtzhealw"
+   ],
+   "value": "治疗者",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "attic",
+    "prop",
+    "bioplurtz"
+   ],
+   "value": "布林茨",
+   "tag": 3
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "attic",
+    "prop",
+    "plurtzheale"
+   ],
+   "value": "治疗者",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "attic",
+    "prop",
+    "plurtzhealn"
+   ],
+   "value": "治疗者",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "attic",
+    "prop",
+    "plurtzacid"
+   ],
+   "value": "酸液枪",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "yard"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "yard",
+    "prop"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "yard",
+    "prop",
+    "rocket"
+   ],
+   "value": "模型火箭",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "livingrm"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "livingrm",
+    "prop"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "livingrm",
+    "prop",
+    "blocko_person-fire"
+   ],
+   "value": "村民",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "types",
+    "livingrm",
+    "prop",
+    "blocko_person-1"
+   ],
+   "value": "村民",
+   "tag": 2
+  },
+  {
+   "path": [
+    "game",
+    "load"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "game",
+    "load",
+    "newtoy"
+   ],
+   "value": "新武器可用",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "load",
+    "title"
+   ],
+   "value": "载入中",
+   "tag": 1
+  },
+  {
+   "path": [
+    "game",
+    "load",
+    "newtoys"
+   ],
+   "value": "新武器可用",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "unitdisplay"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "unitdisplay",
+    "prereq"
+   ],
+   "value": "需要建造",
+   "tag": 4
+  },
+  {
+   "path": [
+    "client",
+    "unitdisplay",
+    "unavailable"
+   ],
+   "value": "不可用",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "unitdisplay",
+    "firepower"
+   ],
+   "value": "火力",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "unitdisplay",
+    "infantry"
+   ],
+   "value": "步兵",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "unitdisplay",
+    "air"
+   ],
+   "value": "空军",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "unitdisplay",
+    "cost"
+   ],
+   "value": "费用",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "unitdisplay",
+    "upgrade"
+   ],
+   "value": "升级",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "unitdisplay",
+    "armor"
+   ],
+   "value": "装甲",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "restart"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "restart",
+    "restart"
+   ],
+   "value": "重新开始",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "restart",
+    "text1"
+   ],
+   "value": "确定吗？",
+   "tag": 5
+  },
+  {
+   "path": [
+    "client",
+    "restart",
+    "title"
+   ],
+   "value": "重开任务",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "abort"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "abort",
+    "abort"
+   ],
+   "value": "中止",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "abort",
+    "text1"
+   ],
+   "value": "确定吗？",
+   "tag": 7
+  },
+  {
+   "path": [
+    "client",
+    "abort",
+    "title"
+   ],
+   "value": "中止任务",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "facility"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "facility",
+    "title"
+   ],
+   "value": "建造",
+   "tag": 5
+  },
+  {
+   "path": [
+    "client",
+    "chat"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "chat",
+    "title"
+   ],
+   "value": "聊天",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "comms"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "comms",
+    "title"
+   ],
+   "value": "给予物品",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "comms",
+    "selectedoff"
+   ],
+   "value": "选择玩家",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "comms",
+    "selectedon"
+   ],
+   "value": "点击要给予的物品",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "comms",
+    "units"
+   ],
+   "value": "已选单位",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "objectives"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "objectives",
+    "title"
+   ],
+   "value": "目标",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "objectives",
+    "ps2_2"
+   ],
+   "value": "查看你的目标",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "objectives",
+    "ps2_1"
+   ],
+   "value": "按 Start 键",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "objectives",
+    "pc2"
+   ],
+   "value": "查看你的目标",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "objectives",
+    "pc1"
+   ],
+   "value": "按 Escape 键",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "minimap"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "minimap",
+    "title"
+   ],
+   "value": "地图",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "options"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "difficulty"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "difficulty",
+    "easy"
+   ],
+   "value": "简单",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "difficulty",
+    "title"
+   ],
+   "value": "难度",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "difficulty",
+    "normal"
+   ],
+   "value": "普通",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "difficulty",
+    "hard"
+   ],
+   "value": "困难",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "low"
+   ],
+   "value": "低",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "title"
+   ],
+   "value": "设置",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "gameplay"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "gameplay",
+    "keyscroll"
+   ],
+   "value": "键盘滚动速度",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "gameplay",
+    "rightscroll"
+   ],
+   "value": "右键滚动速度",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "gameplay",
+    "edgescroll"
+   ],
+   "value": "边缘滚动速度",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "gameplay",
+    "title"
+   ],
+   "value": "游戏设置",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "gameplay",
+    "reset"
+   ],
+   "value": "恢复默认",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "gameplay",
+    "zoomspeed"
+   ],
+   "value": "缩放速度",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "gameplay",
+    "cameraspeed"
+   ],
+   "value": "镜头速度",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "gameplay",
+    "titleps2"
+   ],
+   "value": "镜头设置",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "high"
+   ],
+   "value": "高",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "audio"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "audio",
+    "music"
+   ],
+   "value": "音乐音量",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "audio",
+    "title"
+   ],
+   "value": "音频设置",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "audio",
+    "master"
+   ],
+   "value": "主音量",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "vibration"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "vibration",
+    "off"
+   ],
+   "value": "关",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "vibration",
+    "title"
+   ],
+   "value": "震动",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "vibration",
+    "on"
+   ],
+   "value": "开",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "video"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "video",
+    "gamma"
+   ],
+   "value": "亮度",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "video",
+    "title"
+   ],
+   "value": "画面设置",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "video",
+    "world"
+   ],
+   "value": "世界细节",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "video",
+    "texture"
+   ],
+   "value": "纹理细节",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "video",
+    "resolution"
+   ],
+   "value": "分辨率与色深",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "options",
+    "medium"
+   ],
+   "value": "中",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "squad"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "squad",
+    "title"
+   ],
+   "value": "小队",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "squad",
+    "1"
+   ],
+   "value": "1",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "squad",
+    "3"
+   ],
+   "value": "3",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "squad",
+    "2"
+   ],
+   "value": "2",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "squad",
+    "4"
+   ],
+   "value": "4",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "quit"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "quit",
+    "text2"
+   ],
+   "value": "退出吗？",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "quit",
+    "text1"
+   ],
+   "value": "你确定要",
+   "tag": 4
+  },
+  {
+   "path": [
+    "client",
+    "quit",
+    "title"
+   ],
+   "value": "退出",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "zoom"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "zoom",
+    "zoom"
+   ],
+   "value": "视角",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "code"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "code",
+    "title"
+   ],
+   "value": "输入密码",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "medalgoals"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "medalgoals",
+    "GoalNum1"
+   ],
+   "value": "2.",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "medalgoals",
+    "GoalNum0"
+   ],
+   "value": "1.",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "medalgoals",
+    "title"
+   ],
+   "value": "勋章目标",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "medalgoals",
+    "hidden"
+   ],
+   "value": "机密",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "menu"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "menu",
+    "restart"
+   ],
+   "value": "重开任务",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "menu",
+    "abort"
+   ],
+   "value": "中止任务",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "menu",
+    "resumePS2"
+   ],
+   "value": "继续",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "menu",
+    "back"
+   ],
+   "value": "返回",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "menu",
+    "objectives"
+   ],
+   "value": "任务目标",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "menu",
+    "select"
+   ],
+   "value": "选择",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "menu",
+    "options"
+   ],
+   "value": "设置",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "menu",
+    "objectivesPS2"
+   ],
+   "value": "目标",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "menu",
+    "resume"
+   ],
+   "value": "继续游戏",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "menu",
+    "quit"
+   ],
+   "value": "退出",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "menu",
+    "medalgoals"
+   ],
+   "value": "勋章目标",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "menu",
+    "saveload"
+   ],
+   "value": "存档与读档",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "menu",
+    "paused"
+   ],
+   "value": "已暂停",
+   "tag": 1
+  },
+  {
+   "path": [
+    "client",
+    "saveload"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "saveload",
+    "empty"
+   ],
+   "value": "- 无存档 -",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "saveload",
+    "title"
+   ],
+   "value": "存档与读档",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "saveload",
+    "saving"
+   ],
+   "value": "正在保存，请稍候...",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "saveload",
+    "confirmload"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "saveload",
+    "confirmload",
+    "title"
+   ],
+   "value": "确认读档",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "saveload",
+    "confirmload",
+    "message"
+   ],
+   "value": "确定要载入此存档吗？",
+   "tag": 3
+  },
+  {
+   "path": [
+    "client",
+    "saveload",
+    "load"
+   ],
+   "value": "载入",
+   "tag": 5
+  },
+  {
+   "path": [
+    "client",
+    "saveload",
+    "save"
+   ],
+   "value": "保存",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "saveload",
+    "confirmsave"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "client",
+    "saveload",
+    "confirmsave",
+    "title"
+   ],
+   "value": "确认保存",
+   "tag": 2
+  },
+  {
+   "path": [
+    "client",
+    "saveload",
+    "confirmsave",
+    "message"
+   ],
+   "value": "确定要覆盖之前的存档吗？",
+   "tag": 2
+  },
+  {
+   "path": [
+    "mods"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "protecthq"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "protecthq",
+    "title"
+   ],
+   "value": "保卫总部",
+   "tag": 3
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "protecthq",
+    "objective"
+   ],
+   "value": "你必须在计时结束前建造一座总部",
+   "tag": 6
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "protecthq",
+    "objective2"
+   ],
+   "value": "消灭所有敌方玩家",
+   "tag": 2
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "protecthq",
+    "3minally"
+   ],
+   "value": "你的盟友 {1:s} 有 3 分钟建造总部",
+   "tag": 1
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "protecthq",
+    "3minself"
+   ],
+   "value": "你有 3 分钟建造总部",
+   "tag": 1
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "koth"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "koth",
+    "s_built"
+   ],
+   "value": "你已占领高地！",
+   "tag": 6
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "koth",
+    "a_holding"
+   ],
+   "value": "{1:s} 还需防守高地 {2:s} 分钟",
+   "tag": 6
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "koth",
+    "e_built"
+   ],
+   "value": "你的敌人 {1:s} 已在高地上建造！",
+   "tag": 7
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "koth",
+    "objective"
+   ],
+   "value": "在高地上建造总部并坚守 5 分钟",
+   "tag": 1
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "koth",
+    "pre_5min"
+   ],
+   "value": "高地将在 5 分钟后开放",
+   "tag": 1
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "koth",
+    "a_built"
+   ],
+   "value": "你的盟友 {1:s} 已在高地上建造！",
+   "tag": 6
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "koth",
+    "e_holding"
+   ],
+   "value": "{1:s} 仍占据高地。你还有 {2:s} 分钟",
+   "tag": 8
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "koth",
+    "s_holding"
+   ],
+   "value": "你还需防守高地 {1:s} 分钟",
+   "tag": 3
+  },
+  {
+   "path": [
+    "mods",
+    "ruleset",
+    "koth",
+    "pre_open"
+   ],
+   "value": "高地已开放！",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "baduser"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "baduser",
+    "title"
+   ],
+   "value": "名称已被占用",
+   "tag": 7
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "baduser",
+    "message"
+   ],
+   "value": "已有玩家使用该名称",
+   "tag": 5
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "create"
+   ],
+   "value": "创建游戏",
+   "tag": 7
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "joined"
+   ],
+   "value": "已加入房间",
+   "tag": 6
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "title"
+   ],
+   "value": "多人游戏",
+   "tag": 7
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "addressbook"
+   ],
+   "value": "地址簿",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "created"
+   ],
+   "value": "房间已创建",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "local"
+   ],
+   "value": "本地",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "messages"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "messages",
+    "joinfail"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "messages",
+    "joinfail",
+    "title"
+   ],
+   "value": "加入失败",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "messages",
+    "joinfail",
+    "message"
+   ],
+   "value": "无法加入该房间",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "messages",
+    "nosession"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "messages",
+    "nosession",
+    "title"
+   ],
+   "value": "未选房间",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "messages",
+    "nosession",
+    "message"
+   ],
+   "value": "未选择房间，请先选择一个房间再加入。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "messages",
+    "createfail"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "messages",
+    "createfail",
+    "title"
+   ],
+   "value": "创建失败",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "messages",
+    "createfail",
+    "message"
+   ],
+   "value": "无法创建新房间",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "createwindow"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "createwindow",
+    "title"
+   ],
+   "value": "创建游戏",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "createwindow",
+    "subtitle"
+   ],
+   "value": "请输入游戏名称。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "badsessionname"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "badsessionname",
+    "title"
+   ],
+   "value": "游戏名称无效",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "badsessionname",
+    "message"
+   ],
+   "value": "游戏名称至少需要 3 个字符",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "join"
+   ],
+   "value": "加入",
+   "tag": 5
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "sessionlocked"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "sessionlocked",
+    "title"
+   ],
+   "value": "游戏已锁定",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "sessionlocked",
+    "message"
+   ],
+   "value": "该房间已锁定，无法进入",
+   "tag": 4
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "sessionexists"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "sessionexists",
+    "title"
+   ],
+   "value": "房间已存在",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "sessionexists",
+    "message"
+   ],
+   "value": "服务器上已存在同名房间",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "sessionmigratefailed"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "sessionmigratefailed",
+    "title"
+   ],
+   "value": "迁移失败",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "sessionmigratefailed",
+    "message"
+   ],
+   "value": "无法迁移到新的主机",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "servermigratefailed"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "servermigratefailed",
+    "abort"
+   ],
+   "value": "中止",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "servermigratefailed",
+    "title"
+   ],
+   "value": "迁移失败",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "servermigratefailed",
+    "message"
+   ],
+   "value": "游戏中的其他玩家均无法成为主机",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "servermigratefailed",
+    "continue"
+   ],
+   "value": "继续",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "sessionfull"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "sessionfull",
+    "title"
+   ],
+   "value": "房间已满",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "sessionfull",
+    "message"
+   ],
+   "value": "该房间玩家人数已达上限",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "session",
+    "changename"
+   ],
+   "value": "修改名称",
+   "tag": 4
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "locked"
+   ],
+   "value": "游戏现已锁定",
+   "tag": 4
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "selectmission"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "selectmission",
+    "players"
+   ],
+   "value": "最多 {1:d} 名玩家",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "selectmission",
+    "title"
+   ],
+   "value": "选择任务",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "selectmission",
+    "map"
+   ],
+   "value": "地图",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "host"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "host",
+    "lock"
+   ],
+   "value": "锁定游戏",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "host",
+    "mission"
+   ],
+   "value": "选择任务",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "host",
+    "addai"
+   ],
+   "value": "添加电脑玩家",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "teams"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "teams",
+    "1"
+   ],
+   "value": "Bravo",
+   "tag": 5
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "teams",
+    "0"
+   ],
+   "value": "Alpha",
+   "tag": 6
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "teams",
+    "3"
+   ],
+   "value": "Delta",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "teams",
+    "2"
+   ],
+   "value": "Charlie",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "teams",
+    "5"
+   ],
+   "value": "Foxtrot",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "teams",
+    "4"
+   ],
+   "value": "Echo",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "teams",
+    "7"
+   ],
+   "value": "Hotel",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "teams",
+    "6"
+   ],
+   "value": "Golf",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "titlebar"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "titlebar",
+    "players"
+   ],
+   "value": "玩家",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "titlebar",
+    "chat"
+   ],
+   "value": "聊天",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "choosecolor"
+   ],
+   "value": "选择颜色",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "missionname"
+   ],
+   "value": "任务名称",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "error"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "error",
+    "havemission"
+   ],
+   "value": "{1:s} 没有当前任务，或其任务版本与你的不同。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "error",
+    "launch"
+   ],
+   "value": "想要开始游戏",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "error",
+    "moreplayers"
+   ],
+   "value": "至少需要两名玩家。",
+   "tag": 4
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "error",
+    "wrongversion"
+   ],
+   "value": "{1:s} 的游戏版本不同。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "error",
+    "needgroups"
+   ],
+   "value": "你需要把玩家分配到至少两支不同的队伍。",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "error",
+    "nomission"
+   ],
+   "value": "未选择任务。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "error",
+    "toomanyteams"
+   ],
+   "value": "当前任务玩家过多。请选择其他任务或踢出部分玩家。",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "error",
+    "notready"
+   ],
+   "value": "{1:s} 尚未准备就绪。",
+   "tag": 4
+  },
+  {
+   "path": [
+    "multiplayer",
+    "setup",
+    "ainame"
+   ],
+   "value": "电脑玩家",
+   "tag": 6
+  },
+  {
+   "path": [
+    "multiplayer",
+    "addressbook"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "addressbook",
+    "edit"
+   ],
+   "value": "编辑",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "addressbook",
+    "title"
+   ],
+   "value": "地址簿",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "addressbook",
+    "remove"
+   ],
+   "value": "删除",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "addressbook",
+    "add"
+   ],
+   "value": "添加",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "addressbook",
+    "data"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "addressbook",
+    "data",
+    "title"
+   ],
+   "value": "编辑条目",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "addressbook",
+    "data",
+    "address"
+   ],
+   "value": "地址",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "addressbook",
+    "data",
+    "name"
+   ],
+   "value": "名称",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "eliminated"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "eliminated",
+    "title"
+   ],
+   "value": "你已被淘汰！",
+   "tag": 6
+  },
+  {
+   "path": [
+    "multiplayer",
+    "eliminated",
+    "message"
+   ],
+   "value": "你可以继续作为主机，或\\r\n中止并让其他玩家担任主机。",
+   "tag": 10
+  },
+  {
+   "path": [
+    "multiplayer",
+    "chat"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "chat",
+    "privmsg"
+   ],
+   "value": "私聊[{1:s}] {2:s}",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "chat",
+    "allymsg"
+   ],
+   "value": "[盟友] {1:s}",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "chat",
+    "type"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "chat",
+    "type",
+    "all"
+   ],
+   "value": "全体",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "chat",
+    "type",
+    "ally"
+   ],
+   "value": "盟友",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "chat",
+    "enemymsg"
+   ],
+   "value": "[敌人] {1:s}",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "chat",
+    "playerexit"
+   ],
+   "value": "{1:s} 已离开游戏。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "chat",
+    "playerdisconnected"
+   ],
+   "value": "{1:s} 已断开连接。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "multiplayer",
+    "chat",
+    "error"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "chat",
+    "error",
+    "noplayer"
+   ],
+   "value": "找不到玩家 {1:s}。",
+   "tag": 5
+  },
+  {
+   "path": [
+    "multiplayer",
+    "chat",
+    "teammsg"
+   ],
+   "value": "[队伍] {1:s}",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "chat",
+    "playerenter"
+   ],
+   "value": "{1:s} 已进入游戏。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "connect"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "connect",
+    "playersync"
+   ],
+   "value": "正在等待玩家",
+   "tag": 4
+  },
+  {
+   "path": [
+    "multiplayer",
+    "connect",
+    "migrate"
+   ],
+   "value": "正在迁移到新主机",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "connect",
+    "title"
+   ],
+   "value": "正在连接...",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "connect",
+    "communicating"
+   ],
+   "value": "正在与网络通信",
+   "tag": 11
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "disconnected"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "disconnected",
+    "title"
+   ],
+   "value": "已断开连接",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "disconnected",
+    "message"
+   ],
+   "value": "你已与服务器断开连接",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "connectfailed"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "connectfailed",
+    "title"
+   ],
+   "value": "连接失败",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "connectfailed",
+    "message"
+   ],
+   "value": "无法与服务器建立连接",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "serverconnect"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "serverconnect",
+    "entering"
+   ],
+   "value": "正在进入房间",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "serverconnect",
+    "connect"
+   ],
+   "value": "已连接到服务器",
+   "tag": 4
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "serverstart"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "serverstart",
+    "connecting"
+   ],
+   "value": "正在连接服务器",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "serverstart",
+    "started"
+   ],
+   "value": "服务器已启动",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "kicked"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "kicked",
+    "title"
+   ],
+   "value": "已被踢出",
+   "tag": 3
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "kicked",
+    "message"
+   ],
+   "value": "你已被踢出游戏",
+   "tag": 4
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "migrated"
+   ],
+   "value": "房间正在迁移给你。你现在是主机。",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "sessionfull"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "sessionfull",
+    "title"
+   ],
+   "value": "房间已满",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "server",
+    "sessionfull",
+    "message"
+   ],
+   "value": "该房间玩家人数已达上限。",
+   "tag": 2
+  },
+  {
+   "path": [
+    "multiplayer",
+    "changename"
+   ],
+   "value": null,
+   "tag": null
+  },
+  {
+   "path": [
+    "multiplayer",
+    "changename",
+    "title"
+   ],
+   "value": "修改你的名称",
+   "tag": 1
+  },
+  {
+   "path": [
+    "multiplayer",
+    "changename",
+    "subtitle"
+   ],
+   "value": "请输入你的新名称",
+   "tag": 1
+  }
+ ]
+}

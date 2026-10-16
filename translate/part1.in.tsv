@@ -1,0 +1,247 @@
+missions.story.s13.title	Mission 13
+missions.story.s13.description	Village of the Tanned
+missions.story.s13.objective1	Get to the train station and crush the tan defending it.
+missions.story.s13.goal-0	Destroy all containers
+missions.story.s13.goal-1	Finish in under 50 minutes
+missions.story.s12.title	Mission 12
+missions.story.s12.description	Derailment
+missions.story.s12.objective	Destroy the rail bridge
+missions.story.s12.goal-0	Destroy all Ants
+missions.story.s12.goal-1	Destroy all Tan Buildings
+missions.story.s11.title	Mission 11
+missions.story.s11.description	One Man Army
+missions.story.s11.objective1	Rescue Sarge from the end of the bed
+missions.story.s11.objective2	Destroy the Tan base in front of the door.
+missions.story.s11.goal-0	Destroy all Ants
+missions.story.s11.goal-1	Spend less than 10,000 Plastic
+missions.story.s10.title	Mission 10
+missions.story.s10.description	Baths of Glory
+missions.story.s10.objective1	Get to the door at the end of the counter.
+missions.story.s10.goal-0	Finish in under 8 minutes
+missions.story.s10.goal-1	Destroy all Guard Towers
+missions.story.s15.title	Mission 15
+missions.story.s15.description	Heart of Plastic
+missions.story.s15.objective	Hunt down and terminate Blintz
+missions.story.s15.theend	The End
+missions.story.s15.goal-0	Finish in under 90 minutes
+missions.story.s15.goal-1	Finish on Hard difficulty
+missions.story.s14.title	Mission 14
+missions.story.s14.description	Scorched Turf
+missions.story.s14.objective1	Find a way into Blintz's compound.
+missions.story.s14.goal-0	Finish in under 50 minutes
+missions.story.s14.goal-1	Free the Ant Queen
+missions.story.description	Story Campaign
+missions.story.s08.title	Mission 8
+missions.story.s08.description	From Here to the Sofa
+missions.story.s08.objective1	Eliminate the Tan to Capture the PlayStation®2 computer entertainment system.
+missions.story.s08.objective2	Protect the PlayStation®2 computer entertainment system.
+missions.story.s08.goal-0	Drop a Paratrooper Air Strike
+missions.story.s08.goal-1	Destroy all Ants
+missions.story.s09.title	Mission 9
+missions.story.s09.description	Fistful of Plastic
+missions.story.s09.objective1	Protect the villagers as they make their escape.
+missions.story.s09.villagers	{1:d} Villagers Remaining
+missions.story.s09.goal-0	Save all Villagers
+missions.story.s09.goal-1	Spend less than 10,000 Plastic
+missions.story.s07.title	Mission 7
+missions.story.s07.description	Dishes of Valor
+missions.story.s07.objective1	Destroy the Chemical Weapon factory
+missions.story.s07.goal-0	Destroy all Containers
+missions.story.s07.goal-1	Finish in under 35 minutes
+missions.story.s06.title	Mission 6
+missions.story.s06.description	Courage Under Groceries
+missions.story.s06.objective1	Find and Reinforce the Green Kitchen Base
+missions.story.s06.objective2	Secure Green Base
+missions.story.s06.1aa	Remove the last remaining AA Turret
+missions.story.s06.2aa	Remove the 2 remaining AA Turrets
+missions.story.s06.3aa	Remove the 3 remaining AA Turrets
+missions.story.s06.sargeobj	Move Sarge back to base
+missions.story.s06.goal-0	Destroy all Cockroaches
+missions.story.s06.goal-1	Finish in under 35 minutes
+missions.story.s05.title	Mission 5
+missions.story.s05.description	It Came from the Basement
+missions.story.s05.objective1	Escape the basement via the stairs
+missions.story.s05.objective2	Escape the basement before the bombing raid occurs
+missions.story.s05.description1	It Came From
+missions.story.s05.description2	The Basement
+missions.story.s05.goal-0	No Heroes lost
+missions.story.s05.goal-1	Pick up all Bonuses
+missions.story.s04.title	Mission 4
+missions.story.s04.description	Full Plastic Jacket
+missions.story.s04.objective1	Find a way into the house
+missions.story.s04.goal-0	Pick up all Bonuses
+missions.story.s04.goal-1	Finish in under 30 minutes
+missions.story.s03.title	Mission 3
+missions.story.s03.description	A Few Green Men
+missions.story.s03.objective1	Locate the power source
+missions.story.s03.objective2	Get to the baseball
+missions.story.s03.goal-0	Locate Reinforcements
+missions.story.s03.goal-1	Finish in under 8 minutes
+missions.story.s02.title	Mission 2
+missions.story.s02.description	Behind the Tan Curtain
+missions.story.s02.goal-0	Destroy all mines
+missions.story.s02.goal-1	Spend less than 4000 Plastic
+missions.story.s02.obj_win	Destroy the Tan base in Central Yard
+missions.story.s01.title	Mission 1
+missions.story.s01.description	The Thin Green Line
+missions.story.s01.objective1	Push through the Tan defense perimeter
+missions.story.s01.goal-0	Finish in under 7 minutes
+missions.story.s01.goal-1	Eliminate all Tan
+missions.gb.waterway.description	Waterway War
+missions.gb.waterway.objective	Obliterate the central enemy base.
+missions.gb.waterway.goal-0	Finish in under 30 minutes
+missions.gb.waterway.goal-1	Pick up all Bonuses
+missions.gb.garden.description	Garden Siege
+missions.gb.garden.objective	Destroy all Tan buildings
+missions.gb.garden.goal-0	Destroy all Containers
+missions.gb.garden.goal-1	Finish in under 30 minutes
+missions.gb.description	Great Battles
+missions.gb.basement.description	Basement Baloney
+missions.gb.basement.objective	Destroy central HQ, located under the table
+missions.gb.basement.goal-0	Finish on Hard difficulty
+missions.gb.basement.goal-1	Spend less than 2000 Electricity
+missions.gb.sandbox.description	Sandbox Shenanigans
+missions.gb.sandbox.objective	Destroy all Tan buildings
+missions.gb.sandbox.goal-0	Pick up all Bonuses
+missions.gb.sandbox.goal-1	Finish in under 40 minutes
+missions.gb.bathroom.description	Bathroom Blitz
+missions.gb.bathroom.objective	Eliminate the Tan from the bathroom counter
+missions.gb.bathroom.goal-0	Pick up all Bonuses
+missions.gb.bathroom.goal-1	Spend less than 5000 Plastic
+missions.gb.tricycle.description	Tricycle Treachery
+missions.gb.tricycle.objective	Destroy all Tan buildings
+missions.gb.tricycle.goal-0	Finish in under 30 minutes
+missions.gb.tricycle.goal-1	Finish on Hard difficulty
+missions.gb.attic.description	Blind Pass
+missions.gb.attic.objective	Demolish the Tan forces at the Attic Pass
+missions.gb.attic.goal-0	Finish in under 30 minutes
+missions.gb.attic.goal-1	Spend less than 12,000 plastic
+missions.gb.flooded.description	Flooded Follies
+missions.gb.flooded.objective	Claim the kitchen counter before it is flooded
+missions.gb.flooded.goal-0	Finish in under 40 minutes
+missions.gb.flooded.goal-1	Spend less than 12000 plastic
+missions.shells.description	Shell Missions
+missions.mp.2eight.description	Figure Eight
+missions.mp.4crazed.description	Ramp Romp
+missions.mp.4sandbox.description	Sandbox
+missions.mp.4hose.description	A Hose Too Far
+missions.mp.4koth.description	King of the Hill
+missions.mp.description	Multiplayer Missions
+missions.mp.2dumdums.description	Dumdum Frenzy!
+missions.mp.8ally.description	Doubles
+missions.mp.6sixway.description	Cheeseburger Hill
+missions.mp.8train.description	Take the 8-Train
+missions.mp.2bench.description	That sinkin' feeling
+missions.so.night.description	Midnight Snack
+missions.so.night.goal-0	Finish in under 15 minutes
+missions.so.night.goal-1	All Heroes Rescued
+missions.so.night.obj_win	Destroy the Tan Base
+missions.so.antparty.description	Lord of the Ants
+missions.so.antparty.objective	Reclaim the food.
+missions.so.antparty.goal-0	Finish in under 30 minutes
+missions.so.antparty.goal-1	No Nurseries lost
+missions.so.rescue.description	Hostage Situation
+missions.so.rescue.objective1	Get Sarge to the hostages at the Tan Base.
+missions.so.rescue.objective2	Use Sarge to lead the hostages to the extraction point.
+missions.so.rescue.goal-0	Finish in under 30 minutes
+missions.so.rescue.goal-1	Eliminate all Tan
+missions.so.description	Special Operations
+missions.so.rocket.description	Blastoff!
+missions.so.rocket.objective	Protect the Rocket until it launches.
+missions.so.rocket.goal-0	Full Health on Rocket
+missions.so.rocket.goal-1	Destroy all Tan
+missions.so.beach.description	Sandy Breach
+missions.so.beach.objective1	Knock out the turrets defending the shoreline to allow reinforcements.
+missions.so.beach.objective2	Destroy the Tan HQ
+missions.so.beach.goal-0	Pick up all Bonuses
+missions.so.beach.goal-1	No Heroes lost
+missions.so.uberbase.description	This Old Fortress
+missions.so.uberbase.objective	Destroy the HQ Compound
+missions.so.uberbase.goal-0	Finish on Hard difficulty
+missions.so.uberbase.goal-1	No Paratroopers Used
+missions.so.convoy.description	Road Block
+missions.so.convoy.objective1	Stop all Tan convoy trucks from getting through.
+missions.so.convoy.goal-0	Locate all Bonuses
+missions.so.convoy.goal-1	No Heroes lost
+missions.so.convoy.trucks	{1:d} Trucks Remaining
+missions.so.battle.description	Tan Some Hide
+missions.so.battle.objective	Leave no Tan standing.
+missions.so.battle.goal-0	Finish in under 15 minutes
+missions.so.battle.goal-1	No Heroes lost
+missions.bc_s.description	PS2 Training Missions
+missions.bc_s.t02.objective5	Order a Resource Depot, and place it near the two resources.
+missions.bc_s.t02.objective16	Practice for as long as you want, then move Sarge to the extraction point to complete your training.
+missions.bc_s.t02.objective4	Scroll around to move the HQ to your desired location, then press the X button to place it.
+missions.bc_s.t02.objective17	Build a unit from the Barracks.
+missions.bc_s.t02.description	Building a Base
+missions.bc_s.t02.objective7	With the Dump Truck highlighted, press the X button once to order.
+missions.bc_s.t02.objective14	Use the Bulldozer to place Barbed-Wire Fences on each of the markings.
+missions.bc_s.t02.objective6	To build a Dump Truck, hold the R1 button down and move the left analog stick up or down, or press the up or down directional buttons, to get the HQ's build menu.
+missions.bc_s.t02.objective15	Melt any building or fence by pressing the L2 button, moving the camera over it, then pressing the X button.
+missions.bc_s.t02.objective12	Highlight the upgrade button on the Barracks' Build Menu and press the X button to upgrade.
+missions.bc_s.t02.objective1	Select your Bulldozer and hold the R1 button down to call up your Build Menu.
+missions.bc_s.t02.objective13	Use the Bulldozer to construct a Guard Tower.
+missions.bc_s.t02.objective10	Highlight the Upgrade button on the HQ's Build Menu and press the X button to Upgrade.
+missions.bc_s.t02.objective11	Go to the Bulldozer's Build Menu and construct a Garage.
+missions.bc_s.t02.objective2	With the R1 button held, highlight the HQ on the menu, then press the X button to select it.
+missions.bc_s.t02.objective9	Select the Bulldozer and build a Barracks.
+missions.bc_s.t03.objective5	Destroy all the targets.
+missions.bc_s.t03.objective4	Select all your units and move them into the first combat area to begin.
+missions.bc_s.t03.description	Combat
+missions.bc_s.t03.objective7	When you're ready, select all your units and move them into the next combat area.
+missions.bc_s.t03.objective6	Select all your units and move them into the next combat area.
+missions.bc_s.t03.objective3	Move the right analog stick to jump to the targets, then press the X button to fire.
+missions.bc_s.t03.objective8	You can head to the extraction point now, or continue on and practice combat in the challenge course.
+missions.bc_s.t03.objective9	Move Sarge to the extraction point.
+missions.bc_s.t01.objective5	Press the X button to give the commando units a move order.
+missions.bc_s.t01.objective4	Select all three commando units at once by tapping the Circle button three times.
+missions.bc_s.t01.description	Camera and Movement
+missions.bc_s.t01.objective7	Press the L1 button to jump to the enemy units.
+missions.bc_s.t01.objective14	Do not press the Select button.
+missions.bc_s.t01.objective6	Select all seven units on the map at once by moving over each one and pressing the Square button.
+missions.bc_s.t01.objective12	Scroll over to Sarge and press the Triangle button.
+missions.bc_s.t01.objective1	Use the left analog stick to move to the extraction point to the north.
+missions.bc_s.t01.objective13	Scroll back to your other three units and press the Triangle button to re-select them.
+missions.bc_s.t01.objective10	Press the L3 button while scrolling to get an added speed boost.
+missions.bc_s.t01.objective3	Scroll anywhere on the map and press the X button to give Sarge a move order.
+missions.bc_s.t01.objective11	When you've had enough, move Sarge to the extraction point to complete your training.
+missions.bc_s.t01.objective2	Move the camera so that the target is on top of Sarge, then press the Circle button to select him.
+missions.bc_s.t01.objective8	Hold down the R2 button on the top of the controller and move the left analog stick up or down.
+missions.bc_s.t01.objective9	To return to the default camera height, press and release the R2 button without moving the left analog stick.
+missions.bc_p.description	PC Training Missions
+missions.bc_p.t02.objective5	Order a Resource Depot and place it near the two resources.
+missions.bc_p.t02.objective16	Keep practicing for as long as you want, then move Sarge to the extraction point to complete your training.
+missions.bc_p.t02.objective4	Move the HQ to your desired location, then press the left mouse button to place it.
+missions.bc_p.t02.objective17	Build a unit from the Barracks.
+missions.bc_p.t02.description	Building a Base
+missions.bc_p.t02.objective14	Use the Bulldozer to place Barbed-Wire Fences on each of the markings.
+missions.bc_p.t02.objective6	Select the HQ and click on the Dump Truck in its Build Menu.
+missions.bc_p.t02.objective15	Melt any building or fence by selecting it, then clicking on the Melt button above the Map on the right side of the screen.
+missions.bc_p.t02.objective12	Select your Barracks and click on the Upgrade button at the bottom of the Build Menu.
+missions.bc_p.t02.objective1	Select your Bulldozer to pull up its Build Menu.
+missions.bc_p.t02.objective13	Use the Bulldozer to construct a Guard Tower.
+missions.bc_p.t02.objective10	Select your HQ and click on the Upgrade button at the bottom of the Build Menu.
+missions.bc_p.t02.objective11	When the HQ has finished upgrading, go to the Bulldozer's Build Menu and construct a Garage.
+missions.bc_p.t02.objective2	Move your cursor over the HQ on the Build Menu and press the left mouse button to select it.
+missions.bc_p.t02.objective9	Select the Bulldozer and build a Barracks.
+missions.bc_p.t03.objective5	Destroy all the targets.
+missions.bc_p.t03.objective4	Select all your units and move them into the first combat area to begin.
+missions.bc_p.t03.description	Squads and Combat
+missions.bc_p.t03.objective7	When you're ready, select all your units and move them into the next combat area.
+missions.bc_p.t03.objective6	Select all your units and move them into the next combat area.
+missions.bc_p.t03.objective1	Select all your units, hold down the Control key on the keyboard, then press the 1 key to put them in a Squad.
+missions.bc_p.t03.objective3	Select the Squad with Sarge, Riff, and Scorch in it.
+missions.bc_p.t03.objective2	Select your new units and place them in a Squad.
+missions.bc_p.t03.objective8	You can head to the extraction point now, or continue on and practice combat in the challenge course.
+missions.bc_p.t03.objective9	Move Sarge to the extraction point.
+missions.bc_p.t01.objective5	Press the left mouse button to give the commando units a move order.
+missions.bc_p.t01.objective4	Select all three commando units at once by pressing and holding the left mouse button, then dragging the cursor over them.
+missions.bc_p.t01.description	Camera and Movement
+missions.bc_p.t01.objective7	Press the space bar to jump to the enemy units.
+missions.bc_p.t01.objective6	Select all seven units on the map at once by holding down shift while selecting them.
+missions.bc_p.t01.objective1	Hold the right mouse button down and scroll forward to center the camera on the extraction point to the north.
+missions.bc_p.t01.objective3	With Sarge selected, position your cursor anywhere on the map and press the left mouse button to give Sarge a move order.
+missions.bc_p.t01.objective11	When you've had enough, move Sarge to the extraction point to complete your training.
+missions.bc_p.t01.objective2	Scroll over to Sarge and position your cursor on top of him, then press the left mouse button to select him.
+missions.bc_p.t01.objective8	Use the mouse wheel or control key to zoom the camera up and down.
+missions.bc_p.t01.objective9	Do not press the 'J' key.

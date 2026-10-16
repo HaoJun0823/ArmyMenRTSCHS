@@ -1,0 +1,111 @@
+client.unitdisplay.prereq	You Need To Build
+client.unitdisplay.unavailable	UNAVAILABLE
+client.unitdisplay.firepower	Firepower
+client.unitdisplay.infantry	Infantry
+client.unitdisplay.air	Air
+client.unitdisplay.cost	Cost
+client.unitdisplay.upgrade	Upgrade
+client.unitdisplay.armor	Armor
+client.restart.restart	Restart
+client.restart.text1	Are you sure?
+client.restart.title	Restart Mission
+client.abort.abort	Abort
+client.abort.text1	Are you sure?
+client.abort.title	Abort Mission
+client.facility.title	Construction
+client.chat.title	Chat
+client.comms.title	Give Items
+client.comms.selectedoff	Select A Player
+client.comms.selectedon	Click Item to Give
+client.comms.units	Selected Units
+client.objectives.title	Objectives
+client.objectives.ps2_2	to see your Objective
+client.objectives.ps2_1	Press the Start button
+client.objectives.pc2	to see your Objective
+client.objectives.pc1	Press the Escape key
+client.minimap.title	Map
+client.options.difficulty.easy	Easy
+client.options.difficulty.title	Difficulty
+client.options.difficulty.normal	Normal
+client.options.difficulty.hard	Hard
+client.options.low	Low
+client.options.title	Options
+client.options.gameplay.keyscroll	Keyboard Scroll Speed
+client.options.gameplay.rightscroll	Right Scroll Speed
+client.options.gameplay.edgescroll	Edge Scroll Speed
+client.options.gameplay.title	Gameplay Options
+client.options.gameplay.reset	Reset To Defaults
+client.options.gameplay.zoomspeed	Zoom Speed
+client.options.gameplay.cameraspeed	Camera Speed
+client.options.gameplay.titleps2	Camera Options
+client.options.high	High
+client.options.audio.music	Music Volume
+client.options.audio.title	Audio Options
+client.options.audio.master	Master Volume
+client.options.vibration.off	Off
+client.options.vibration.title	Vibration
+client.options.vibration.on	On
+client.options.video.gamma	Brightness
+client.options.video.title	Video Options
+client.options.video.world	World Detail
+client.options.video.texture	Texture Detail
+client.options.video.resolution	Screen Resolution and Color Depth
+client.options.medium	Medium
+client.squad.title	Squads
+client.squad.1	1
+client.squad.3	3
+client.squad.2	2
+client.squad.4	4
+client.quit.text2	want to quit?
+client.quit.text1	Are you sure you
+client.quit.title	Quit
+client.zoom.zoom	VIEW
+client.code.title	Enter a secret code
+client.medalgoals.GoalNum1	2.
+client.medalgoals.GoalNum0	1.
+client.medalgoals.title	Medal Goals
+client.medalgoals.hidden	Classified
+client.menu.restart	Restart Mission
+client.menu.abort	Abort Mission
+client.menu.resumePS2	Resume
+client.menu.back	Back
+client.menu.objectives	Mission Objectives
+client.menu.select	Select
+client.menu.options	Options
+client.menu.objectivesPS2	Objectives
+client.menu.resume	Resume Game
+client.menu.quit	Quit
+client.menu.medalgoals	Medal Goals
+client.menu.saveload	Save and Load
+client.menu.paused	Paused
+client.saveload.empty	- No Saved Game -
+client.saveload.title	Save and Load Games
+client.saveload.saving	Saving, please wait...
+client.saveload.confirmload.title	Confirm Load
+client.saveload.confirmload.message	Are you sure you want to load this save game?
+client.saveload.load	Load
+client.saveload.save	Save
+client.saveload.confirmsave.title	Confirm Save
+client.saveload.confirmsave.message	Are you sure you want to overwrite the previous save game?
+mods.ruleset.protecthq.title	Protect HQ
+mods.ruleset.protecthq.objective	You must construct an HQ before the timer runs out
+mods.ruleset.protecthq.objective2	Kill all enemy players
+mods.ruleset.protecthq.3minally	Your ally, {1:s}, has 3 minutes to build a HQ
+mods.ruleset.protecthq.3minself	You have 3 minutes to build a HQ
+mods.ruleset.koth.s_built	You have claimed the hill!
+mods.ruleset.koth.a_holding	{1:s} has to defend the hill for {2:s} more minute(s)
+mods.ruleset.koth.e_built	Your enemy, {1:s}, has built on the hill!
+mods.ruleset.koth.objective	Build a Headquarters on the hill and keep it there for 5 minutes
+mods.ruleset.koth.pre_5min	The Hill will be open in 5 minutes
+mods.ruleset.koth.a_built	Your ally, {1:s}, has built on the hill!
+mods.ruleset.koth.e_holding	{1:s} still holds the hill. You have {2:s} minute(s) left
+mods.ruleset.koth.s_holding	You have to defend the hill for {1:s} more minute(s)
+mods.ruleset.koth.pre_open	The Hill is open!
+std.buttons.abort	Abort
+std.buttons.exit	Exit
+std.buttons.cancel	Cancel
+std.buttons.back	Back
+std.buttons.done	Done
+std.buttons.ok	Ok
+std.buttons.play	Play
+std.buttons.continue	Continue
