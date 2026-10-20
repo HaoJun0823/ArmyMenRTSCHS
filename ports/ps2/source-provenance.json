@@ -1,0 +1,56 @@
+[
+  {
+    "file": "build_assets.py",
+    "original_sha256": "b891272b6608ef3f891397ce4551971da38168b1e180af3ff97271918dc8f760",
+    "exported_sha256_lf": "bc433bee48fae375e0e187db86b35094883701093aa238f71f5a7ff7d0b9b510",
+    "changes": "Private input path literals replaced; algorithm unchanged."
+  },
+  {
+    "file": "build_disc.py",
+    "original_sha256": "9bacd8909d2deda253dd0a13b2627f0d7d78dd00d9cd5619ff6a29653e45984e",
+    "exported_sha256_lf": "9925432025d90d1d56f48601ec205d7b04def1ce72597922af423e494d622475",
+    "changes": "Private input path literals replaced; algorithm unchanged."
+  },
+  {
+    "file": "native_patch.py",
+    "original_sha256": "64eceec5a98dff1ec048ae321dbd5dbffe4331ec8d78378544a31b277b63916e",
+    "exported_sha256_lf": "ef4e3b1c815b92b424d20d54998a3c33143bc36c321bac657c170cdf15946f56",
+    "changes": "Private input path literals replaced; algorithm unchanged."
+  },
+  {
+    "file": "native_strings.py",
+    "original_sha256": "316f4b833c6b18518773059adce92fd7b225b600add0185ac7ad5eebb49251d6",
+    "exported_sha256_lf": "316f4b833c6b18518773059adce92fd7b225b600add0185ac7ad5eebb49251d6",
+    "changes": "Private input path literals replaced; algorithm unchanged."
+  },
+  {
+    "file": "inventory.py",
+    "original_sha256": "e0152910888dd87d4ca3bbf8882d299061189e47635c13f21d50c211c3e862ec",
+    "exported_sha256_lf": "1298875279a2b725f09e6893d4a8f3a9567c0c023ba690a755a4e43b5e256f06",
+    "changes": "Private input path literals replaced; algorithm unchanged."
+  },
+  {
+    "file": "verify_disc.py",
+    "original_sha256": "d22dc8344f32dbf9cd941379c10a850a19c1e5acfb2ac744c5eb76ba3776541e",
+    "exported_sha256_lf": "ebd97e3d4e97fad4e9bd18a97e445865f28f6611df35e9483fe60a9619fbfc96",
+    "changes": "Private input path literals replaced; algorithm unchanged."
+  },
+  {
+    "file": "check_assets.py",
+    "original_sha256": "a420b3003f81a11c40bc192e5ef00941f1df3e8f9fad528fb052f75124fce3e7",
+    "exported_sha256_lf": "a420b3003f81a11c40bc192e5ef00941f1df3e8f9fad528fb052f75124fce3e7",
+    "changes": "Private input path literals replaced; algorithm unchanged."
+  },
+  {
+    "file": "check_layout.py",
+    "original_sha256": "14691be1d28e3d0bd5b95d4fe34d5debebcf991863d1323be85995581c0aea97",
+    "exported_sha256_lf": "14691be1d28e3d0bd5b95d4fe34d5debebcf991863d1323be85995581c0aea97",
+    "changes": "Private input path literals replaced; algorithm unchanged."
+  },
+  {
+    "file": "test_native.py",
+    "original_sha256": "5977d8a3a12b9803270dec3ffcb8f7f1b95cf546d23402d99beafa63f4670eb8",
+    "exported_sha256_lf": "f516a766a2ba00c8480af3617d6ba4f6d13df78255ffcc06ce5893a37f3f5280",
+    "changes": "Private input path literals replaced; algorithm unchanged."
+  }
+]

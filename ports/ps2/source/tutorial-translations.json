@@ -1,0 +1,21 @@
+{
+  "/missions/bc_s/t01/objective1": "用左摇杆将镜头移到北面的撤离点。",
+  "/missions/bc_s/t01/objective2": "移动镜头，将准星对准中士，再按圆圈键选中他。",
+  "/missions/bc_s/t01/objective3": "将镜头移到地图上的任意位置，按叉键命令中士前往该处。",
+  "/missions/bc_s/t01/objective6": "将准星依次移到各单位上，分别按方块键，选中地图上的全部七个单位。",
+  "/missions/bc_s/t01/objective7": "按 L1 键将镜头切换到敌方单位。",
+  "/missions/bc_s/t01/objective9": "不要推动左摇杆，按下再松开 R2 键，即可恢复默认镜头高度。",
+  "/missions/bc_s/t01/objective10": "移动镜头时按 L3 键，可以加快镜头移动速度。",
+  "/missions/bc_s/t01/objective12": "将镜头移到中士处，按三角键。",
+  "/missions/bc_s/t01/objective13": "将镜头移回另外三个单位处，按三角键重新选中它们。",
+  "/missions/bc_s/t01/objective14": "不要按 Select 键。",
+  "/missions/bc_s/t02/objective2": "按住 R1 键，在菜单中选中总部，再按叉键确认。",
+  "/missions/bc_s/t02/objective4": "移动镜头，将总部放置预览移到所需位置，再按叉键放置。",
+  "/missions/bc_s/t02/objective5": "建造一座资源站，并将其放在两处资源附近。",
+  "/missions/bc_s/t02/objective6": "要建造自卸卡车，按住 R1 键，再上下推动左摇杆或按方向键上、下，调出总部建造菜单。",
+  "/missions/bc_s/t02/objective7": "在菜单中选中自卸卡车后，按一次叉键开始建造。",
+  "/missions/bc_s/t02/objective10": "在总部建造菜单中选中升级按钮，按叉键升级。",
+  "/missions/bc_s/t02/objective12": "在兵营建造菜单中选中升级按钮，按叉键升级。",
+  "/missions/bc_s/t03/objective3": "推动右摇杆切换目标，再按叉键开火。",
+  "/missions/bc_s/t03/objective4": "选中全部单位，命令它们进入第一个战斗区域，开始训练。"
+}

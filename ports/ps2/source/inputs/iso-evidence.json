@@ -1,0 +1,696 @@
+{
+  "iso": {
+    "entries": [
+      {
+        "path": "/SYSTEM.CNF",
+        "lba": 413,
+        "size": 57,
+        "directory": false
+      },
+      {
+        "path": "/SLUS_202.06",
+        "lba": 414,
+        "size": 3597968,
+        "directory": false
+      },
+      {
+        "path": "/SIDES",
+        "lba": 262,
+        "size": 276,
+        "directory": true
+      },
+      {
+        "path": "/SIDES/ARMY.CFG",
+        "lba": 2171,
+        "size": 388,
+        "directory": false
+      },
+      {
+        "path": "/SIDES/DIR_LIST.LST",
+        "lba": 2172,
+        "size": 44,
+        "directory": false
+      },
+      {
+        "path": "/SIDES/INSECT.CFG",
+        "lba": 2173,
+        "size": 242,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY",
+        "lba": 263,
+        "size": 318,
+        "directory": true
+      },
+      {
+        "path": "/LIBRARY/DIR_LIST.LST",
+        "lba": 2174,
+        "size": 54,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/ENGINE",
+        "lba": 268,
+        "size": 218,
+        "directory": true
+      },
+      {
+        "path": "/LIBRARY/ENGINE/DIR_LIST.LST",
+        "lba": 2175,
+        "size": 26,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/ENGINE/STARTUP.CFG",
+        "lba": 2176,
+        "size": 624,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/IRX",
+        "lba": 269,
+        "size": 636,
+        "directory": true
+      },
+      {
+        "path": "/LIBRARY/IRX/DIR_LIST.LST",
+        "lba": 2177,
+        "size": 173,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/IRX/IOPRP234.IMG",
+        "lba": 2178,
+        "size": 247641,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/IRX/LIBSD.IRX",
+        "lba": 2299,
+        "size": 26301,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/IRX/MCMAN.IRX",
+        "lba": 2312,
+        "size": 90533,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/IRX/MCSERV.IRX",
+        "lba": 2357,
+        "size": 7353,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/IRX/PADMAN.IRX",
+        "lba": 2361,
+        "size": 43861,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/IRX/SDRDRV.IRX",
+        "lba": 2383,
+        "size": 6345,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/IRX/SIO2MAN.IRX",
+        "lba": 2387,
+        "size": 6161,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/IRX/STREAM.IRX",
+        "lba": 2391,
+        "size": 37392,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/LANGUAGE",
+        "lba": 270,
+        "size": 458,
+        "directory": true
+      },
+      {
+        "path": "/LIBRARY/LANGUAGE/DIR_LIST.LST",
+        "lba": 2410,
+        "size": 112,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/LANGUAGE/ENGLISH.DAT",
+        "lba": 2411,
+        "size": 34134,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/LANGUAGE/FRENCH.DAT",
+        "lba": 2428,
+        "size": 37134,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/LANGUAGE/GERMAN.DAT",
+        "lba": 2447,
+        "size": 37540,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/LANGUAGE/ITALIAN.DAT",
+        "lba": 2466,
+        "size": 35402,
+        "directory": false
+      },
+      {
+        "path": "/LIBRARY/LANGUAGE/SPANISH.DAT",
+        "lba": 2484,
+        "size": 34948,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS",
+        "lba": 264,
+        "size": 416,
+        "directory": true
+      },
+      {
+        "path": "/MISSIONS/DIR_LIST.LST",
+        "lba": 2502,
+        "size": 78,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/BC_S",
+        "lba": 271,
+        "size": 378,
+        "directory": true
+      },
+      {
+        "path": "/MISSIONS/BC_S/DIR_LIST.LST",
+        "lba": 2503,
+        "size": 72,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/BC_S/GROUP.CFG",
+        "lba": 2504,
+        "size": 301,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/BC_S/T01.X",
+        "lba": 2505,
+        "size": 15545792,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/BC_S/T02.X",
+        "lba": 10096,
+        "size": 16277733,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/BC_S/T03.X",
+        "lba": 18045,
+        "size": 14487203,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/GB",
+        "lba": 272,
+        "size": 686,
+        "directory": true
+      },
+      {
+        "path": "/MISSIONS/GB/ATTIC.X",
+        "lba": 25119,
+        "size": 11552530,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/GB/BASEMENT.X",
+        "lba": 30760,
+        "size": 10953762,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/GB/BATHROOM.X",
+        "lba": 36109,
+        "size": 13538831,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/GB/DIR_LIST.LST",
+        "lba": 42720,
+        "size": 185,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/GB/FLOODED.X",
+        "lba": 42721,
+        "size": 11819450,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/GB/GARDEN.X",
+        "lba": 48493,
+        "size": 14169411,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/GB/GROUP.CFG",
+        "lba": 55412,
+        "size": 1528,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/GB/SANDBOX.X",
+        "lba": 55413,
+        "size": 12550074,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/GB/TRICYCLE.X",
+        "lba": 61541,
+        "size": 13221891,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/GB/WATERWAY.X",
+        "lba": 67998,
+        "size": 11606595,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SHELLS",
+        "lba": 273,
+        "size": 446,
+        "directory": true
+      },
+      {
+        "path": "/MISSIONS/SHELLS/BRIEFING.X",
+        "lba": 73666,
+        "size": 1452,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SHELLS/CREDITS.X",
+        "lba": 73667,
+        "size": 13537406,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SHELLS/DIR_LIST.LST",
+        "lba": 80278,
+        "size": 100,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SHELLS/GROUP.CFG",
+        "lba": 80279,
+        "size": 158,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SHELLS/INTEL.X",
+        "lba": 80280,
+        "size": 28701900,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SHELLS/MAIN.X",
+        "lba": 94295,
+        "size": 8227256,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SO",
+        "lba": 274,
+        "size": 680,
+        "directory": true
+      },
+      {
+        "path": "/MISSIONS/SO/ANTPARTY.X",
+        "lba": 98313,
+        "size": 12292121,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SO/BATTLE.X",
+        "lba": 104316,
+        "size": 11987678,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SO/BEACH.X",
+        "lba": 110170,
+        "size": 12964919,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SO/CONVOY.X",
+        "lba": 116501,
+        "size": 13769043,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SO/DIR_LIST.LST",
+        "lba": 123225,
+        "size": 178,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SO/GROUP.CFG",
+        "lba": 123226,
+        "size": 1542,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SO/NIGHT.X",
+        "lba": 123227,
+        "size": 12121246,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SO/RESCUE.X",
+        "lba": 129146,
+        "size": 13588028,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SO/ROCKET.X",
+        "lba": 135781,
+        "size": 12010466,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/SO/UBERBASE.X",
+        "lba": 141646,
+        "size": 11107721,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY",
+        "lba": 275,
+        "size": 1086,
+        "directory": true
+      },
+      {
+        "path": "/MISSIONS/STORY/DIR_LIST.LST",
+        "lba": 147070,
+        "size": 285,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/GROUP.CFG",
+        "lba": 147071,
+        "size": 1670,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S01.X",
+        "lba": 147072,
+        "size": 22692872,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S02.X",
+        "lba": 158153,
+        "size": 15104240,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S03.X",
+        "lba": 165529,
+        "size": 15568957,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S04.X",
+        "lba": 173132,
+        "size": 18158884,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S05.X",
+        "lba": 181999,
+        "size": 15358310,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S06.X",
+        "lba": 189499,
+        "size": 17668337,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S07.X",
+        "lba": 198127,
+        "size": 20999091,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S08.X",
+        "lba": 208381,
+        "size": 22156319,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S09.X",
+        "lba": 219200,
+        "size": 18345449,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S10.X",
+        "lba": 228158,
+        "size": 14599194,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S11.X",
+        "lba": 235287,
+        "size": 20560902,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S12.X",
+        "lba": 245327,
+        "size": 17543875,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S13.X",
+        "lba": 253894,
+        "size": 19102102,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S14.X",
+        "lba": 263222,
+        "size": 20496168,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S15.X",
+        "lba": 273230,
+        "size": 16373041,
+        "directory": false
+      },
+      {
+        "path": "/MISSIONS/STORY/S15OUTRO.X",
+        "lba": 281225,
+        "size": 11839372,
+        "directory": false
+      },
+      {
+        "path": "/MODS",
+        "lba": 265,
+        "size": 212,
+        "directory": true
+      },
+      {
+        "path": "/MODS/DIR_LIST.LST",
+        "lba": 287006,
+        "size": 22,
+        "directory": false
+      },
+      {
+        "path": "/MODS/PERSONA",
+        "lba": 276,
+        "size": 270,
+        "directory": true
+      },
+      {
+        "path": "/MODS/PERSONA/DEFAULT.X",
+        "lba": 287007,
+        "size": 34825,
+        "directory": false
+      },
+      {
+        "path": "/MODS/PERSONA/DIR_LIST.LST",
+        "lba": 287025,
+        "size": 39,
+        "directory": false
+      },
+      {
+        "path": "/MODS/PERSONA/GB.X",
+        "lba": 287026,
+        "size": 32893,
+        "directory": false
+      },
+      {
+        "path": "/CLIENT",
+        "lba": 266,
+        "size": 554,
+        "directory": true
+      },
+      {
+        "path": "/CLIENT/DIR_LIST.LST",
+        "lba": 287043,
+        "size": 136,
+        "directory": false
+      },
+      {
+        "path": "/CLIENT/P-0-N.BIK",
+        "lba": 287044,
+        "size": 49676292,
+        "directory": false
+      },
+      {
+        "path": "/CLIENT/P-1-N.BIK",
+        "lba": 311301,
+        "size": 264962052,
+        "directory": false
+      },
+      {
+        "path": "/CLIENT/P-2-N.BIK",
+        "lba": 440678,
+        "size": 43515908,
+        "directory": false
+      },
+      {
+        "path": "/CLIENT/P-3-N.BIK",
+        "lba": 461927,
+        "size": 58884100,
+        "directory": false
+      },
+      {
+        "path": "/CLIENT/P-4-N.BIK",
+        "lba": 490680,
+        "size": 65323012,
+        "directory": false
+      },
+      {
+        "path": "/CLIENT/P-5-N.BIK",
+        "lba": 522577,
+        "size": 44679172,
+        "directory": false
+      },
+      {
+        "path": "/CLIENT/S",
+        "lba": 277,
+        "size": 272,
+        "directory": true
+      },
+      {
+        "path": "/CLIENT/S/DIR_LIST.LST",
+        "lba": 544394,
+        "size": 41,
+        "directory": false
+      },
+      {
+        "path": "/CLIENT/S/INGAME.X",
+        "lba": 544395,
+        "size": 192442,
+        "directory": false
+      },
+      {
+        "path": "/CLIENT/S/SHELL.X",
+        "lba": 544489,
+        "size": 3901018,
+        "directory": false
+      },
+      {
+        "path": "/WORLDS",
+        "lba": 267,
+        "size": 680,
+        "directory": true
+      },
+      {
+        "path": "/WORLDS/ATTIC.X",
+        "lba": 546394,
+        "size": 5321225,
+        "directory": false
+      },
+      {
+        "path": "/WORLDS/BASEMENT.X",
+        "lba": 548993,
+        "size": 2496260,
+        "directory": false
+      },
+      {
+        "path": "/WORLDS/BATHROOM.X",
+        "lba": 550212,
+        "size": 2356152,
+        "directory": false
+      },
+      {
+        "path": "/WORLDS/BEDROOM.X",
+        "lba": 551363,
+        "size": 3060449,
+        "directory": false
+      },
+      {
+        "path": "/WORLDS/DIR_LIST.LST",
+        "lba": 552858,
+        "size": 180,
+        "directory": false
+      },
+      {
+        "path": "/WORLDS/KITCHEN.X",
+        "lba": 552859,
+        "size": 3892357,
+        "directory": false
+      },
+      {
+        "path": "/WORLDS/LIVINGRM.X",
+        "lba": 554760,
+        "size": 2662488,
+        "directory": false
+      },
+      {
+        "path": "/WORLDS/SANDBOX.X",
+        "lba": 556061,
+        "size": 1497996,
+        "directory": false
+      },
+      {
+        "path": "/WORLDS/SHELL.X",
+        "lba": 556793,
+        "size": 1418,
+        "directory": false
+      },
+      {
+        "path": "/WORLDS/YARD.X",
+        "lba": 556794,
+        "size": 6854427,
+        "directory": false
+      },
+      {
+        "path": "/BASE.X",
+        "lba": 560141,
+        "size": 197433941,
+        "directory": false
+      },
+      {
+        "path": "/DIR_LIST.LST",
+        "lba": 656545,
+        "size": 218,
+        "directory": false
+      }
+    ]
+  }
+}

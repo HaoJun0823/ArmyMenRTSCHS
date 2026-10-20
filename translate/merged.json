@@ -1162,7 +1162,7 @@
  {
   "k": "missions.bc_p.t03.objective3",
   "en": "Select the Squad with Sarge, Riff, and Scorch in it.",
-  "zh": "选中包含中士、里夫和斯考奇的这支小队。"
+  "zh": "选中包含中士、里夫和焦炭的这支小队。"
  },
  {
   "k": "missions.bc_p.t03.objective2",
@@ -2477,7 +2477,7 @@
  {
   "k": "game.types.army.building.guardtower",
   "en": "Guard Tower",
-  "zh": "哨塔"
+  "zh": "警卫塔"
  },
  {
   "k": "game.types.army.building.crates_group",
@@ -2527,7 +2527,7 @@
  {
   "k": "game.types.army.building.resourcedepot",
   "en": "Resource Depot",
-  "zh": "资源库"
+  "zh": "资源站"
  },
  {
   "k": "game.types.army.building.thumbtacks",
@@ -2687,7 +2687,7 @@
  {
   "k": "game.types.army.unit.medicjeep",
   "en": "Medic",
-  "zh": "医疗兵"
+  "zh": "医疗吉普车"
  },
  {
   "k": "game.types.army.unit.paratrooper",
@@ -2722,7 +2722,7 @@
  {
   "k": "game.types.army.unit.minesweeper",
   "en": "Mine Sweeper",
-  "zh": "扫雷车"
+  "zh": "扫雷兵"
  },
  {
   "k": "game.types.resource.flashlight",

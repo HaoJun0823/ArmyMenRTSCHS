@@ -1,0 +1,165 @@
+{
+  "version": "0.2.5",
+  "status": "STATIC_PASS",
+  "sha256": "10ad811c124c45c48fd02a9d4166f7d1023fdfe8286a9c8b8ebb5c54b63b4ea7",
+  "image_bytes": 1345492992,
+  "review_model": "GPT-6 Luna",
+  "unit_names_reviewed": 35,
+  "related_keys_reviewed": 145,
+  "fonts": [
+    {
+      "font": "font_arial_cn.fff",
+      "added_characters": "吉",
+      "all_previous_glyphs_preserved": true,
+      "file_growth_bytes": 177,
+      "old_max_unit_width": 90,
+      "new_max_unit_width": 90,
+      "sha256": "dd9002ed89367ca03c27f38bff44a5e54dee472abd7691c385a50723deb4381b"
+    },
+    {
+      "font": "font_stencil_cn.fff",
+      "added_characters": "吉",
+      "all_previous_glyphs_preserved": true,
+      "file_growth_bytes": 561,
+      "old_max_unit_width": 150,
+      "new_max_unit_width": 150,
+      "sha256": "7cb49ae0a8806f411d1f19f71c17938aa62c2bc1589a3e388e907b8296f19198"
+    },
+    {
+      "font": "font_arial_memcard_cn.fff",
+      "added_characters": "吉",
+      "all_previous_glyphs_preserved": true,
+      "file_growth_bytes": 177,
+      "old_max_unit_width": 90,
+      "new_max_unit_width": 90,
+      "sha256": "e15928fdca86576c8795bbd3451985ca8553830d8a3668c235e1f29484f1cf3d"
+    }
+  ],
+  "glyph_audit": {
+    "full_text_records": 838,
+    "native_cells": 70,
+    "required_codes": 902,
+    "all_fonts_missing_glyphs": [],
+    "fonts": [
+      {
+        "name": "font_arial_cn.fff",
+        "height": 20,
+        "glyphs": 1063,
+        "missing": [],
+        "packed_pages": 15,
+        "original_pages": 2,
+        "texture_image_bytes": 245760,
+        "palette_bytes": 15360,
+        "known_load_live_bytes_upper_sum": 487485,
+        "known_load_delta": 419972,
+        "excludes": "native object/header overhead, other loaded fonts, texture residency"
+      },
+      {
+        "name": "font_stencil_cn.fff",
+        "height": 30,
+        "glyphs": 1063,
+        "missing": [],
+        "packed_pages": 40,
+        "original_pages": 7,
+        "texture_image_bytes": 655360,
+        "palette_bytes": 40960,
+        "known_load_live_bytes_upper_sum": 1266858,
+        "known_load_delta": 1060692,
+        "excludes": "native object/header overhead, other loaded fonts, texture residency"
+      },
+      {
+        "name": "font_arial_memcard_cn.fff",
+        "height": 20,
+        "glyphs": 1063,
+        "missing": [],
+        "packed_pages": 15,
+        "original_pages": 2,
+        "texture_image_bytes": 245760,
+        "palette_bytes": 15360,
+        "known_load_live_bytes_upper_sum": 487317,
+        "known_load_delta": 419972,
+        "excludes": "native object/header overhead, other loaded fonts, texture residency"
+      }
+    ],
+    "native_packing_bounds": "PASS",
+    "analytic_budget_only": true,
+    "observed_native_peak": null
+  },
+  "cpu_model": {
+    "host_cpu_model_only": true,
+    "decoder_cases": 131073,
+    "measure_corpus_cases": 2724,
+    "wrapping_corpus_cases": 29056,
+    "font_metrics_tested": [
+      "font_stencil_cn.fff",
+      "font_arial_memcard_cn.fff",
+      "font_arial_cn.fff"
+    ],
+    "corpus_widths": {
+      "height_20": [
+        60,
+        100,
+        200,
+        260,
+        300,
+        320,
+        400,
+        430,
+        500,
+        580,
+        600
+      ],
+      "height_30": [
+        100,
+        200,
+        260,
+        300,
+        320,
+        400,
+        430,
+        500,
+        580,
+        600
+      ]
+    },
+    "punctuation_boundary_cases": 1449,
+    "impossible_width_progress_cases": 3,
+    "soft_break_punctuation_and_byte_conservation_checked": true,
+    "draw_adapter_cases": 4,
+    "strict_alignment_and_allocation_guards": true,
+    "callee_saved_registers_preserved": true,
+    "actual_pcsx2_interpreter_tested": false,
+    "status": "PASS"
+  },
+  "independent_disc": {
+    "iso_entries": 115,
+    "metadata_both_endian": "PASS",
+    "nonoverlapping_extents": "PASS",
+    "mutation_payload_digests": "PASS",
+    "archive_binding_resources": 40,
+    "new_font_payload_alignment": 128,
+    "original_payload_offsets": "preserved",
+    "root_directory_cache": "PASS",
+    "text_keys": 838,
+    "sha256": "10ad811c124c45c48fd02a9d4166f7d1023fdfe8286a9c8b8ebb5c54b63b4ea7",
+    "status": "PASS"
+  },
+  "executable_identical_to_v024": true,
+  "heap_start": "0x6df000",
+  "heap_reservation_bytes": 3956,
+  "alignment": {
+    "new_font_payload": 128,
+    "iso_sector": 2048,
+    "stack_and_injected_segment": 16
+  },
+  "observed_peak_memory": null,
+  "emulator_launched": false,
+  "runtime_tested": false,
+  "limitations": [
+    "Static-only revision; no emulator or physical-console run.",
+    "52 dynamic/inherited UI contexts and formatted argument lengths remain outside static layout proof.",
+    "Existing settings title nominal-height warning remains unchanged.",
+    "No separate unit-description records are present in the localization table."
+  ],
+  "scope": "Historical v0.2.5 original-workspace evidence; not a fresh test of this exported source snapshot."
+}

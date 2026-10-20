@@ -1,0 +1,73 @@
+{
+  "keys": 838,
+  "native_message_cells": 70,
+  "gbk_double_glyphs": 836,
+  "cjk_characters": 825,
+  "metadata_controls_preserved": true,
+  "normalized_pc_newline_keys": [
+    "/shell/nonetwork/message",
+    "/shell/credits/bink",
+    "/game/savegame/changed",
+    "/multiplayer/eliminated/message"
+  ],
+  "intentional_reflow_keys": [
+    "/game/info/oos/message"
+  ],
+  "unicode_cmap_formats": [
+    4,
+    12
+  ],
+  "unicode_missing_glyphs": [],
+  "fonts": [
+    {
+      "source": "font_arial_10.fff",
+      "alias": "font_arial_cn.fff",
+      "height": 20,
+      "raster_px": 14,
+      "glyph_count": 1062,
+      "file_bytes": 170912,
+      "record_bytes": 42480,
+      "descriptor_temp_bytes": 8496,
+      "bitmap_pixels": 161345,
+      "max_bucket_count": 18,
+      "sha256": "a4d293527847cbad278978add834daf5e8d1fb5f096a17872cb0c556972a9f53"
+    },
+    {
+      "source": "font_stencil_24.fff",
+      "alias": "font_stencil_cn.fff",
+      "height": 30,
+      "raster_px": 24,
+      "glyph_count": 1062,
+      "file_bytes": 514701,
+      "record_bytes": 42480,
+      "descriptor_temp_bytes": 8496,
+      "bitmap_pixels": 505134,
+      "max_bucket_count": 18,
+      "sha256": "b513ef1df0c4863f03e7f6e7b858ea3143c8e3adb4622affc037cc7cd61ba640"
+    },
+    {
+      "source": "font_arial_memcard_10.fff",
+      "alias": "font_arial_memcard_cn.fff",
+      "height": 20,
+      "raster_px": 14,
+      "glyph_count": 1062,
+      "file_bytes": 170744,
+      "record_bytes": 42480,
+      "descriptor_temp_bytes": 8496,
+      "bitmap_pixels": 161177,
+      "max_bucket_count": 18,
+      "sha256": "02859c9a8517c9747793e5decd56dc9fc08bd519e4e30432a7fa2db39d50d812"
+    }
+  ],
+  "untranslated_ascii_identifiers": {
+    "/multiplayer/setup/teams/1": "Bravo",
+    "/multiplayer/setup/teams/0": "Alpha",
+    "/multiplayer/setup/teams/3": "Delta",
+    "/multiplayer/setup/teams/2": "Charlie",
+    "/multiplayer/setup/teams/5": "Foxtrot",
+    "/multiplayer/setup/teams/4": "Echo",
+    "/multiplayer/setup/teams/7": "Hotel",
+    "/multiplayer/setup/teams/6": "Golf"
+  },
+  "runtime_tested": false
+}

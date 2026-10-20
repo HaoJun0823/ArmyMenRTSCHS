@@ -181,6 +181,10 @@ Steam 版 `amrts.exe`，imagebase `0x400000`。**换 exe 版本需重新定位�
 
 ---
 
+## 校对贡献与 PS2 移植参考
+
+[木下萌子 / MoekoSama](https://github.com/MoekoSama) 提供了单位术语校对与 PS2 移植调查，使用 Codex 辅助实现、GPT-6 Luna 辅助校对。详见[本次修订与验证边界](docs/localization-review-2026-10-21.md)及[独立归档的 PS2 源码参考](ports/ps2/README.md)。PC 发布前需要根据新增“吉”字重新生成字体页和索引；本次没有修改 PC 插件或提交新二进制发布包。
+
 ## 许可
 
 本汉化补丁：GPL-3.0-or-later（见 [LICENSE](LICENSE) 与 [LICENSES/GPLv3.txt](LICENSES/GPLv3.txt)）

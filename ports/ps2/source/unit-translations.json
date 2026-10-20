@@ -1,0 +1,7 @@
+{
+  "/game/types/army/unit/medicjeep": "医疗吉普车",
+  "/game/types/army/unit/minesweeper": "扫雷兵",
+  "/game/types/army/building/guardtower": "警卫塔",
+  "/game/types/army/building/resourcedepot": "资源站",
+  "/missions/bc_p/t03/objective3": "选中包含中士、里夫和焦炭的这支小队。"
+}

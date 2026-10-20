@@ -1,0 +1,42 @@
+{
+  "base_commit": "96ef81d8efc55278342c33b61504df17e038bc66",
+  "contributor": "木下萌子",
+  "github": "https://github.com/MoekoSama",
+  "ai_assistance": [
+    "Codex",
+    "GPT-6 Luna terminology review"
+  ],
+  "corrections": [
+    {
+      "key": "game.types.army.unit.medicjeep",
+      "source": "Medic",
+      "before": "医疗兵",
+      "after": "医疗吉普车"
+    },
+    {
+      "key": "game.types.army.unit.minesweeper",
+      "source": "Mine Sweeper",
+      "before": "扫雷车",
+      "after": "扫雷兵"
+    },
+    {
+      "key": "game.types.army.building.guardtower",
+      "source": "Guard Tower",
+      "before": "哨塔",
+      "after": "警卫塔"
+    },
+    {
+      "key": "game.types.army.building.resourcedepot",
+      "source": "Resource Depot",
+      "before": "资源库",
+      "after": "资源站"
+    },
+    {
+      "key": "missions.bc_p.t03.objective3",
+      "source": "Select the Squad with Sarge, Riff, and Scorch in it.",
+      "before": "选中包含中士、里夫和斯考奇的这支小队。",
+      "after": "选中包含中士、里夫和焦炭的这支小队。"
+    }
+  ],
+  "font_characters_added": "吉"
+}

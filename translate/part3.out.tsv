@@ -59,7 +59,7 @@ game.types.kitchen.prop.chemfactory_bottle	化学储罐
 game.types.army.strike.magnifyingglass	放大镜
 game.types.army.strike.bombingrun	轰炸
 game.types.army.strike.paratroopers	伞兵
-game.types.army.building.guardtower	哨塔
+game.types.army.building.guardtower	警卫塔
 game.types.army.building.crates_group	弹药箱
 game.types.army.building.aagun	防空炮
 game.types.army.building.pillbox	碉堡
@@ -69,7 +69,7 @@ game.types.army.building.bwpost	铁丝网柱
 game.types.army.building.hq3	超级总部
 game.types.army.building.hq2	高级总部
 game.types.army.building.hq1	总部
-game.types.army.building.resourcedepot	资源库
+game.types.army.building.resourcedepot	资源站
 game.types.army.building.thumbtacks	图钉
 game.types.army.building.bwpost-leg	桌腿
 game.types.army.building.mine	地雷
@@ -101,14 +101,14 @@ game.types.army.unit.radio	通讯兵
 game.types.army.unit.truck	运输卡车
 game.types.army.unit.dumdum	达姆弹
 game.types.army.unit.chopper	武装直升机
-game.types.army.unit.medicjeep	医疗兵
+game.types.army.unit.medicjeep	医疗吉普车
 game.types.army.unit.paratrooper	伞兵
 game.types.army.unit.sarge	中士
 game.types.army.unit.vikki	薇琪
 game.types.army.unit.dumptruck	自卸卡车
 game.types.army.unit.bazooka	火箭筒兵
 game.types.army.unit.halftrack	半履带车
-game.types.army.unit.minesweeper	扫雷车
+game.types.army.unit.minesweeper	扫雷兵
 game.types.resource.flashlight	手电筒
 game.types.resource.bonetrain	火车残骸
 game.types.resource.cowstand	奶牛
