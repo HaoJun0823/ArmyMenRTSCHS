@@ -1,17 +1,24 @@
-import os, sys, shutil, glob, json
+import os, sys, shutil, glob
 sys.stdout.reconfigure(encoding='utf-8')
 
-GAME = r"I:\LocalGames\Army Men\Army Men RTS STEAM"
-PROJ = r"G:\Projects\ArmyMenRTSCHS"
+# 用法: python _deploy_full.py [游戏根目录]
+# 默认取本仓库所在目录（本仓库即游戏安装副本）。
+PROJ = os.path.dirname(os.path.abspath(__file__))
+GAME = os.path.abspath(sys.argv[1]) if len(sys.argv) > 1 else PROJ
 BUILD = os.path.join(PROJ, "build_full")
 SD = os.path.join(GAME, "scripts")
 LANG = os.path.join(GAME, "update", "library", "language")
+
+ASI_SRC = os.path.join(PROJ, "ArmyRTS_CHINESE", "Release", "ArmyRTS_CHINESE.dll")
+if not os.path.exists(ASI_SRC):
+    sys.exit("缺少插件产物 %s，请先 msbuild ArmyRTS_CHINESE\\ArmyRTS_CHINESE.vcxproj /p:Configuration=Release /p:Platform=Win32" % ASI_SRC)
+for f in ("chs_index.bin", "english.dat"):
+    if not os.path.exists(os.path.join(BUILD, f)):
+        sys.exit("缺少 %s，请先运行 python _build_full.py" % f)
 os.makedirs(LANG, exist_ok=True)
 
-p = None
 # 1) ASI + 配置 —— 放 scripts\（Ultimate ASI Loader 在此目录生效，已验证）
-shutil.copy2(os.path.join(PROJ, "ArmyRTS_CHINESE", "Release", "ArmyRTS_CHINESE.dll"),
-             os.path.join(SD, "ArmyRTS_CHINESE.asi"))
+shutil.copy2(ASI_SRC, os.path.join(SD, "ArmyRTS_CHINESE.asi"))
 shutil.copy2(os.path.join(PROJ, "ArmyRTS_CHINESE", "chs_config.ini"),
              os.path.join(SD, "chs_config.ini"))
 print("asi ->", os.path.getsize(os.path.join(SD, "ArmyRTS_CHINESE.asi")), "B")
@@ -20,17 +27,10 @@ print("asi ->", os.path.getsize(os.path.join(SD, "ArmyRTS_CHINESE.asi")), "B")
 shutil.copy2(os.path.join(BUILD, "chs_index.bin"), os.path.join(SD, "chs_index.bin"))
 print("index ->", os.path.getsize(os.path.join(SD, "chs_index.bin")), "B")
 
-# 3) 清掉旧的 .fff（旧单字号 + 旧命名），再放新的 15 页
-trash = os.path.join(PROJ, "_trash", "fff_old")
-os.makedirs(trash, exist_ok=True)
-for old in glob.glob(os.path.join(LANG, "chs_*.fff")) + glob.glob(os.path.join(SD, "chs_*.fff")):
-    dst = os.path.join(trash, os.path.basename(old))
-    if os.path.exists(dst):
-        os.remove(dst)
-    shutil.move(old, dst)
-    print("  moved old:", os.path.basename(old))
-
+# 3) 字库页：只覆盖 chs_g*_p*.fff，其余同名文件不动
 pages = sorted(glob.glob(os.path.join(BUILD, "chs_g*.fff")))
+if not pages:
+    sys.exit("build_full 下没有 chs_g*.fff，请先运行 python _build_full.py")
 for pg in pages:
     shutil.copy2(pg, os.path.join(LANG, os.path.basename(pg)))
 print("pages -> update\\library\\language\\  (%d 个)" % len(pages))

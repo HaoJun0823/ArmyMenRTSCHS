@@ -188,9 +188,33 @@ class Rasterizer:
         # The raw ink box inside our scratch cell must NOT be written here: doing so
         # put b beyond the row box (b=20 for metric=19) and pushed text down-left as
         # the advance accumulated.
+        #
+        # CRITICAL INVARIANT: r must never exceed adv.
+        #
+        # The draw routine sub_4A2C50 does, per glyph:
+        #
+        #     result = x + glyph->r;
+        #     if (result > clip[2]) return result;      // aborts the WHOLE string
+        #
+        # so a glyph whose right edge pokes past the clip rect makes the renderer
+        # stop dead and the trailing characters vanish. Text boxes are frequently
+        # sized to exactly the measured width, which is why the loss always shows
+        # up at the END of a string.
+        #
+        # All 708 glyphs of the three stock fonts satisfy r <= adv (measured: 0
+        # violations). Our earlier "adv from TTF extent, r = 1 + w" broke it on
+        # 71% of the g0 glyphs: CJK ink is nearly a full em wide, so whenever
+        # w == adv the right edge landed one pixel past the pen advance.
+        #
+        # Fix by widening the pen advance instead of shrinking r -- clamping r
+        # would squeeze the glyph quad, while bumping adv keeps the ink box
+        # intact and simply reserves the pixel it actually paints. The measure
+        # hook reads the same field, so layout stays consistent.
         b_ref = self.baseline_ref
         l_out = 1
         r_out = min(100, l_out + w)
+        if r_out > adv:
+            adv = r_out                 # guarantee r <= adv, as the stock fonts do
         t_out = max(0, min(100, b_ref - h))
         b_out = min(100, b_ref)
         return (adv, l_out, t_out, r_out, b_out, w, h, bytes(alpha))

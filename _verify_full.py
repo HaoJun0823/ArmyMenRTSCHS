@@ -1,7 +1,8 @@
 import sys, os, struct
 sys.stdout.reconfigure(encoding='utf-8')
 
-GAME = r"I:\LocalGames\Army Men\Army Men RTS STEAM"
+# 用法: python _verify_full.py [游戏根目录]，默认取本仓库所在目录（本仓库即安装副本）
+GAME = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.abspath(__file__))
 SD = os.path.join(GAME, "scripts")
 LANG = os.path.join(GAME, "update", "library", "language")
 
