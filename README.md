@@ -117,10 +117,18 @@ msbuild ArmyRTS_CHINESE\ArmyRTS_CHINESE.vcxproj /p:Configuration=Release /p:Plat
 重新生成字库与文本：
 
 ```
-python _build_full.py       # 字库 + 索引 + 中文 english.dat
-python _deploy_full.py      # 部署到游戏目录（需先关闭游戏）
-python _verify_full.py      # 全量校验
+python _build_full.py       # 字库页 + 索引 + 中文 english.dat -> build_full\
+python _verify_release.py   # 提交前校验 Resource_CHS\（引擎语义 + 不变量 + 覆盖闭环）
+python _deploy_full.py      # 部署 build_full\ 到游戏目录（需先关闭游戏）
 ```
+
+`_build_full.py` 全部路径相对仓库根，不再依赖外部工作副本；前提是仓库根内有原版
+`library\language\english.dat`（游戏资产，不入库）。字库参数固定为
+`--groups 16:13,19:18,30:31 --baselines 16:13,19:18,30:29`（`30:29` 基线取自
+`font_stencil_24_resource.fff`，metric 27 那套另属一组，勿改）。
+
+新增/修改译文字形时，`translate/chars.txt` **只在末尾追加**：槽位按字符表顺序分配，
+插队会让全部页与索引重排，追加则只有每组最后一页变动。
 
 ---
 
@@ -135,7 +143,12 @@ ArmyRTS_CHINESE/    插件源码（C++，MSVC v141）
   hook.*            x86 inline hook（含指令边界解码 + rel32 重定位）
 
 Tools/              解包打包 + 字库生成
+  dat_tool.py       DOCB .dat 解包/打包/自检
+  gen_fff.py        TTF -> 多字号 .fff 页 + 索引
+  make_fff.py       .fff 解析/重建
 translate/          翻译分区与合并结果
+Resource_CHS/       可直接部署的发布产物（87 页字库 + 索引 + 中文 dat）
+ports/ps2/          PS2 移植源码参考快照（不参与 PC 构建）
 asi/                ASI Loader 代理 DLL
 docs/               逆向工程技术发现
 LICENSES/           第三方许可
@@ -146,10 +159,12 @@ LICENSES/           第三方许可
 | 目录 | 内容 | 生成方式 |
 |---|---|---|
 | `build_full/` | 字库页 + 索引 + 中文 `english.dat` | `python _build_full.py` |
+| `library/` `missions/` `sides/` 等 | 原版游戏资源（重建 `english.dat` 的输入） | 游戏安装副本，属游戏资产 |
 | `Resource_EN/` | 原版资源备份（104 文件） | 手工备份，属游戏资产 |
 | `_trash/` | 废弃脚本与探查残留 | 归档，不参与构建 |
 
-部署时 `build_full/` 是唯一来源，`_deploy_full.py` 直接从它取文件。
+`_build_full.py` 从 `build_full/` 构建，`_deploy_full.py` 也只从 `build_full/` 取文件；
+`Resource_CHS/` 是发布快照，提交前用 `python _verify_release.py` 校验它与 `translate/` 一致。
 
 ---
 
@@ -181,9 +196,14 @@ Steam 版 `amrts.exe`，imagebase `0x400000`。**换 exe 版本需重新定位�
 
 ---
 
-## 校对贡献与 PS2 移植参考
+## 贡献者
 
-[木下萌子 / MoekoSama](https://github.com/MoekoSama) 提供了单位术语校对与 PS2 移植调查，使用 Codex 辅助实现、GPT-6 Luna 辅助校对。详见[本次修订与验证边界](docs/localization-review-2026-10-21.md)及[独立归档的 PS2 源码参考](ports/ps2/README.md)。PC 发布前需要根据新增“吉”字重新生成字体页和索引；本次没有修改 PC 插件或提交新二进制发布包。
+| 贡献者 | 内容 |
+|---|---|
+| [木下萌子 / MoekoSama](https://github.com/MoekoSama) | [PR #1](https://github.com/HaoJun0823/ArmyMenRTSCHS/pull/1)：5 处单位/建筑/人物术语校对（`dcdf0e9`），PS2 中文移植源码参考与验证边界记录（Codex 辅助实现、GPT-6 Luna 辅助术语校对） |
+
+术语修订的逐条依据与验证边界见[本次修订与验证边界](docs/localization-review-2026-10-21.md)，PS2 移植调查见[独立归档的 PS2 源码参考](ports/ps2/README.md)。
+本仓库已按新增"吉"字重新生成 87 页字库、`chs_index.bin` 与 `Resource_CHS\` 中文文本包；PC 插件源码未因此变更。
 
 ## 许可
 
