@@ -1,5 +1,16 @@
 # Army Men RTS 简体中文补丁
 
+> ⚠️ **使用前必读**
+>
+> 本补丁为个人非官方作品，**未获游戏官方授权**；安装会修改或注入游戏文件，
+> 可能与该游戏的用户协议（EULA）冲突。请自行判断是否可用，风险自担，
+> **安装前请备份存档与原始文件**。
+>
+> **禁止商业使用**；二次修改后分发，须公开源代码与改动记录，并保留原作者署名。
+> 作者不对使用后果承担责任，也不拥有本游戏及其原始素材的版权。
+> 完整条款见 [LICENSE](LICENSE)。
+
+
 《玩具兵大战 RTS》（Army Men RTS）Steam 版的非官方简体中文汉化补丁。
 
 运行时内存注入实现，**不修改 `amrts.exe`，一个字节都不改**。
@@ -207,7 +218,7 @@ Steam 版 `amrts.exe`，imagebase `0x400000`。**换 exe 版本需重新定位�
 
 ## 许可
 
-本汉化补丁：GPL-3.0-or-later（见 [LICENSE](LICENSE) 与 [LICENSES/GPLv3.txt](LICENSES/GPLv3.txt)）
+本汉化补丁：个人非官方作品，**禁止商业使用**。二次修改后再分发，须公开源代码与改动记录，并保留原作者署名。作者不对使用后果承担责任，也不拥有本游戏及其原始素材的版权。完整条款见 [LICENSE](LICENSE)。
 Ultimate ASI Loader：MIT License, Copyright (c) 2023 ThirteenAG（见 [LICENSES/ASILoader.txt](LICENSES/ASILoader.txt)）
 
 《Army Men RTS》(c) 2002 The 3DO Company. All rights reserved.
